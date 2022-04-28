@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '云安全知识库',
   tagline: '由火线安全构建，致力于云安全知识分享',
-  url: 'https://wiki.huoxian.cn',
+  url: 'https://cloudsec.huoxian.cn',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
