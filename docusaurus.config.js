@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'HXSecurity', // Usually your GitHub org/user name.
-  projectName: 'cloudsec-wiki', // Usually your repo name.
+  projectName: 'CloudSecWiki', // Usually your repo name.
 
   presets: [
     [
