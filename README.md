@@ -2,7 +2,7 @@
 ## 介绍
 CloudSecWiki 是由火线安全维护的一个面向云安全方向的知识文库，在 CloudSecWiki 中首次公开了由火线云安全实验室所制作的云服务攻防矩阵，之外还包含了多篇云安全原创文章以及云安全漏洞靶场。
 
-CloudSecWiki 地址：[github.com/HXSecurity/CloudSecWiki](https://github.com/HXSecurity/CloudSecWiki)
+CloudSecWiki 在线地址：[wiki.huoxian.cn](https://wiki.huoxian.cn)
 
 
 ## 本地部署方案

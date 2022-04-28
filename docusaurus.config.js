@@ -72,31 +72,31 @@ const config = {
           {
             type: 'doc',
             docId: 'matrix',
-            position: 'right',
+            position: 'left',
             label: '攻防矩阵',
           },
           {
             type: 'doc',
             docId: 'goat',
-            position: 'right',
+            position: 'left',
             label: '靶场',
           },
           {
             type: 'doc',
             docId: 'about',
-            position: 'right',
+            position: 'left',
             label: '关于',
           },
           {
             href: 'https://github.com/HXSecurity',
             label: 'GitHub',
-            position: 'right',
+            position: 'left',
           },
         ],
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} 火线安全`,
+        copyright: `Copyright © ${new Date().getFullYear()} Huoxian All rights reserved. | <a href="https://beian.miit.gov.cn/" target="_blank" data-v-124239aa>京ICP备20013659号</a> | 北京安全共识科技有限公司`,
       },
       prism: {
         theme: lightCodeTheme,
