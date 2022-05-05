@@ -28,4 +28,4 @@ jobs:
           access-key-secret: ${{ secrets.DONGTAI_OSS_ACCESS_KEY_SECRET }}
       - name: Push OSS
         run: |
-          ossutil cp -r build/ oss://cloudsec-huoxian-cn/
+          ossutil cp -rf build/ oss://cloudsec-huoxian-cn/
