@@ -9,7 +9,7 @@ CloudSecWiki 在线地址：[cloudsec.huoxian.cn](https://cloudsec.huoxian.cn)
 1.克隆项目到本地
 
 ```bash
-git clone https://github.com/HXSecurity/CloudSecWiki.git
+git clone https://github.com/HuoCorp/CloudSecWiki.git
 cd CloudSecWiki
 ```
 

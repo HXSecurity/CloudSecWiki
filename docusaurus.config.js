@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'HXSecurity', // Usually your GitHub org/user name.
+  organizationName: 'HuoCorp', // Usually your GitHub org/user name.
   projectName: 'CloudSecWiki', // Usually your repo name.
 
   presets: [
@@ -26,7 +26,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: function ({ locale, docPath }) {
-            return `https://github.com/HXSecurity/cloudsec-wiki/edit/main/docs/${docPath}`;
+            return `https://github.com/HuoCorp/cloudsec-wiki/edit/main/docs/${docPath}`;
           },
           showLastUpdateAuthor: false,
           showLastUpdateTime: false,
@@ -88,7 +88,7 @@ const config = {
             label: '关于',
           },
           {
-            href: 'https://github.com/HXSecurity',
+            href: 'https://github.com/HuoCorp',
             label: 'GitHub',
             position: 'left',
           },
