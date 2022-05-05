@@ -96,7 +96,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Huoxian All rights reserved. | <a href="https://beian.miit.gov.cn/" target="_blank" data-v-124239aa>京ICP备20013659号</a> | 北京安全共识科技有限公司`,
+        copyright: `Copyright © ${new Date().getFullYear()} Huoxian All rights reserved. | <a href="https://beian.miit.gov.cn/" target="_blank" data-v-124239aa>京ICP备20013659号-2</a> | 北京安全共识科技有限公司`,
       },
       prism: {
         theme: lightCodeTheme,
