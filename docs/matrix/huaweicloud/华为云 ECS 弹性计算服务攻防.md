@@ -12,9 +12,9 @@ id: huaweicloud_ecs
 
 ## 0x01、初始访问
 ### 1、元数据
-华为云元数据地址：http://169.254.169.254，需要注意直接访问是看不到openstack目录的，下面列举几个常见的目录
+华为云元数据地址：http://169.254.169.254 ，需要注意直接访问是看不到openstack目录的，下面列举几个常见的目录
 
-`
+```sh
 /latest/meta-data/local-ipv4 #用于查询弹性云服务器的固定IP地址。多网卡情况下，只显示主网卡的地址。
 /latest/meta-data/hostname #用于查询弹性云服务器的主机名称，后面会追加.novalocal后缀
 /latest/meta-data/instance-type #用于查询弹性云服务器的规格名称。 
@@ -23,7 +23,8 @@ id: huaweicloud_ecs
 /openstack/latest/meta_data.json  #用于查询弹性云服务器的元数据
 /openstack/latest/user_data  #用于查询弹性云服务器的自定义数据。
 /openstack/latest/network_data.json #查询弹性云服务器的网络信息，支持查询云服务器挂载的全部网卡的信息，包括网卡所在子网的DNS地址、网络带宽、网卡ID、网卡私有IP地址、网卡弹性公网IP地址、网卡的MAC地址。
-/openstack/latest/securitykey #获取临时的AK、SK`
+/openstack/latest/securitykey #获取临时的AK、SK
+```
 
 ### 2、凭证泄漏
 - 控制台账号密码泄露，例如登录控制台的账号密码（主账号异地登录需要验证码，IAM账号登录只需要用户名和密码）
