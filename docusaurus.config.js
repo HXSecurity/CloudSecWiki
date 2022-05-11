@@ -26,7 +26,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: function ({ locale, docPath }) {
-            return `https://github.com/HuoCorp/cloudsec-wiki/edit/main/docs/${docPath}`;
+            return `https://github.com/HuoCorp/CloudSecWiki/edit/main/docs/${docPath}`;
           },
           showLastUpdateAuthor: false,
           showLastUpdateTime: false,
