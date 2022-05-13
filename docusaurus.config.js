@@ -28,8 +28,8 @@ const config = {
           editUrl: function ({ locale, docPath }) {
             return `https://github.com/HuoCorp/CloudSecWiki/edit/main/docs/${docPath}`;
           },
-          showLastUpdateAuthor: false,
-          showLastUpdateTime: false,
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
           includeCurrentVersion: true,
         },
         theme: {
