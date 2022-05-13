@@ -83,6 +83,12 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'information',
+            position: 'left',
+            label: '每日云安全技术资讯',
+          },
+          {
+            type: 'doc',
             docId: 'about',
             position: 'left',
             label: '关于',
