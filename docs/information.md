@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 5 月
 
+### 20220516
+
+- Kubernetes 安全
+
+https://zone.huoxian.cn/d/1175-kubernetes
+
+- 云安全书籍推荐必读榜
+
+https://mp.weixin.qq.com/s/D6Z-x9nTlnnsEQpQQ3NTrw
+
+- 云上攻防二三事
+
+http://avfisher.win/archives/1331
+
+- 图解 Kubernetes Pod 如何获取 IP 地址
+
+https://mp.weixin.qq.com/s/LSsiEeZjBYPV1C--EwRRWw
+
+- 如何编译 Istio？
+
+https://jimmysong.io/blog/how-to-build-istio/
+
+- 如何消除Kubernetes中的证书错误配置？
+
+https://securityboulevard.com/2022/05/how-to-eliminate-certificate-misconfiguration-in-kubernetes/
+
+- 2022 年亚洲 BlackHat 大会的趋势--Kubernetes、云安全等
+
+https://sysdig.com/blog/blackhat-asia-2022-trends/
+
+
+
 ### 20220513
 
 - 如何保证Kubernetes中部署的安全？
