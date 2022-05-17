@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 5 月
 
+### 20220517
+
+- 重磅首发！火线安全发布《云安全攻防技术期刊》
+
+https://zone.huoxian.cn/d/1180
+
+- 微软云 LB、VNet 和 IM 攻防
+
+https://zone.huoxian.cn/d/1179-lbvnet-im
+
+- 平衡小团队的需求和云计算的可视性需求
+
+https://www.lacework.com/blog/balancing-small-team-demands-with-the-need-for-cloud-visibility/
+
+- 绕过AWS/Azure/GCP云WAF的乐趣
+
+https://infosecwriteups.com/module-1-introduction-pentesting-bypassing-cloud-waf-fun-profit-75f315951aa8
+
+- 类似CVE的云系统安全解决方案出现
+
+https://threatpost.com/cve-cloud-bug-system/179394/
+
+- 深入探究--保护云中的容器威胁
+
+https://threatpost.com/container_threats_cloud_defend/179452/
+
+- 加密技术如何帮助恢复云安全的完整性
+
+https://securityboulevard.com/2022/05/how-encryption-helps-restore-cloud-security-integrity/
+
+
+
 ### 20220516
 
 - Kubernetes 安全
