@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 5 月
 
+### 20220518
+
+- k8s安全基础学习笔记
+
+https://zone.huoxian.cn/d/1185-k8s
+
+- 特权容器设备挂载逃逸漏洞
+
+https://zone.huoxian.cn/d/1184
+
+- 2022年16个危险的云计算漏洞
+
+https://dataconomy.com/2022/05/cloud-computing-vulnerabilities/
+
+- 你的GCP桶中有多少是可以公开访问的？它可能比你想象的要多...
+
+https://blog.lightspin.io/gcp-buckets-publicly-accessible
+
+- Datadog 增强了对 K8S 的监控和安全性
+
+https://www.prnewswire.com/news-releases/datadog-enhances-monitoring-and-security-for-kubernetes-301547247.html
+
+- Tetragon - 基于内核层 eBPF 实现的运行时进程防护工具
+
+https://isovalent.com/blog/post/2022-05-16-tetragon
+
+- Oxeye提供CNAST工具以更好地保护微服务的安全
+
+https://containerjournal.com/features/oxeye-delivers-cnast-tool-to-better-secure-microservices/
+
+
+
 ### 20220517
 
 - 重磅首发！火线安全发布《云安全攻防技术期刊》
