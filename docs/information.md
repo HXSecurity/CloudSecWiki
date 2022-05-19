@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 5 月
 
+### 20220519
+
+- 云原生安全白皮书 v2 版本更新
+
+https://www.cncf.io/blog/2022/05/18/announcing-the-refreshed-cloud-native-security-whitepaper/
+
+- 用 Tracee 检测和分析 Apache Struts 的漏洞
+
+https://blog.aquasec.com/apache-struts-vulnerability-with-tracee
+
+- 初探eBPF
+
+https://mp.weixin.qq.com/s/GvWKY4M5YvorC4JF2ztUvQ
+
+- 在 Kubernetes 上部署 Secret 加密系统 Vault
+
+https://mp.weixin.qq.com/s/OVk39hmSjlgTSKwHb5G7gA
+
+- 风起云涌下的混合云管趋势预测
+
+https://www.infoq.cn/article/6vqgSEzh1ZXaTucSIUaZ?utm_source=rss&utm_medium=article
+
+- Deepfence 增加了管理服务以确保运行时环境的安全
+
+https://containerjournal.com/features/deepfence-adds-managed-service-to-secure-runtime-environments/
+
+
+
 ### 20220518
 
 - k8s安全基础学习笔记
