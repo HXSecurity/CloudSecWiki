@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 5 月
 
+### 20220520
+
+- 共享Cgroup容器逃逸漏洞
+
+https://zone.huoxian.cn/d/1188-cgroup
+
+- 通过实验理解"k8s的api聚合"
+
+https://zone.huoxian.cn/d/1193-k8sapi
+
+- 谷歌云 CLB 、VPC 和 IAM 服务攻防
+
+https://zone.huoxian.cn/d/1191-clb-vpc-iam-md
+
+- Kubernetes/GKE 环境中特权 Pod 被用于作为跳板实现提权
+
+https://security.googleblog.com/2022/05/privileged-pod-escalations-in.html
+
+- RSA创新沙盒盘点｜Cado Security——云原生取证和响应
+
+https://mp.weixin.qq.com/s/ATSanbUrGvOc2aEhOixXxg
+
+- 从0基础搭建K8s环境及K8s安全基础笔记
+
+https://mp.weixin.qq.com/s/21PTxhHKM57N_xagKTZ6rA
+
+- SUSE 将容器安全平台与 Rancher 集成在了一起
+
+https://containerjournal.com/features/suse-integrates-container-security-platform-with-rancher/
+
+
+
 ### 20220519
 
 - 云原生安全白皮书 v2 版本更新
