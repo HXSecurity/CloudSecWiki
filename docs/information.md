@@ -8,6 +8,42 @@ title: 每日云安全技术资讯
 
 ## 5 月
 
+### 20220523
+
+- k8s源码编译到远程调试笔记
+
+https://zone.huoxian.cn/d/1198-k8s
+
+- Lacework 深入研究 Kubernetes 安全问题
+
+https://containerjournal.com/features/lacework-dives-deeper-into-kubernetes-security/
+
+- 利用 Parallels Desktop 中的 Unbounded memcpy 漏洞逃逸
+
+https://blog.ret2.io/2022/05/19/pwn2own-2021-parallels-desktop-exploit/
+
+- Sigstore 着手确保云端原生供应链的安全
+
+https://containerjournal.com/features/sigstore-sets-out-to-secure-cloud-native-supply-chain/
+
+- Serverless 时代，这才是 Web 应用开发正确的打开方式
+
+https://www.infoq.cn/article/G6Ck2uC4vawOCGGLGExl
+
+- Solo.io 采用 Cilium 容器网络平台
+
+https://containerjournal.com/features/solo-io-embraces-cilium-container-networking-platform/
+
+- 从零开始的 Kubernetes 攻防
+
+https://github.com/neargle/my-re0-k8s-security
+
+- 左移只是安全软件交付的一部分
+
+https://sysdig.com/blog/shift-left-secure-software-delivery/
+
+
+
 ### 20220520
 
 - 共享Cgroup容器逃逸漏洞
