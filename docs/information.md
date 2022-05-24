@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 5 月
 
+### 20220524
+
+- 如何将 Emissary Ingress 与 OPA 结合起来？
+
+https://www.infracloud.io/blogs/emissary-ingress-opa-integration/
+
+- KubeCon + CloudNativeCon Europe 2022 视频
+
+https://shorturl.at/iAFK2
+
+- 用 CloudTrail 和 Sysdig 保护亚马逊 EC2 的安全
+
+https://malware.news/t/securing-amazon-ec2-with-cloudtrail-and-sysdig/60380
+
+- Fairwinds 融汇了 Kubernetes 的安全和治理
+
+https://containerjournal.com/features/fairwinds-melds-kubernetes-security-and-governance/
+
+- K8S源码编译到远程调试笔记
+
+https://mp.weixin.qq.com/s/w22Y-FAzdUm9ViV5oJHBXQ
+
+- 为 DevOps 流水线准备的 macOS 虚拟化工具
+
+https://mp.weixin.qq.com/s/7KPikDizV6WPhAwTFjtGCA
+
+- 如何从 Kubernetes 节点权限提升至集群管理员权限？
+
+https://github.com/neargle/my-re0-k8s-security/blob/main/paper/1.%E5%A6%82%E4%BD%95%E4%BB%8EKubernetes%E8%8A%82%E7%82%B9%E6%9D%83%E9%99%90%E6%8F%90%E5%8D%87%E8%87%B3%E9%9B%86%E7%BE%A4%E7%AE%A1%E7%90%86%E5%91%98%E6%9D%83%E9%99%90.md
+
+
+
 ### 20220523
 
 - k8s源码编译到远程调试笔记
