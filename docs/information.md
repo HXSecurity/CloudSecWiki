@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 5 月
 
+### 20220525
+
+- Proc 目录挂载逃逸漏洞
+
+https://zone.huoxian.cn/d/1204-proc
+
+- k8s提权漏洞之CVE-2018-1002105
+
+https://zone.huoxian.cn/d/1203-k8scve-2018-1002105
+
+- 了解容器安全 - 第一部分：安全漏洞
+
+https://containerjournal.com/features/understanding-container-security-part-one-security-gaps/
+
+- 云安全的困惑：哪些框架确实是有帮助的？
+
+https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/cloud-security%C2%A0confusion-which
+
+- Oracle 增加 Services 以加强云安全
+
+https://securityboulevard.com/2022/05/oracle-adds-services-to-strengthen-cloud-security/
+
+- 什么是云计算？
+
+https://securityboulevard.com/2022/05/what-is-cloud-computing/
+
+
+
 ### 20220524
 
 - 如何将 Emissary Ingress 与 OPA 结合起来？
