@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 5 月
 
+### 20220526
+
+- 火线沙龙第25期-云原生应用安全专场
+
+https://zone.huoxian.cn/d/1206-25
+
+- k8s常见组件配置不当利用记录
+
+https://zone.huoxian.cn/d/1207-k8s
+
+- 超过 38 万个开放的 Kubernetes API 服务器
+
+https://www.shadowserver.org/news/over-380-000-open-kubernetes-api-servers/
+
+- 自动化的 Azure 滥用研究 - 第一部分
+
+https://securityboulevard.com/2022/05/automating-azure-abuse-research-part-1/
+
+- 保护你的 AWS 环境安全的 6 个技巧
+
+https://securityboulevard.com/2022/05/6-tips-for-successfully-securing-your-aws-environment/
+
+- 了解容器安全 - 第二部分：安全建议
+
+https://containerjournal.com/features/understanding-container-security-part-two-security-recommendations/
+
+
+
 ### 20220525
 
 - Proc 目录挂载逃逸漏洞
