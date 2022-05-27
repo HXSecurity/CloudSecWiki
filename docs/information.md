@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 5 月
 
+### 20220527
+
+- k8s中各组件和kube apiserver通信时的认证和鉴权
+
+https://zone.huoxian.cn/d/1211-k8skube-apiserver
+
+- 火线安全云：企业邮箱网络钓鱼风险分析
+
+https://mp.weixin.qq.com/s/MU0zhINK7A6EpfhnayJiEQ
+
+- 9 个 CNCF的自动化和配置工具
+
+https://containerjournal.com/features/9-cncf-tools-for-automation-and-configuration/
+
+- Kubernetes ephemeral 容器安全
+
+https://www.cncf.io/blog/2022/05/24/kubernetes-ephemeral-container-security/
+
+- 与 Kubernetes admissions 控制器的新集成
+
+https://www.lacework.com/blog/new-integration-with-kubernetes-admissions-controller/
+
+- 公开未授权访问的 Kubernetes 集群安全性分析
+
+https://www.trendmicro.com/en_us/research/22/e/the-fault-in-our-kubelets-analyzing-the-security-of-publicly-exposed-kubernetes-clusters.html
+
+
+
 ### 20220526
 
 - 火线沙龙第25期-云原生应用安全专场
