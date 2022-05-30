@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 5 月
 
+### 20220530
+
+- 简单的k8s+istio环境搭建
+
+https://zone.huoxian.cn/d/1216-k8sistio
+
+-  lxcfs cgroup错误配置容器逃逸漏洞
+
+https://zone.huoxian.cn/d/1215-lxcfs-cgroup
+
+- 云服务安全漏洞汇总
+
+https://github.com/hashishrajan/cloud-security-vulnerabilities
+
+- Flux 的 KubeCon Europe 2022 总结
+
+https://www.cncf.io/blog/2022/05/27/fluxs-kubecon-europe-2022-wrap-up/
+
+- 腾讯云轻量服务器管理工具
+
+https://www.qqvps.com/d/1011
+
+- K8S 提权漏洞之 CVE-2018-1002105
+
+https://mp.weixin.qq.com/s/0f38L0Mp0tjy3xYeiboBdw
+
+- 还怕记不住 Kubectl 命令？K9s 太强大了
+
+https://mp.weixin.qq.com/s/U6VT8RrNH69E9Tf2VzOEcQ
+
+
+
 ### 20220527
 
 - k8s中各组件和kube apiserver通信时的认证和鉴权
