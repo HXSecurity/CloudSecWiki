@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 5 月
 
+### 20220531
+
+- Terraform 使用入门以及在云上攻防中的作用
+
+https://zone.huoxian.cn/d/1218-terraform
+
+- 火线沙龙第25期-云原生应用安全专场总结
+
+https://zone.huoxian.cn/d/1220-25
+
+- Wiz Research 发现了 Azure PostgreSQL 的一个租户隔离绕过漏洞
+
+https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/
+
+- K8S常见组件配置不当利用记录
+
+https://mp.weixin.qq.com/s/WA7Ivs6ULExwJcOH8tBICQ
+
+- 一文解读 Linux 主线内核首个原生支持容器镜像分发方案
+
+https://www.infoq.cn/article/r87UU5Po1rRojTGWCePo?utm_source=rss&utm_medium=article
+
+- 到底什么是云原生
+
+https://www.v2ex.com/t/856133
+
+
+
 ### 20220530
 
 - 简单的k8s+istio环境搭建
