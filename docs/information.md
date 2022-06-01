@@ -6,6 +6,40 @@ title: 每日云安全技术资讯
 
 # 2022 年
 
+## 6 月
+
+### 20220601
+
+- Kubernetes 时代的身份认证
+
+https://containerjournal.com/features/auth-in-the-age-of-kubernetes/
+
+- Shipa 模块暴露出 K8s 的安全和合规问题
+
+https://containerjournal.com/features/shipa-module-surfaces-k8s-security-and-compliance-issues/
+
+- 云安全的最佳实践
+
+https://medium.com/@anilozturk/cloud-security-ve-best-practicesleri-96652c799d3e
+
+- 如何在 K8s 中使用 Atomic Red Team 来测试Falco规则
+
+https://sysdig.com/blog/atomic-red-team-falco/
+
+- 云安全问题调查
+
+https://threatpost.com/security-turbulence-in-the-cloud-survey-says/179437/
+
+- 2022 云原生安全发展 24 个洞见
+
+https://mp.weixin.qq.com/s/IHKgW-fj0C-ohlXCPlW_KQ
+
+- T Wiki 云安全知识库 5 月份更新汇总
+
+https://mp.weixin.qq.com/s/AbSuuruKs_r7XKAbiLUdWQ
+
+
+
 ## 5 月
 
 ### 20220531
