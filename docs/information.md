@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220602
+
+- 《云原生安全技术规范》解读
+
+https://zone.huoxian.cn/d/1226
+
+- 挂载重写Cgroup devices.allow文件以访问设备进行逃逸
+
+https://zone.huoxian.cn/d/1227-cgroup-devicesallow
+
+- RSA创新沙盒盘点｜Lightspin——攻击者视角下的DevOps安全
+
+https://mp.weixin.qq.com/s/i0oexGa86qdtqKAzG3WCmg
+
+- 多云架构的利与弊
+
+https://www.cncf.io/blog/2022/06/01/multi-cloud-architecture-pros-and-cons/
+
+- 5 项策略帮助你构建一个更安全的云
+
+https://www.tripwire.com/state-of-security/security-data-protection/cloud/building-more-secure-cloud-strategies/
+
+- 网络安全网格：它是什么以及为什么你需要它
+
+https://securityboulevard.com/2022/05/cybersecurity-mesh-what-it-is-and-why-you-need-it/
+
+- 为什么云安全很重要，为什么你不能忽视它？
+
+https://www.zdnet.com/article/why-cloud-security-matters-and-why-you-cant-ignore-it/
+
+
+
 ### 20220601
 
 - Kubernetes 时代的身份认证
