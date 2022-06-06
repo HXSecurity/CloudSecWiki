@@ -1,5 +1,5 @@
 ---
-id: matrix
+id: articles
 sidebar_position: 1
 title: 攻防矩阵
 ---
