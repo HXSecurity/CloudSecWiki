@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220606
+
+- Kubernetes 时代的认证
+
+https://zone.huoxian.cn/d/1232-kubernetes
+
+- Istio 1.14 发布
+
+https://cloudnative.to/blog/istio-1-14-release/
+
+- 使用 XDR 为云原生服务提供终端保护
+
+https://containerjournal.com/features/endpoint-protection-for-cloud-native-workloads/
+
+- 云计算安全的新阶段：云上风险发现与治理
+
+https://mp.weixin.qq.com/s/sASdZQYmfQgKksmFB35kgg
+
+- 如何构建云安全策略
+
+https://securityboulevard.com/2022/06/how-to-build-a-cloud-security-strategy/
+
+- 构建安全的基础设施即代码的一些方法
+
+https://bridgecrew.io/blog/how-to-build-a-secure-iac-strategy/
+
+- K8s 的核心是 API 而非容器：从理论到 CRD 实践（2022）
+
+https://arthurchiao.art/blog/k8s-is-about-apis-zh/
+
+
+
 ### 20220602
 
 - 《云原生安全技术规范》解读
