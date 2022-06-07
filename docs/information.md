@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220607
+
+- 从云服务器 SSRF 漏洞到接管你的阿里云控制台
+
+https://zone.huoxian.cn/d/1237-ssrf
+
+- 基于IAP的对GCP私有堡垒和API的访问
+
+https://www.padok.fr/en/blog/iap-gcp-bastion-apis
+
+- 身份访问管理的攻击路径，第一部分：自动化账户
+
+https://securityboulevard.com/2022/06/managed-identity-attack-paths-part-1-automation-accounts/
+
+- 实战阿里云OSS云攻防
+
+https://forum.butian.net/share/1615
+
+- 数据科学家应该了解的Kubernetes的内容
+
+https://containerjournal.com/features/what-data-scientists-should-know-about-kubernetes/
+
+- Google 宣布 2021 年 GCP VRP 奖的获奖者
+
+https://security.googleblog.com/2022/06/announcing-winners-of-2021-gcp-vrp-prize.html
+
+- 9 个月节省 4.23 亿：由 AWS EC2 迁移 Kubernetes
+
+https://mp.weixin.qq.com/s/B2o5n6A4O2d20tNnHPNDUQ
+
+
+
 ### 20220606
 
 - Kubernetes 时代的认证
