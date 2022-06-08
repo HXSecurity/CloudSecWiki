@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220608
+
+- 使用cdk进行容器环境信息探测
+
+https://zone.huoxian.cn/d/1242-cdk
+
+- Serverless应用安全浅谈
+
+https://zone.huoxian.cn/d/1241-serverless
+
+- 从云服务器 SSRF 漏洞到接管你的阿里云控制台
+
+https://mp.weixin.qq.com/s/fsFsirCK2_11V2wv2vTbTQ
+
+- K8s 软件供应链攻击的现状
+
+https://containerjournal.com/features/the-state-of-k8s-software-supply-chain-attacks/
+
+- 2022 年如何对 Kubernetes 进行安全加固
+
+https://www.cncf.io/blog/2022/06/07/how-to-security-harden-kubernetes-in-2022/
+
+- 身份访问管理的攻击路径，第二部分：逻辑应用
+
+https://securityboulevard.com/2022/06/managed-identity-attack-paths-part-2-logic-apps/
+
+- 2022云原生安全发展24个洞见
+
+https://www.freebuf.com/articles/network/334834.html
+
+
+
 ### 20220607
 
 - 从云服务器 SSRF 漏洞到接管你的阿里云控制台
