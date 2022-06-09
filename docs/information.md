@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220609
+
+- 云上的灰色地带--由云服务提供商安装的秘密 agents 软件
+
+https://www.wiz.io/blog/the-cloud-gray-zone-secret-agents-installed-by-cloud-service-providers/
+
+- 畅聊云原生|如何应对云原生应用安全防护风险
+
+https://mp.weixin.qq.com/s/6SZ7d65myyazZJ2zaEVfCQ
+
+- 前沿研究 | 云原生服务风险测绘分析（五）：Etcd
+
+https://mp.weixin.qq.com/s/Aj7SoZWDeafX1B_V1dV76w
+
+- 身份访问管理的攻击路径，第三部分：函数应用
+
+https://securityboulevard.com/2022/06/managed-identity-attack-paths-part-3-function-apps/
+
+- 云原生安全和可观察性的综合方法
+
+https://www.metasecure.ai/blog/an-integrated-approach-to-cloud-native-security-and-observability
+
+- 使用 CloudTrail 渗透 AWS 账户
+
+https://bishopfox.com/blog/using-cloudtrail-to-pivot-to-aws-accounts
+
+
+
 ### 20220608
 
 - 使用cdk进行容器环境信息探测
