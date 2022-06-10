@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220610
+
+- ServerLess Aws Lambda攻击与横向方法研究
+
+https://zone.huoxian.cn/d/1244-serverless-aws-lambda
+
+- 云原生安全和可观察性的综合方法
+
+https://zone.huoxian.cn/d/1246
+
+- 到 2023 年，大部分的应用程序将使用云原生开发
+
+https://containerjournal.com/features/majority-of-apps-will-use-cloud-native-development-by-2023/
+
+- Amazon EKS 对比 Azure Kubernetes 服务
+
+https://www.trendmicro.com/en_us/devops/22/f/amazon-eks-vs-azure-kubernetes-service-aks.html
+
+- 打破金融行业的多云障碍
+
+https://www.cncf.io/blog/2022/06/09/breaking-the-multi-cloud-barrier-in-a-regulated-industry/
+
+- 金融“云化”时代，如何筑牢云原生基石
+
+https://www.4hou.com/posts/2JvW
+
+- 新一代更强大的镜像构建工具 Earthly
+
+https://mp.weixin.qq.com/s/LreTTuQkcvWUgWReg8lcVQ
+
+
+
 ### 20220609
 
 - 云上的灰色地带--由云服务提供商安装的秘密 agents 软件
