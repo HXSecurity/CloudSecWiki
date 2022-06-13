@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220613
+
+- 使用 CloudTrail 横向 AWS 账户
+
+https://zone.huoxian.cn/d/1248-cloudtrail-aws
+
+- K8s 污点容忍度横向主节点
+
+https://zone.huoxian.cn/d/1251-k8s
+
+- K8s 中使用 Ingress 时的小技巧
+
+https://zone.huoxian.cn/d/1250-k8singress
+
+- 金融“云化”时代，如何筑牢云原生基石
+
+https://www.4hou.com/posts/2JvW
+
+- 深入浅出eBPF: 你要了解的7个核心问题
+
+https://mp.weixin.qq.com/s/ZeXS-Rsr_B86efXDpDGCbw
+
+- 如何优雅保护 Kubernetes 中的 Secrets
+
+https://mp.weixin.qq.com/s/8e8ZLSvFcxuH9XJofu1tcw
+
+
+
 ### 20220610
 
 - ServerLess Aws Lambda攻击与横向方法研究
