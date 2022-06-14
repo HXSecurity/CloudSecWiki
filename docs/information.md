@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220614
+
+- apisix安全评估
+
+https://zone.huoxian.cn/d/1256-apisix
+
+- 浅识k8s中的"准入控制器"
+
+https://zone.huoxian.cn/d/1255-k8s
+
+- 公开的 Travis CI 日志仍然使用户暴露在网络攻击之下
+
+https://blog.aquasec.com/travis-ci-security
+
+- 云原生爱好者周刊：利用 DNS 计算圆周率
+
+https://mp.weixin.qq.com/s/PJ3wqKxlDuBaUwYsOg_TjQ
+
+- 如何防范私有云中的安全风险
+
+https://mp.weixin.qq.com/s/4Porg35SDaJEPNoG__PhTA
+
+- 基于AutoTagging技术实践 构建统一的可观测性数据平台
+
+https://mp.weixin.qq.com/s/3n5TmJseYKOT-mz2TeETng
+
+
+
 ### 20220613
 
 - 使用 CloudTrail 横向 AWS 账户
