@@ -4,13 +4,11 @@ sidebar_position: 1
 title: 靶场
 ---
 
-靶场项目地址为：[https://github.com/HuoCorp/TerraformGoat](https://github.com/HuoCorp/TerraformGoat)
-
 # TerraformGoat
 
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue)](https://github.com/HuoCorp/TerraformGoat/blob/main/LICENSE) [![GitHub release](https://img.shields.io/github/release/HuoCorp/TerraformGoat.svg)](https://github.com/HuoCorp/TerraformGoat/releases) [![Github Stars](https://img.shields.io/github/stars/HuoCorp/TerraformGoat)](https://github.com/HuoCorp/TerraformGoat/stargazers) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/HuoCorp/TerraformGoat/pulls) [![tweet](https://img.shields.io/twitter/url?url=https://github.com/HuoCorp/TerraformGoat)](https://twitter.com/intent/tweet/?text=TerraformGoat%20is%20HuoCorp%20research%20lab's%20%22Vulnerable%20by%20Design%22%20multi%20cloud%20deployment%20tool.%20Check%20it%20out%20https%3A%2F%2Fgithub.com%2FHuoCorp%2FTerraformGoat%0A%23TerraformGoat%20%23Terraform%20%23Cloud%20%23Security%20%23cloudsecurity)
 
-[English](./README.md) | 中文
+TerraformGoat 靶场项目地址为：[https://github.com/HuoCorp/TerraformGoat](https://github.com/HuoCorp/TerraformGoat)
 
 TerraformGoat 是一个支持多云的云场景漏洞靶场搭建工具，目前支持阿里云、腾讯云、华为云、Amazon Web Services、Google
 Cloud Platform、Microsoft Azure 六个云厂商的云场景漏洞搭建。
@@ -165,7 +163,7 @@ docker rm $(docker ps -a -q -f "name=terraformgoat*")
 docker rmi $(docker images -a -q -f "reference=registry.cn-beijing.aliyuncs.com/huoxian_pub/terraformgoat*")
 ```
 
-## ⚠️ 注意事项
+## :exclamation:注意事项
 
 1. 在每个漏洞环境的 README 中都是在 TerraformGoat 容器环境内执行的，因此需要先部署 TerraformGoat 容器环境。
 2. 由于部分靶场存在云上内网横向的风险，因此强烈建议用户使用自己的测试账号配置靶场，避免使用生产环境的云账号，使用 Dockerfile 安装 TerraformGoat 也是为了将用户本地的云厂商令牌和测试账号的令牌进行隔离。
