@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220615
+
+- 绕过K8s RBAC - 窃取token（权限提升）
+
+https://zone.huoxian.cn/d/1257-cdk
+
+- 云原生容器安全|容器运行时高级威胁的分析与检测实战
+
+https://www.4hou.com/posts/q8Yy
+
+- 云安全书籍推荐必读榜
+
+https://www.4hou.com/posts/0D4G
+
+- AWS 错误配置
+
+https://dhiyaneshgeek.github.io/cloud/security/2022/06/15/aws-misconfigurations/
+
+- EC2 上的安全 SSH：真正的威胁是什么？
+
+https://sysdig.com/blog/aws-secure-ssh-ec2-threats/
+
+- 云原生术语表——中文版上线！ 
+
+https://www.cncf.io/blog/2022/06/14/cloud-native-glossary-the-chinese-version-is-live/
+
+- 用软件物料清单寻找漏洞
+
+https://security.googleblog.com/2022/06/sbom-in-action-finding-vulnerabilities.html
+
+
+
 ### 20220614
 
 - apisix安全评估
