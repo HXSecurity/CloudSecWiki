@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220616
+
+- ServerLess Aws Lambda攻击方法研究的副本
+
+https://www.anquanke.com/post/id/274143
+
+- 从云服务器 SSRF 漏洞到接管你的阿里云控制台
+
+https://www.anquanke.com/post/id/274073
+
+- Terraform 使用入门以及在云上攻防中的作用
+
+https://xz.aliyun.com/t/11440
+
+- 如何使用k0otkit对Kubernetes集群进行渗透测试
+
+https://www.freebuf.com/articles/container/335941.html
+
+- 平台工程中的十大谬论
+
+https://www.cncf.io/blog/2022/06/15/the-top-10-fallacies-in-platform-engineering/
+
+- 平台团队规模化运营 Kubernetes 的六个要点
+
+https://containerjournal.com/features/six-keys-for-platform-teams-to-operate-kubernetes-at-scale/
+
+- 在 Follina 和 Azure 问题之后，对微软漏洞做法的争论不断
+
+https://therecord.media/debate-rages-over-microsoft-vulnerability-practices-after-follina-azure-issues/
+
+
+
 ### 20220615
 
 - 绕过K8s RBAC - 窃取token（权限提升）
