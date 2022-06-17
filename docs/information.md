@@ -8,6 +8,42 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220617
+
+- 存储桶上传策略和签名 URL的绕过及利用
+
+https://zone.huoxian.cn/d/1262-url
+
+- 在AWS上使用MFA钓鱼用户
+
+https://zone.huoxian.cn/d/1263-awsmfa
+
+- K8s提权之RBAC权限滥用
+
+https://zone.huoxian.cn/d/1264-k8srbac
+
+- 云原生时代来临，云安全技术将何去何从？
+
+https://www.aqniu.com/industry/84650.html
+
+- Cloud I Hack into Google Cloud
+
+https://mp.weixin.qq.com/s/qXYkarSVVTpYLx9zwt0UjA
+
+- 4 个云应用安全最佳实践
+
+https://securityboulevard.com/2022/06/4-cloud-application-security-best-practices/
+
+- 使用 HashiCorp Vault 保护 Kubernetes 的敏感信息
+
+https://www.infracloud.io/blogs/kubernetes-secrets-hashicorp-vault/
+
+- 在 AWS 中，将支持 MFA 的 IAM 用户与 IAM 角色进行关联，以实现潜在的权限升级
+
+https://www.praetorian.com/blog/stsgetsessiontoken-role-chaining-in-aws/
+
+
+
 ### 20220616
 
 - ServerLess Aws Lambda攻击方法研究的副本
