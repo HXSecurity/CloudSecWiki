@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220620
+
+- CVE-2022-25165：AWS VPN 客户端中的 SYSTEM 权限提升
+
+https://zone.huoxian.cn/d/1266-cve-2022-25165aws-vpn-system
+
+- 在AWS中，将支持MFA的IAM用户与IAM角色链接起来，以实现潜在的权限升级
+
+https://zone.huoxian.cn/d/1267-awsmfaiamiam
+
+- k8s之apiserver组件风险
+
+https://zone.huoxian.cn/d/1269-k8sapiserver
+
+- Google Cloud Shell容器逃逸漏洞浅析
+
+https://mp.weixin.qq.com/s/jt1uds30qUDg2sq1qg7eHg
+
+- 安全 101：云原生虚拟补丁
+
+https://www.trendmicro.com/en_us/devops/22/f/cloud-native-virtual-patching-101.html
+
+- 存储桶上传策略和签名 URL的绕过及利用
+
+https://www.anquanke.com/post/id/275054
+
+- 云安全的责任共担模型问题
+
+https://orca.security/resources/blog/cloud-security-shared-responsibility-model-problem/
+
+
+
 ### 20220617
 
 - 存储桶上传策略和签名 URL的绕过及利用
