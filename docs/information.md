@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220621
+
+- 对泄露的Azure存储密钥的挖掘和利用
+
+https://zone.huoxian.cn/d/1272-azure
+
+- 两张思维导图，帮你理清 K8s 中 Pod 的 phase 和 conditions
+
+https://mp.weixin.qq.com/s/f6vKgBBuMaO5mVYDbhQl1w
+
+- RSAC议题解读｜真实云安全事件复盘与思考
+
+https://mp.weixin.qq.com/s/DKWsbQsqy_2K23dvBGmSFw
+
+- 滥用 TYK 云 API 管理来隐藏你的恶意 C2 流量
+
+https://shells.systems/oh-my-api-abusing-tyk-cloud-api-management-service-to-hide-your-malicious-c2-traffic/
+
+- 企业需要了解的云中容器威胁
+
+https://containerjournal.com/features/container-threats-in-the-cloud-what-enterprises-need-to-know/
+
+- 在你的内部 AD 和 Azure 环境中建立安全边界
+
+https://securityboulevard.com/2022/06/establish-security-boundaries-in-your-on-prem-ad-and-azure-environment/
+
+
+
 ### 20220620
 
 - CVE-2022-25165：AWS VPN 客户端中的 SYSTEM 权限提升
