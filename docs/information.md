@@ -8,6 +8,23 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220622
+
+- AWS Lambda 函数 URL的安全建设 
+https://zone.huoxian.cn/d/1281-aws-lambda-url
+- Azure PostgreSQL中的跨账户数据库漏洞
+https://zone.huoxian.cn/d/1280-azure-postgresql
+- 在 Kubernetes 中提升权限的 10 种方法
+https://blog.lightspin.io/kubernetes-pod-privilege-escalation
+- 云横向移动：突破易受攻击的容器
+Cloud lateral movement: Breaking in through a vulnerable container | Sysdig
+- Linux 内核中的 CVE-2022-0185 可以允许 Kubernetes 中的容器逃逸
+https://blog.aquasec.com/cve-2022-0185-linux-kernel-container-escape-in-kubernetes
+- Azure：突发事件：CVE-2022-29972 （Azure Synapse 服务中的租户分离不足）
+https://msrc-blog.microsoft.com/2022/05/09/vulnerability-mitigated-in-the-third-party-data-connector-used-in-azure-synapse-pipelines-and-azure-data-factory-cve-2022-29972/
+
+
+
 ### 20220621
 
 - 对泄露的Azure存储密钥的挖掘和利用
