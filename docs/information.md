@@ -8,19 +8,82 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
-### 20220622
+### 20220624
+
+- 同花顺：Azure Functions中的权限提升 - 火线 Zone-云安全社区
+
+https://zone.huoxian.cn/d/1295-azure-functions
+
+- AWS RDS 漏洞导致 AWS 内部服务凭证泄露 - 火线 Zone-云安全社区
+
+https://zone.huoxian.cn/d/1293-aws-rds-aws
+
+- Google Cloud Platform中的权限提升——第 1 部分 (IAM) - 火线 Zone-云安全社区
+
+https://zone.huoxian.cn/d/1289-google-cloud-platform-1-iam
+
+- 云服务枚举 - AWS, Azure and GCP | NotSoSecure
+
+https://notsosecure.com/cloud-services-enumeration-aws-azure-and-gcp
+
+- 在 AWS Elastic Beanstalk 中的 SSRF利用 | 不那么安全
+
+https://notsosecure.com/exploiting-ssrf-aws-elastic-beanstalk
+
+- 实战阿里云OSS云攻防
+
+https://forum.butian.net/share/1615
+
+
+
+### 20220623
+
+- 超过 380 000 个开放的 Kubernetes API 服务器 
+
+https://www.shadowserver.org/news/over-380-000-open-kubernetes-api-servers/
+
+- 6 种常见的 Kubernetes 和容器攻击技术以及如何预防它们
+
+https://www.paloaltonetworks.com/blog/prisma-cloud/6-common-kubernetes-attacks/
+
+- 什么是S3存储桶以及如何访问
+
+https://blog.lightspin.io/how-to-access-aws-s3-buckets
+
+- 您有多少 GCP 存储桶可公开访问？ 可能比你想象的要多…
+
+[How many of your GCP buckets are publicly accessible? It might be more than you think...](https://blog.lightspin.io/gcp-buckets-publicly-accessible)
+
+- Amazon Redshift - 复制风险
+
+[Amazon Redshift - COPY The Risk](https://blog.lightspin.io/aws-redshift-security-risk)
+
+
+
+###  20220622
 
 - AWS Lambda 函数 URL的安全建设 
+
 https://zone.huoxian.cn/d/1281-aws-lambda-url
+
 - Azure PostgreSQL中的跨账户数据库漏洞
+
 https://zone.huoxian.cn/d/1280-azure-postgresql
+
 - 在 Kubernetes 中提升权限的 10 种方法
+
 https://blog.lightspin.io/kubernetes-pod-privilege-escalation
+
 - 云横向移动：突破易受攻击的容器
-Cloud lateral movement: Breaking in through a vulnerable container | Sysdig
+
+[Cloud lateral movement: Breaking in through a vulnerable container | Sysdig](https://sysdig.com/blog/lateral-movement-cloud-containers/)
+
 - Linux 内核中的 CVE-2022-0185 可以允许 Kubernetes 中的容器逃逸
+
 https://blog.aquasec.com/cve-2022-0185-linux-kernel-container-escape-in-kubernetes
+
 - Azure：突发事件：CVE-2022-29972 （Azure Synapse 服务中的租户分离不足）
+
 https://msrc-blog.microsoft.com/2022/05/09/vulnerability-mitigated-in-the-third-party-data-connector-used-in-azure-synapse-pipelines-and-azure-data-factory-cve-2022-29972/
 
 
