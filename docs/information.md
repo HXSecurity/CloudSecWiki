@@ -8,6 +8,42 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220627
+
+- 你的GCP桶中有多少是可以公开访问的？它可能比你想象的要多...
+
+https://zone.huoxian.cn/d/1298-gcp
+
+- 通过错误配置的 AWS Cognito 接管 AWS 帐户
+
+https://zone.huoxian.cn/d/1297-aws-cognito-aws
+
+- CVE-2022-25165：AWS VPN 客户端中的 SYSTEM 权限提升
+
+https://mp.weixin.qq.com/s/IN8c4Iqi3pbuw36S4w6N0A
+
+- 4 个用于管理密钥的 CNCF 项目
+
+https://containerjournal.com/features/4-cncf-projects-for-key-management/
+
+- 如果在 K8s 上运行不受信任的容器
+
+https://www.cncf.io/blog/2022/06/23/how-to-run-untrusted-containers-in-kubernetes/
+
+- AWS 安全最佳实践
+
+https://securityboulevard.com/2022/06/aws-security-best-practices/
+
+- InfoQ 2022 年趋势报告：DevOps 与云计算篇
+
+https://www.infoq.cn/article/qrvLruwaMWIeoz2zbrdI
+
+- 云主机 AKSK 泄露利用
+
+https://www.freebuf.com/articles/web/337129.html
+
+
+
 ### 20220624
 
 - 同花顺：Azure Functions中的权限提升 - 火线 Zone-云安全社区
