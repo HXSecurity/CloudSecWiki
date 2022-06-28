@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220628
+
+- 火线沙龙第26期-多云安全专场总结稿
+
+https://zone.huoxian.cn/d/1301-26
+
+- 虚拟机逃逸初探----2018rwctf_station-escape
+
+https://tttang.com/archive/1629/
+
+- Slim.AI 将容器自动化平台与 DevOps 工作流程相结合
+
+https://containerjournal.com/features/slim-ai-integrates-container-automation-platform-with-devops-workflows/
+
+- 如何使用 Prometheus 监控和排除 Fluentd 的故障
+
+https://sysdig.com/blog/fluentd-monitoring/
+
+- 实时动态认证--对OPAL的介绍
+
+https://www.cncf.io/blog/2022/06/27/real-time-dynamic-authorization-an-introduction-to-opal/
+
+- 采用网络安全工具的高效GRC
+
+https://www.cncf.io/blog/2022/06/27/efficient-grc-with-cybersecurity-tooling/
+
+- LambdaGuard：一款针对AWS无服务器环境安全的审计工具
+
+https://www.freebuf.com/articles/container/337204.html
+
+
+
 ### 20220627
 
 - 你的GCP桶中有多少是可以公开访问的？它可能比你想象的要多...
