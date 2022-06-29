@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220629
+
+- 在AWS Elastic Beanstalk 中从 SSRF到RCE
+
+https://zone.huoxian.cn/d/1303-aws-elastic-beanstalk-ssrfrce
+
+- 多云环境的风险发现
+
+https://zone.huoxian.cn/d/1305
+
+- Sysdig 增加了使容器运行时间不可变的能力
+
+https://containerjournal.com/features/sysdig-adds-ability-to-make-container-runtimes-immutable/
+
+- 如何用 Trivy 保证你的 Kubernetes 集群的安全
+
+https://blog.aquasec.com/kubernetes-cluster-security-with-trivy
+
+- 用 Sysdig 的 Drift Control 防止容器运行时攻击
+
+https://sysdig.com/blog/preventing-runtime-attacks-drift-control/
+
+- 通过 Fuzzing CNCF 全景图提高安全性
+
+https://www.cncf.io/blog/2022/06/28/improving-security-by-fuzzing-the-cncf-landscape/
+
+- CNCF 可观测性白皮书中文版
+
+https://mp.weixin.qq.com/s/2xt1kHqJ2Sj2c4u08d1ejA
+
+
+
 ### 20220628
 
 - 火线沙龙第26期-多云安全专场总结稿
