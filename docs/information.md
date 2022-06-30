@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 6 月
 
+### 20220630
+
+- 数字化时代云安全能力建设及趋势
+
+https://zone.huoxian.cn/d/1310
+
+- 云安全漏洞数据库
+
+https://www.cloudvulndb.org/
+
+- OSS任意文件上传的两个小TIPS
+
+https://www.t00ls.com/articles-66238.html
+
+- CloudGoat detection_evasion 场景：规避 AWS 安全响应检测
+
+https://rhinosecuritylabs.com/cloud-security/cloudgoat-detection_evasion-walkthrough/
+
+- IAM 在维护云安全方面的作用
+
+https://www.tripwire.com/state-of-security/security-data-protection/cloud/role-iam-maintaining-cloud-security/
+
+- 在 Azure Service Fabric 中存在 Linux 容器逃逸漏洞
+
+https://www.darkreading.com/remote-workforce/patch-now-linux-container-escape-flaw-azure-service-fabric
+
+- AzureRT：一款能够实现各种 Azure 红队技战术的 PowerShell 模块
+
+https://www.freebuf.com/articles/network/337101.html
+
+
+
 ### 20220629
 
 - 在AWS Elastic Beanstalk 中从 SSRF到RCE
