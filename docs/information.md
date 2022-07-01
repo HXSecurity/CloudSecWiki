@@ -6,6 +6,40 @@ title: 每日云安全技术资讯
 
 # 2022 年
 
+## 7 月
+
+### 20220701
+
+- 安全->云安全->多云安全
+
+https://zone.huoxian.cn/d/1315
+
+- AWS：CNAME 子域接管
+
+https://zone.huoxian.cn/d/1316-awscname
+
+- 用 EKS Anywhere (EKS-A) 裸机确保 Kubernetes 的安全
+
+https://blog.aquasec.com/amazon-eks-anywhere
+
+- 支持在裸机上部署的 Amazon EKS Anywhere 的安全问题发现
+
+https://sysdig.com/blog/adapting-security-to-amazon-eks-anywhere-on-bare-metal/
+
+- 如何在 Pod 安全策略失效后确保 Kubernetes Pods 的安全
+
+https://www.cncf.io/blog/2022/06/30/how-to-secure-kubernetes-pods-post-psps-deprecation/
+
+- Crawl, walk, run 执行你的 Iac 安全计划
+
+https://bridgecrew.io/blog/how-to-implement-an-infrastructure-as-code-security-program/
+
+- 基于云内核的未来云计算架构
+
+https://www.infoq.cn/article/d5o4dLSgqgqtOYkY2L8b
+
+
+
 ## 6 月
 
 ### 20220630
