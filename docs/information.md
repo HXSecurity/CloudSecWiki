@@ -8,6 +8,42 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220704
+
+- CVE-2022-25165：AWS VPN 客户端中的 SYSTEM 权限提升
+
+https://www.anquanke.com/post/id/275263
+
+- K8s提权之RBAC权限滥用
+
+https://xz.aliyun.com/t/11476
+
+- 关于 Docker 和 Kubernetes 的令人惊讶的事实
+
+https://www.keitaro.com/2022/07/01/surprising-facts-about-docker-and-kubernetes/
+
+- 利用 CIS 基准提高 Kubernetes 安全性的 3 种方法
+
+https://orca.security/resources/blog/cis-benchmarks-improve-kubernetes-security/
+
+- 云安全的责任共担模式问题
+
+https://orca.security/resources/blog/cloud-security-shared-responsibility-model-problem/
+
+- 微软云服务爆出 FabricScape 容器逃逸漏洞，攻击者可接管 Linux 集群
+
+https://www.infoq.cn/article/qs76Cw1kdxSw0AuDDbgJ
+
+- 免费指南：如何在 2022 年加强 Kubernetes 的安全性
+
+https://mp.weixin.qq.com/s/DXXmpD3DOsI_b0txpEWCbw
+
+- apisix安全评估
+
+https://mp.weixin.qq.com/s/3akg5WKWRTWc3aLaE1VDCg
+
+
+
 ### 20220701
 
 - 安全->云安全->多云安全
