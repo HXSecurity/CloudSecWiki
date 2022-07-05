@@ -8,6 +8,42 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220705
+
+- AWS：代理服务器上的远程代码执行
+
+https://zone.huoxian.cn/d/1323-awshackerone
+
+- 绕过Identity-Aware Proxy（身份感知代理） - Google Cloud 漏洞
+
+https://zone.huoxian.cn/d/1321-identity-aware-proxy-google-cloud
+
+- 云环境利用框架 CF
+
+https://github.com/teamssix/cf
+
+- 云计算成本优化终极指南
+
+https://mp.weixin.qq.com/s/xANwAODTcOh6RqWxLwzX0g
+
+- 云渗透测试工具排行榜
+
+https://bishopfox.com/blog/cloud-pen-testing-tools
+
+- k8s 安全文章系列
+
+https://github.com/champtar/blog
+
+- DevSecOps 的五个安全阶段
+
+https://www.hackerone.com/application-security/5-security-stages-devsecops-pipeline
+
+- CubeFS 进入 CNCF 孵化阶段，国产分布式存储的新里程碑！
+
+https://www.infoq.cn/article/xDMtUJC6EwCKhef6KKWK
+
+
+
 ### 20220704
 
 - CVE-2022-25165：AWS VPN 客户端中的 SYSTEM 权限提升
