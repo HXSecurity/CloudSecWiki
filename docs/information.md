@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220706
+
+- 利用SSRF漏洞滥用AWS元数据服务
+
+https://zone.huoxian.cn/d/1326-ssrfawscny
+
+- AWS IAM权限提升
+
+https://zone.huoxian.cn/d/1325-aws-iam
+
+- 浅谈云原生安全之CWPP
+
+http://blog.nsfocus.net/cloud-cwpp/
+
+- 攻击者如何利用暴露的 Prometheus 服务来利用 Kubernetes 集群
+
+https://sysdig.com/blog/exposed-prometheus-exploit-kubernetes-kubeconeu/
+
+- 使用 Google Workspace Groups 在 GKE 中配置 RBA
+
+https://www.infracloud.io/blogs/rbac-gke-google-workspace-groups/
+
+- 中国数据库市场格局
+
+https://mp.weixin.qq.com/s/ukpHepGh_DI2pis9M6xqJg
+
+- 专题·云安全将来时 | 中国云安全市场发展特点和热点技术
+
+https://mp.weixin.qq.com/s/C0vD3cVWvmZGOyUK8KtIwg
+
+
+
 ### 20220705
 
 - AWS：代理服务器上的远程代码执行
