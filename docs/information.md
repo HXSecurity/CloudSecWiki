@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220707
+
+- 中国云安全市场发展特点和热点技术
+
+https://www.wangan.com/p/7fy7f865f5f44eee
+
+- 作战图鉴：12大场景详述容器安全建设要求
+
+https://mp.weixin.qq.com/s/SoXtc35LlAXnkhFojUqD_w
+
+- 构建云原生网络的 7 个 CNCF 项目
+
+https://containerjournal.com/features/7-cncf-projects-for-building-cloud-native-networks/
+
+- Kubernetes NGINX Ingress Controller 中的新漏洞
+
+https://blog.lightspin.io/kubernetes-nginx-ingress-controller-vulnerabilities
+
+- 应对云安全挑战的 4 个最佳实践
+
+https://orca.security/resources/blog/cloud-security-challenges-best-practices/
+
+- 腾讯云原生数据库 TDSQL-C 架构探索和实践
+
+https://www.infoq.cn/article/yNUvfBo8I9YpvIXWHHhc
+
+
+
 ### 20220706
 
 - 利用SSRF漏洞滥用AWS元数据服务
