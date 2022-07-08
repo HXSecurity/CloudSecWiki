@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220708
+
+- Kubernetes NGINX Ingress Controller 中的新漏洞
+
+https://zone.huoxian.cn/d/1330-kubernetes-nginx-ingress-controller
+
+- 暴露 AWS 密钥的移动应用程序影响超过 1 亿用户的数据
+
+https://zone.huoxian.cn/d/1331-aws-1
+
+- 将 Docker 镜像安全扫描，添加到 CI/CD 管道
+
+https://mp.weixin.qq.com/s/S_0mQeGP6o0lncxeyOf2Eg
+
+- 使用 KubeEye 发现在 Kubernetes 上的各种问题
+
+https://github.com/kubesphere/kubeeye
+
+- Apiiro 将容器安全平台扩展至运行时环境
+
+https://containerjournal.com/features/apiiro-extends-container-security-platform-to-runtime-environments/
+
+- 8220 团队以新技术进行新的活动
+
+https://blog.aquasec.com/8220-gang-confluence-vulnerability-cve-2022-26134
+
+- YaRadare 在云原生工作负载中发现风险
+
+https://medium.com/deepfence-cloud-native-security/introducing-yaradare-2c2d903d28ef
+
+
+
 ### 20220707
 
 - 中国云安全市场发展特点和热点技术
