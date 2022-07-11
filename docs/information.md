@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220711
+
+- KubeCon会议：攻击者如何使用暴露的 Prometheus 服务器来利用 Kubernetes 集群
+
+https://zone.huoxian.cn/d/1333-kubecon-prometheus-kubernetes
+
+- 解读基于云的滥用 GitHub Action 和 Azure 虚拟机的挖矿行为
+
+https://www.trendmicro.com/en_us/research/22/g/unpacking-cloud-based-cryptocurrency-miners-that-abuse-github-ac.html
+
+- 安全是在云中构建的一个支柱，而不是唯一的一个支柱
+
+https://www.lacework.com/blog/security-is-one-pillar-of-building-in-the-cloud-not-the-only-one/
+
+- 安全可见性：云原生安全工具集中缺失的一环
+
+https://deepfence.io/security-observability-missing-link/
+
+- 10 个 CISO 的最佳实践
+
+https://orca.security/resources/blog/ciso-best-practices-cloud-security-reinvented/
+
+- 专题·云安全将来时 | 云安全的发展与未来趋势
+
+https://mp.weixin.qq.com/s/HfYuNQKtL-_rxTsYSSG_jA
+
+
+
 ### 20220708
 
 - Kubernetes NGINX Ingress Controller 中的新漏洞
