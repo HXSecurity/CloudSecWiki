@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220712
+
+- CF 云环境利用框架，一键化渗透云上内网
+
+https://zone.huoxian.cn/d/1336-cf
+
+- 命令行大全 & docker、containerd、ctr、crictl 的联系
+
+https://mp.weixin.qq.com/s/VgGLXJlG61meI_-h427zYA
+
+- Kubernetes 的 AWS IAM Authenticator 中的身份认证渗透
+
+https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator
+
+- 使用云日志检测 AWS 上的可疑活动
+
+https://sysdig.com/blog/detecting-suspicious-activity-on-aws-using-cloud-logs/
+
+- 案例研究：Apache DolphinScheduler 的云原生之路
+
+https://www.infoq.cn/article/ysqf8pBg813zH7qa7ajj
+
+- 云原生负载均衡器之 OpenELB 使用指南
+
+https://mp.weixin.qq.com/s/9uxSmtnL2WadYybCQzl_Fg
+
+
+
 ### 20220711
 
 - KubeCon会议：攻击者如何使用暴露的 Prometheus 服务器来利用 Kubernetes 集群
