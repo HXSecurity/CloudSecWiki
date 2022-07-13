@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220713
+
+- 赏金7千5百美元的Google 服务配置漏洞报告
+
+https://zone.huoxian.cn/d/1339-75cnygoogle
+
+- GitHub Actions 和 Azure 虚拟机正在被用于云挖矿
+
+https://www.freebuf.com/news/338920.html
+
+- 云安全的未来是云原生安全
+
+https://www.wangan.com/p/7fy7f82a6230864f
+
+- 如何用签名验证确保 Kubernetes 部署的安全
+
+https://sysdig.com/blog/secure-kubernetes-deployment-signature-verification/
+
+- 如何保证 Kubernetes Ingress 的安全？
+
+https://www.cncf.io/blog/2022/07/12/how-to-secure-kubernetes-ingress/
+
+- 网络犯罪分子出售你的密码而不是使用它们，这是懒惰还是聪明？
+
+https://www.lacework.com/blog/are-cybercriminals-lazy-or-brilliant-for-selling-your-passwords-instead-of-using-them/
+
+
+
 ### 20220712
 
 - CF 云环境利用框架，一键化渗透云上内网
