@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220714
+
+- 我用 CF 打穿了他的云上内网
+
+https://zone.huoxian.cn/d/1341-cf
+
+- 什么是可见性以及为什么它对云安全很重要
+
+https://www.lacework.com/blog/what-is-visibility-and-why-its-important-to-cloud-security/
+
+- 在这周二发布的 7 月份补丁中有大量的 Azure 和 Windows 问题
+
+https://news.sophos.com/en-us/2022/07/12/july-patch-tuesday-is-rich-in-azure-windows-issues/
+
+- 容器安全建设最佳实践系列-使用Kubernetes Audit日志发现集群风险与入侵
+
+https://www.anquanke.com/post/id/276426
+
+- 中间件的过去、现在和未来
+
+https://mp.weixin.qq.com/s/7mpiICiITa56tvN5O6Lwzw
+
+- 2022可信云•云原生安全标准评估体系解读
+
+https://www.secrss.com/articles/44634
+
+
+
 ### 20220713
 
 - 赏金7千5百美元的Google 服务配置漏洞报告
