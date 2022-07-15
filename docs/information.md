@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220715
+
+- 14 款 DevOps 顶级监控工具
+
+https://mp.weixin.qq.com/s/vRla3ZvVSXsMW2HmuZHDsg
+
+- 亚马逊云服务一行代码三个漏洞，潜伏五年
+
+https://www.secrss.com/articles/44699
+
+- K8s 选 cgroupfs 还是 systemd？这是一个问题
+
+https://mp.weixin.qq.com/s/sNfGBkLzgADiWZTonwFDHA
+
+- 5 个棘手的容器安全挑战
+
+https://containerjournal.com/features/5-tricky-container-security-challenges/
+
+- 在云中扩展？让 IaC 和 DevSecOps 来帮助你
+
+https://bridgecrew.io/blog/iac-devsecops-best-practices-secure-cloud-development-at-scale/
+
+- 创原会携手 50+ 云原生企业 共探跨越数字化鸿沟新模式
+
+https://www.infoq.cn/article/BPMSwzeGaDCVRvYs7bPt
+
+
+
 ### 20220714
 
 - 我用 CF 打穿了他的云上内网
