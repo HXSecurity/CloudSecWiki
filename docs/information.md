@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220718
+
+- 阿里云AK+SK泄露之STS(SecurityToken)如何利用
+
+https://zone.huoxian.cn/d/1347-akskstssecuritytoken/5
+
+- 云原生及其炒作
+
+https://medium.com/@perfectplan.b2016/cloud-native-and-its-hype-4a79e6d1ccf9
+
+- 云安全态势管理（CSPM）工具：终极指南
+
+https://ermetic.com/blog/cloud/cloud-security-posture-management-cspm-tools-the-ultimate-guide/
+
+- 成功保护你的 AWS 环境的 6 个技巧
+
+https://ermetic.com/blog/aws/6-tips-for-successfully-securing-your-aws-environment/
+
+- 亚马逊云服务一行代码三个漏洞，潜伏五年
+
+https://www.secrss.com/articles/44699
+
+- 云原生系统可组合性的商业价值
+
+https://www.infoq.cn/article/O1wF3pHpy0CGvAq4RUgG
+
+- Iac 所面临的 5 个挑战
+
+https://www.trendmicro.com/en_us/devops/22/g/infrastructure-as-code-iac-security.html
+
+
+
 ### 20220715
 
 - 14 款 DevOps 顶级监控工具
