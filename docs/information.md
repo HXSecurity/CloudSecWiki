@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220719
+
+- 在云 SQL 上获取 shell
+
+https://zone.huoxian.cn/d/1351-sqlshell
+
+- 在 Kubernetes 上实现零信任
+
+https://containerjournal.com/features/implementing-zero-trust-on-kubernetes/
+
+- 云原生时代，如何构建自己的 Serverless 平台
+
+https://mp.weixin.qq.com/s/hYirJJ_-ToWy_nqWntKl8g
+
+- 十大 Docker 最佳实践，望君遵守！！
+
+https://mp.weixin.qq.com/s/nQpMeL4h_AvpGRu-CjyYfA
+
+- ISO 27001的更新为云计算提供了标尺，帮助你建立安全实践
+
+https://www.lacework.com/blog/iso-27001-update-gives-a-cloud-callout-to-help-you-build-your-security-practice/
+
+- AWS、Azure 和 GCP：IAM 的终极比较
+
+https://ermetic.com/blog/cloud/aws-azure-and-gcp-the-ultimate-iam-comparison/
+
+
+
 ### 20220718
 
 - 阿里云AK+SK泄露之STS(SecurityToken)如何利用
