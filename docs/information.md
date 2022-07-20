@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220720
+
+- 刺穿云盔甲|Google云平台WAF中的8KB绕过
+
+https://zone.huoxian.cn/d/1353-googlewaf8kb
+
+- 彻底搞懂 Kubernetes 中的 Cgroup
+
+https://mp.weixin.qq.com/s/bgoFj-aZo-RMh2hR5h0zrA
+
+- 云安全访问代理 CASB
+
+https://www.crowdstrike.com/cybersecurity-101/cloud-security/cloud-access-security-broker-casb/
+
+- 微软在其阵容中加入了 "主权云"
+
+https://www.zdnet.com/article/microsoft-adds-cloud-for-sovereignty-to-its-line-up/
+
+- 黑客转向云存储服务，试图隐藏其攻击行为
+
+https://www.zdnet.com/article/hackers-turn-to-cloud-storage-services-in-attempt-to-hide-their-attacks/
+
+- 亚马逊 Aurora 支持 PostgreSQL 14
+
+https://www.infoq.cn/news/RLPcEcQQNxVTVRTXkhcT
+
+
+
 ### 20220719
 
 - 在云 SQL 上获取 shell
