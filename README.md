@@ -1,5 +1,5 @@
 # CloudSecWiki
-CloudSecWiki is a cloud security oriented knowledge base maintained by HuoCorp.
+CloudSecWiki is a cloud security oriented knowledge base maintained by selefra.
 
 CloudSecWiki web address：[cloudsec.huoxian.cn](https://cloudsec.huoxian.cn)
 
@@ -8,7 +8,7 @@ CloudSecWiki web address：[cloudsec.huoxian.cn](https://cloudsec.huoxian.cn)
 1. Cloning project to local
 
 ```bash
-git clone https://github.com/HuoCorp/CloudSecWiki.git
+git clone https://github.com/selefra/CloudSecWiki.git
 cd CloudSecWiki
 ```
 
