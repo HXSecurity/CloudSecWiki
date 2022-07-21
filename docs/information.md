@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220721
+
+- k8s 攻防之 etcd 数据库篇
+
+https://zone.huoxian.cn/d/1355-k8setcd
+
+- 对Kubernetes 的 AWS IAM Authenticator的身份验证利用
+
+https://zone.huoxian.cn/d/1356-kubernetes-aws-iam-authenticator
+
+- AWS EC2 Auto Scaling 提权
+
+https://notdodo.medium.com/aws-ec2-auto-scaling-privilege-escalation-d518f8e7f91b
+
+- CloudMensis macOS 间谍软件分析
+
+https://www.welivesecurity.com/2022/07/19/i-see-what-you-did-there-look-cloudmensis-macos-spyware/
+
+- 确保容器的规模安全
+
+https://containerjournal.com/features/securing-containers-at-scale/
+
+- 用 Tracee 和 eBPF 检测和捕获内核模块
+
+https://blog.aquasec.com/linux-security-with-tracee-and-ebpf
+
+- 检测云中威胁的最佳方法？
+
+https://medium.com/anton-on-security/the-best-way-to-detect-threats-in-the-cloud-2c0294a3ba36
+
+
+
 ### 20220720
 
 - 刺穿云盔甲|Google云平台WAF中的8KB绕过
