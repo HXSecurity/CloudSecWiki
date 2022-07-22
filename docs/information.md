@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 7 月
 
+### 20220722
+
+- 云安全的介绍：为什么它很重要以及它如何运作
+
+https://blog.lightspin.io/cloud-security/what-is-cloud-security
+
+- 以数据为中心的安全如何从基于云的分析中释放出价值
+
+https://insights.comforte.com/how-data-centric-security-unlocks-value-from-cloud-based-analytics
+
+- 身份和访问管理（IAM）策略失败的6个迹象及缓解策略
+
+https://mp.weixin.qq.com/s/Vhht6HWOWy-zNgjJtbvK_g
+
+- 有了SSRF，云就更有趣了
+
+https://spidersilk.com/news/cloud-is-more-fun-with-an-ssrf
+
+- 使用 Kubescape 和 kube-bench 确保 Kubernetes 集群的安全
+
+https://www.infracloud.io/blogs/securing-kubernetes-cluster-kubescape-kubebench/
+
+- 云安全配置管理（CSPM）工具指南
+
+https://ermetic.com/blog/cloud/cloud-security-posture-management-cspm-tools-the-ultimate-guide/
+
+
+
 ### 20220721
 
 - k8s 攻防之 etcd 数据库篇
