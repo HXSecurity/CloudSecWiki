@@ -6,7 +6,349 @@ title: 每日云安全技术资讯
 
 # 2022 年
 
+## 8月
+
+### 20220810
+
+- 云原生的碰撞：优秀的安全与云计算中心
+
+https://containerjournal.com/features/cloud-native-collision-security-cloud-coe/
+
+- 2022 年 7 大云攻击路径
+
+https://blog.lightspin.io/the-2022-top-7-cloud-attack-paths
+
+- 云安全所面临的挑战以及如何应对它们
+
+https://blog.lightspin.io/cloud-security/cloud-security-challenges
+
+- 云 DNS 安全 – 如何保护云中的 DNS
+
+https://sysdig.com/blog/dns-security-cloud-protection/
+
+-  网络安全红线及其对安全远程访问云的影响
+
+https://www.cncf.io/blog/2022/08/08/the-cybersecurity-poverty-line-and-its-impact-on-secure-remote-access-to-the-cloud/
+
+- 现实世界中安全漏洞的责任共担模型在哪里？
+
+https://medium.com/anton-on-security/where-does-shared-responsibility-model-for-security-breaks-in-the-real-world-970f7dad56f4
+
+- 2022 年 AWS 安全趋势：五个主题及其重要性
+
+https://www.praetorian.com/blog/aws-security-trends-of-2022/
+
+
+
+### 20220809
+
+- 云计算安全审计概览
+
+https://www.aqniu.com/industry/87185.html
+
+- 巧用 Prometheus 来扩展 Kubernetes 调度器
+
+https://mp.weixin.qq.com/s/uO2TVahlVOIu90MjO6rnkg
+
+- 浅谈当前云WAF应用的价值与不足
+
+https://www.aqniu.com/industry/87189.html
+
+- 迈向云时代，操作系统迎来新的发展格局
+
+https://cloudsec.tencent.com/info/jump.html?to=https://www.infoq.cn/article/sxHZLiyesCebPuodepzO
+
+- 推特零日漏洞遭利用， 540万个账户数据泄露
+
+https://mp.weixin.qq.com/s/ydK9MUaYq0hImvSxHkkDiA
+
+- SecXOps：打造安全分析自动化运营平台
+
+https://mp.weixin.qq.com/s/tKP0KRjBnFGoHOFJBqbqBw
+
+
+
+### 20220808
+
+- 分析Azure OMI中的提权漏洞CVE-2022-29149
+
+https://www.wiz.io/blog/omi-returns-lpe-technical-analysis/
+
+- 从勒索软件攻击者角度看公共云
+
+https://unit42.paloaltonetworks.com/ransomware-in-public-clouds/
+
+- 记5个基于ATT&CK的云原生攻击示例
+
+https://www.wangan.com/p/7fy78yea39e6abe8
+
+- 多云环境的威胁检测
+
+https://securityboulevard.com/2022/07/threat-detection-for-your-multi-cloud-environment/
+
+- 从云评估看云平台供应链安全
+
+https://www.wangan.com/p/7fy7f807d9416f34
+
+- 在日益增长的威胁环境中保护云安全
+
+https://securityintelligence.com/posts/securing-cloud-technology-growing-threat-landscape/
+
+
+
+### 20220805
+
+- 云原生时代下新安全范式的思考与应对
+
+https://cloudsec.tencent.com/info/jump.html?to=https://www.wangan.com/p/7fy78y8851c65540
+
+- 了解云原生网络对安全访问服务边缘的好处
+
+https://cloudsec.tencent.com/info/jump.html?to=https://www.wangan.com/p/7fy78y8dd8fb081f
+
+- 由浅入深详解 Kubernetes 中的选举机制
+
+https://cloudsec.tencent.com/info/jump.html?to=https://mp.weixin.qq.com/s/lSk01BqJoGzkwOglsdEDJg
+
+- 云的迅猛发展为云安全带来新的挑战
+
+https://cloudsec.tencent.com/info/jump.html?to=https://www.businesswire.com/news/home/20220803005760/en/Black-Hat-USA-Research-Supply-Chain-and-Cloud-Security-Risks-Are-Top-of-Mind
+
+- Black Hat USA Research：供应链和云安全风险是最重要的
+
+https://cloudsec.tencent.com/info/jump.html?to=https://virtualizationreview.com/webcasts/2022/08/modern-enterprise-cloud-security-summit-session-1.aspx?tc=page0
+
+- 云安全的未来
+
+https://cloudsec.tencent.com/info/jump.html?to=https://devops.com/the-future-of-cloud-security-tj-gonen-check-point-software/
+
+
+
+### 20220804
+
+- 与其他垂直行业相比，2022 年的制造业更容易受到云中账户泄露和供应链攻击的影响
+
+https://cloudsec.tencent.com/info/jump.html?to=https://www.darkreading.com/cloud/manufacturing-sector-in-2022-is-more-vulnerable-to-account-compromise-and-supply-chain-attacks-in-the-cloud-than-other-verticals
+
+- 身份、风险和多云环境
+
+https://cloudsec.tencent.com/info/jump.html?to=https://securityboulevard.com/2022/08/identities-risk-and-the-multi-cloud-environment/
+
+- 云安全的重要性以及企业如何享受它的好处
+
+https://cloudsec.tencent.com/info/jump.html?to=https://www.expresscomputer.in/cloud/the-significance-of-cloud-security-and-how-businesses-can-enjoy-its-benefits/88860/
+
+- 使用零信任工具保护容器
+
+https://containerjournal.com/features/securing-containers-with-zero-trust-tools/
+
+- 使用 Kubernetes 保护数据
+
+https://containerjournal.com/features/using-kubernetes-to-secure-data/
+
+- 威胁警报：云网络带宽现在通过 Cryptojacking 被盗
+
+https://blog.aquasec.com/cryptojacking-cloud-network-bandwidth
+
+
+
+### 20220803
+
+- 云安全自动化是减少修复时间的关键
+
+scmagazine.com/resource/cloud-security/cloud-security-automation-is-key-to-reducing-time-to-remediate
+
+- 记5个基于ATT&CK的云原生攻击示例
+
+https://www.wangan.com/p/7fy78yea39e6abe8
+
+- 在日益增长的威胁环境中保护云安全
+
+https://cloudsec.tencent.com/info/jump.html?to=https://securityintelligence.com/posts/securing-cloud-technology-growing-threat-landscape/
+
+- 云计算安全的新阶段：云上风险发现与治理
+
+https://cloudsec.tencent.com/info/jump.html?to=https://mp.weixin.qq.com/s/y5NRDQl6MUrxI2ZI1lCJPQ
+
+- 从勒索软件攻击者角度看公共云
+
+https://cloudsec.tencent.com/info/jump.html?to=https://unit42.paloaltonetworks.com/ransomware-in-public-clouds/
+
+- 超3200个应用程序泄露了 Twitter API 密钥
+
+https://cloudsec.tencent.com/info/jump.html?to=https://mp.weixin.qq.com/s/0zhu8d5v6LSey9UvkQIp6A
+
+
+
+### 20220802
+
+- CNCF 发布 Kubernetes 策略管理白皮书
+
+https://www.infoq.com/news/2022/07/cncf-policy-management/
+
+- 深度剖析 Apache EventMesh 云原生分布式事件驱动架构
+
+https://xie.infoq.cn/article/166f934380b81621d6949f6c8
+
+- Kubernetes 之父：他们现在在哪里？
+
+https://containerjournal.com/features/the-fathers-of-kubernetes-where-are-they-now/
+
+- Lili 使用 Wiz 提供的可见性实现 PCI DSS 合规性
+
+https://www.wiz.io/blog/lili-achieves-pci-dss-compliance-using-the-visibility-provided-by-wiz-2/
+
+- Mirantis 将 Lens Pro 版添加到 Kubernetes 的 IDE 产品组合中
+
+https://containerjournal.com/features/mirantis-adds-lens-pro-edition-to-ide-portfolio-for-kubernetes/
+
+- 容器即服务 (CaaS) 的增强保护 
+
+https://www.paloaltonetworks.com/blog/prisma-cloud/caas-enhancements-summer22/
+
+
+
+### 20220801
+
+- 对Kubernetes 的 AWS IAM Authenticator的身份验证利用
+
+https://mp.weixin.qq.com/s/PJ5YqSxHttgjKZXVkxqIcQ
+
+- 详细案例教会你如何在AWS中链接漏洞getshell和访问数据
+
+https://mp.weixin.qq.com/s/rI72ir5B52FmNTDC526LxA
+
+- 通过错误配置的 AWS Cognito 接管 AWS 帐户
+
+https://mp.weixin.qq.com/s/I6_omjXhrL84w3gbFYdw-Q
+
+- 多云环境的威胁检测
+
+[Threat detection for your multi-cloud environment](https://securityboulevard.com/2022/07/threat-detection-for-your-multi-cloud-environment/)
+
+- 40 张图 详解 Docker 容器监控
+
+https://mp.weixin.qq.com/s/CeTdXMKaFEt_w7rodqJ2zg
+
+- Top 7 Kubernetes 安全错误
+
+https://www.infoworld.com/article/3667277/7-biggest-kubernetes-security-mistakes.html
+
+
+
 ## 7 月
+
+### 20220729
+
+- Google Cloud JupyterLab的XSS到任意命令执行
+
+https://zone.huoxian.cn/d/2266-google-cloud-jupyterlabxss
+
+- 无处不在的 AWS IAM 角色，无处不在的 IAM 风险
+
+https://securityboulevard.com/2022/07/aws-iam-roles-anywhere-iam-risks-anywhere/
+
+- 记录一次逆向容器镜像的过程
+
+https://xz.aliyun.com/t/11262
+
+- 容器安全之CVE-2022-0185
+
+https://mp.weixin.qq.com/s/laNEglWo9GKeLKopkdVPlA
+
+- GKE容器逃逸到Shadow管理员
+
+https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/
+
+- CrowdStrike 推出基于云的威胁搜寻服务
+
+https://enterprisetalk.com/quick-bytes/crowdstrike-unveils-new-cloud-based-threat-hunting-service/
+
+
+
+### 20220728
+
+- lkm和ebpf rootkit分析的简要记录
+
+https://zone.huoxian.cn/d/2261-lkmebpf-rootkit
+
+- 为什么云存储服务是网络钓鱼攻击的主要目标
+
+[Why Online Storage Services Are Prime Targets for Phishing Attacks](https://www.itprotoday.com/attacks-and-breaches/why-online-storage-services-are-prime-targets-phishing-attacks)
+
+- 利用Google Cloud Identity Platform 中的弱配置
+
+[利用Google Cloud Identity Platform 中的弱配置](https://zone.huoxian.cn/d/2260-google-cloud-identity-platform)
+
+- 漏洞利用链 - 如何获得所有 Shopify 实例的 root 访问权限
+
+[漏洞利用链 - 如何获得所有 Shopify 实例的 root 访问权限](https://zone.huoxian.cn/d/2258-shopify-root)
+
+- CVE-2022-0847漏洞对容器环境影响的深度分析
+
+https://mp.weixin.qq.com/s/lxWylwK8yliuXVllD9oCfg
+
+- 浅析云原生应用安全组织架构
+
+https://www.4hou.com/posts/6VXN
+
+
+
+### 20220727
+
+- 从零开始的Kubernetes攻防
+
+https://github.com/neargle/my-re0-k8s-security
+
+- Kubernetes RBAC：如何通过证书签名避免权限提升
+
+[Kubernetes RBAC: How to Avoid Privilege Escalation via Certificate Signing](https://blog.aquasec.com/kubernetes-rbac-privilige-escalation)
+
+- Kubernetes集群的攻与防
+
+https://mp.weixin.qq.com/s/dWuFhHND3HmkyMFkJ6S4HQ
+
+- 浅谈 Kubernetes 安全风险
+
+https://mp.weixin.qq.com/s/IwmXoUTVUdDHGplUgOLdlg
+
+- Docker 那些事儿：如何安全地停止、删除容器？
+
+https://mp.weixin.qq.com/s/icwKcmiUMJcrK2QB8mnSJg
+
+- 详细案例教会你如何在AWS中链接漏洞getshell和访问数据
+
+https://zone.huoxian.cn/d/2196-awsgetshell
+
+
+
+### 20220725
+
+-  K8s的安全机制
+
+https://mp.weixin.qq.com/s?__biz=MzIxNTIzMzM1Ng==&mid=2651104364&idx=1&sn=a22dac0da090751552d46a8b622bfbbc&scene=21#wechat_redirect
+
+- 彻底搞懂 Kubernetes 中的 Cgroup
+
+https://mp.weixin.qq.com/s/bgoFj-aZo-RMh2hR5h0zrA
+
+- 云上攻击方法 让SSRF 更有趣
+
+https://spidersilk.com/news/cloud-is-more-fun-with-an-ssrf
+
+- eBPF for Security Observability
+
+https://speakerdeck.com/lizrice/ebpf-for-security-observability
+
+- 6种常见的Kubernetes和容器攻击技术以及如何防止它们
+
+https://www.paloaltonetworks.com/blog/prisma-cloud/6-common-kubernetes-attacks/
+
+- 云访问安全代理 (CASB)
+
+https://mp.weixin.qq.com/s/YTITEF6cgF47ygb2c6wqbw
+
+
 
 ### 20220722
 
