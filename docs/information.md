@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 8月
 
+### 20220811
+
+- 骚操作！居然能修改已运行的 Docker 容器端口映射？
+
+https://mp.weixin.qq.com/s/SUzGObH1XtIJisZCb8OWqw
+
+- Google Cloud Shell - 命令注入
+
+https://bugra.ninja/posts/cloudshell-command-injection/
+
+- 什么是攻击路径以及它如何帮助识别风险？
+
+https://blog.lightspin.io/cloud-security/attack-path
+
+- Cryptominer 检测：一种机器学习方法
+
+https://sysdig.com/blog/how-train-crypto-miner-detection-model/
+
+- 降低误用 AWS IAM 用户访问密钥带来的风险
+
+https://ermetic.com/blog/aws/reducing-the-risk-from-misused-aws-iam-user-access-keys/
+
+- 使用 Dependency-Track 管理漏洞
+
+https://www.infracloud.io/blogs/manage-vulnerabilities-dependency-track/
+
+
+
 ### 20220810
 
 - 云原生的碰撞：优秀的安全与云计算中心
