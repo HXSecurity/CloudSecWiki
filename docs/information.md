@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 8月
 
+### 20220812
+
+- AWS、Splunk 和 Symantec 牵头成立 OCSF 开放网络安全架构框架
+
+https://www.cnbeta.com/articles/tech/1303143.htm
+
+- OCSF 承诺推进网络安全数据共享
+
+https://securityboulevard.com/2022/08/ocsf-promises-to-advance-cybersecurity-data-sharing/
+
+- NSA 的 Kubernetes 加固指南与 Pod 安全
+
+https://containerjournal.com/features/nsas-kubernetes-hardening-guidelines-and-pod-security/
+
+- 云安全最佳实践
+
+https://blog.lightspin.io/cloud-security/cloud-security-best-practices
+
+- 经验分享：Docker安全的26项检查清单（checklist）
+
+https://mp.weixin.qq.com/s/fD1LNJ0n2fOFR2WIPF2Mcw
+
+- 云计算隔离问题：PostgreSQL 的漏洞影响到多个云计算供应商
+
+https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities
+
+- 一提到合规的话题就感到无聊？你不是一个人
+
+https://www.lacework.com/blog/sleeping-through-aws-cloud-compliance-meetings-you-are-not-alone/
+
+
+
 ### 20220811
 
 - 骚操作！居然能修改已运行的 Docker 容器端口映射？
