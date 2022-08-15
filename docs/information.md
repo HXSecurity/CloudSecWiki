@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 8月
 
+### 20220815
+
+- "容器逃逸失败"案例分析
+
+https://zone.huoxian.cn/d/2302
+
+- AWSGoat - AWS 靶场
+
+https://github.com/ine-labs/AWSGoat
+
+- Blackhat 2022 回顾：趋势和亮点
+
+https://sysdig.com/blog/blackhat-2022-recap/
+
+- 云原生安全白皮书 1.0 版有声读物发布
+
+https://www.cncf.io/blog/2022/08/12/cloud-native-security-whitepaper-version-1-0-audiobook-release/
+
+- 事件驱动的架构和安全方面的影响
+
+https://www.trendmicro.com/en_us/devops/22/h/event-driven-architecture-security.html
+
+- 确保你向混合云的迁移
+
+https://threatpost.com/secure-move-cloud/180335/
+
+- 想了解你的云就需要知道什么是正常的、什么是不正常的
+
+https://www.lacework.com/blog/knowing-your-cloud-is-knowing-whats-normaland-whats-not/
+
+
+
 ### 20220812
 
 - AWS、Splunk 和 Symantec 牵头成立 OCSF 开放网络安全架构框架
