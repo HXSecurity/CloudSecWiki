@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 8月
 
+### 20220816
+
+- 什么是云访问安全代理 CASB？
+
+https://www.wiz.io/academy/what-is-a-cloud-access-security-broker-casb
+
+- 2022 年的 AWS 安全趋势：五个主题以及为什么它们很重要
+
+https://www.praetorian.com/blog/aws-security-trends-of-2022/
+
+- 访问密钥：Azure 存储账户数据的意外后门设计
+
+https://ermetic.com/blog/azure/access-keys-an-unintended-backdoor-by-design-to-azure-storage-accounts-data/
+
+- GCP IAM 中基本角色的高级风险
+
+https://ermetic.com/blog/gcp/the-advanced-risk-of-basic-roles-in-gcp-iam/
+
+- 6 张图详解 Docker 容器网络配置
+
+https://mp.weixin.qq.com/s/uU_8IkQRUM9hbAU3XYExrw
+
+
+
 ### 20220815
 
 - "容器逃逸失败"案例分析
