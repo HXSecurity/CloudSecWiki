@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 8月
 
+### 20220817
+
+- 浅谈云上攻防系列——云IAM原理&风险以及最佳实践
+
+https://mp.weixin.qq.com/s/Yemzqd-TEfzjrCIyS0I_2A
+
+- Kubernetes 1.25 – 有什么新功能？
+
+https://sysdig.com/blog/kubernetes-1-25-whats-new/
+
+- 【云攻防系列】玩转eBPF---关于内核运行时安全的那些事儿
+
+https://mp.weixin.qq.com/s/AYRoWbqwRyxlmUCLGoL7DQ
+
+- 混合云安全介绍
+
+https://www.crowdstrike.com/cybersecurity-101/cloud-security/hybrid-cloud-security/
+
+- 创建数据丢失预防策略的9个步骤
+
+https://sonraisecurity.com/blog/data-loss-prevention-policy/
+
+- 基础设施即代码：常见的安全风险和如何防止它们的发生
+
+https://orca.security/resources/blog/infrastructure-as-code-common-risks/
+
+
+
 ### 20220816
 
 - 什么是云访问安全代理 CASB？
