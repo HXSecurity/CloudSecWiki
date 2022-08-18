@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 8月
 
+### 20220818
+
+- 谷歌云又一个服务被扼杀，这次是 IoT Core
+
+https://www.infoq.cn/news/1UwW0fMPkfIeGmvGv59s
+
+- 现在你可以用 Trivy 扫描你的 AWS 服务的安全问题了
+
+https://blog.aquasec.com/now-you-can-scan-your-aws-services-for-security-issues-with-trivy
+
+- 云采用中零信任的 5 个阶段
+
+https://www.securitymagazine.com/articles/98180-5-phases-of-zero-trust-in-cloud-adoption
+
+- 一个面对 "左移安全 "难题的真实案例
+
+https://ermetic.com/blog/cloud/facing-the-shift-left-security-conundrum-a-true-story/
+
+- 2022年AWS re:Inforce 的最重要主题
+
+https://www.lacework.com/blog/the-most-important-theme-from-aws-reinforce-2022/
+
+- 3 个云数据安全最佳实践
+
+https://orca.security/resources/blog/cloud-data-security-best-practices/
+
+
+
 ### 20220817
 
 - 浅谈云上攻防系列——云IAM原理&风险以及最佳实践
