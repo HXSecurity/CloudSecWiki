@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 8月
 
+### 20220822
+
+- 聊一聊基于"ebpf xdp"的rootkit
+
+https://zone.huoxian.cn/d/2307-ebpf-xdprootkit
+
+- 几乎一半的企业难以控制云成本
+
+https://www.cloudcomputing-news.net/news/2022/aug/18/almost-half-of-businesses-struggle-to-control-cloud-costs/
+
+- 如何加密 AWS EBS 卷
+
+https://kloudle.com/academy/how-to-encrypt-an-aws-ebs-volume
+
+- 只有不到四分之一的组织有 DevSecOps 策略
+
+https://www.scmagazine.com/news/cloud-security/fewer-than-one-quarter-of-organizations-have-a-devsecops-strategy
+
+- 什么是 CSPM？它为什么如此重要？
+
+https://blog.lightspin.io/cloud-security/cspm
+
+- 云容器是裹着糖衣的威胁吗？
+
+https://www.4hou.com/posts/oJ83
+
+
+
 ### 20220818
 
 - 谷歌云又一个服务被扼杀，这次是 IoT Core
