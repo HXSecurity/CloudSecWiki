@@ -8,6 +8,66 @@ title: 每日云安全技术资讯
 
 ## 8月
 
+### 20220824
+
+- 让你的应急响应团队为容器事件做好准备
+
+https://containerjournal.com/features/preparing-your-incident-response-team-for-container-incidents/
+
+- SaaS 行业的六大安全问题
+
+https://www.kratikal.com/blog/saas-based-industry/
+
+- 什么是 Azure 治理及其管理领域？
+
+https://sonraisecurity.com/blog/what-is-azure-governance/
+
+- 如何避免 AWS Lambda 风险
+
+https://sonraisecurity.com/blog/aws-lambda-security-best-practices/
+
+- S3 定位的最新趋势
+
+https://www.lacework.com/blog/recent-trends-in-s3-targeting/
+
+- 亚马逊云科技宣布 Lambda 分级定价
+
+https://www.infoq.cn/article/0tVa0oXspxw2F7jJR1eC
+
+- 黑客通过在 AWS 上构建网络钓鱼页面来窃取凭证
+
+https://www.scmagazine.com/news/cloud-security/hackers-steal-credentials-by-building-phishing-pages-on-aws
+
+
+
+### 20220823
+
+- 17 张图实战 + 理清 K8S 网络排错思路，硬核！
+
+https://mp.weixin.qq.com/s/c1Oz63iQ7Zt0KPFpizwGwA
+
+- Consul 1.13 正式发布，包括这些重大更新
+
+https://mp.weixin.qq.com/s/rhu_bq5yNUbP9e-2AG0zTg
+
+- 学习 Kubernetes 和 Docker 的实用指南，今天就开始吧!
+
+https://www.keitaro.com/2022/08/18/a-practical-guide-to-learning-kubernetes-docker-get-started-today/
+
+- 云原生容器的未来将何去何从？
+
+https://www.infoq.cn/article/FgogdjehRCRt9QjD4fMG
+
+- 谷歌管理的服务账户的默认角色中隐藏风险
+
+https://ermetic.com/blog/gcp/hidden-risk-in-the-default-roles-of-google-managed-service-accounts/
+
+- AWS、谷歌云和 Azure：它们的安全功能比较
+
+https://www.csoonline.com/article/3621608/aws-google-cloud-platform-and-azure-how-their-security-features-compare.html
+
+
+
 ### 20220822
 
 - 聊一聊基于"ebpf xdp"的rootkit
