@@ -8,6 +8,62 @@ title: 每日云安全技术资讯
 
 ## 8月
 
+### 20220826
+
+- Kubernetes 更新至 1.25 版本，更加关注安全和存储问题
+
+https://containerjournal.com/features/kubernetes-1-25-update-focuses-on-security-and-storage/
+
+- 优化开发人员的体验对 K8s 安全的影响
+
+https://containerjournal.com/features/optimizing-developer-impact-on-k8s-security/
+
+- 什么是 CI/CD 安全？以及它们的重要性
+
+https://blog.lightspin.io/devsecops/ci-cd-security
+
+- 什么是Kubernetes CrashLoopBackOff ？以及如何修复它
+
+https://sysdig.com/blog/debug-kubernetes-crashloopbackoff/
+
+- 谷歌为云安全服务提供策划的检测结果
+
+https://securityboulevard.com/2022/08/google-brings-curated-detections-to-cloud-security-service/
+
+- 2022 年的首要云安全挑战
+
+https://www.lacework.com/blog/the-top-cloud-security-challenges-in-2022/
+
+
+
+### 20220825
+
+- BlackHat 上的 Recon.Cloud：为所有人提供更好、更快、更免费的云资产搜索
+
+https://blog.lightspin.io/recon.cloud-at-black-hat-better-faster-and-free-cloud-reconnaissance-for-all
+
+- 用 AWS Lambda 和 IAM 解锁 Serverless
+
+https://www.trendmicro.com/en_us/devops/22/h/serverless-aws-lambda-iam-tutorial.html
+
+- Kubernetes 安全态势管理（KSPM）详解
+
+https://orca.security/resources/blog/kubernetes-security-posture-management-kspm/
+
+- 云原生发展近 10 年 ，SUSE 观察到了什么？
+
+https://www.infoq.cn/article/2fHFRAFOYTE5QZaXbU43
+
+- 解读云安全缩略词
+
+https://www.scmagazine.com/resource/cloud-security/infographic-decoding-cloud-security-acronyms
+
+- 云应用安全
+
+https://www.crowdstrike.com/cybersecurity-101/cloud-security/cloud-application-security/
+
+
+
 ### 20220824
 
 - 让你的应急响应团队为容器事件做好准备
