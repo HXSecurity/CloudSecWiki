@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 8月
 
+### 20220829
+
+- 云数据管理能力 (CDMC) 框架：面临的挑战和最佳实践
+
+https://cybersecurity.att.com/blogs/security-essentials/cloud-data-management-capabilities-cdmc-framework-the-challenges-best-practices
+
+- 利用零信任原则保障 Kubernetes 环境访问安全
+
+https://www.infoq.cn/article/ZjHZmjMXuUwSDubtjEa0
+
+- Terraform 与 CloudFormation：哪个更适合您？
+
+https://thenewstack.io/terraform-vs-cloudformation-which-is-better-for-you/
+
+- 美国陆军表示将在未来一年内取得云迁移及其应用领域突破
+
+https://www.secrss.com/articles/46289
+
+- 身份治理和管理（IGA）：是否足够？
+
+https://sonraisecurity.com/blog/identity-governance-administration/
+
+- 云安全的 5 大挑战
+
+https://www.scmagazine.com/resource/cloud-security/infographic-5-challenges-for-cloud-security
+
+
+
 ### 20220826
 
 - Kubernetes 更新至 1.25 版本，更加关注安全和存储问题
