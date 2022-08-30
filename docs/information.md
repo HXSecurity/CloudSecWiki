@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 8月
 
+### 20220830
+
+- Nobelium 黑客利用管理员凭证进行攻击
+
+https://sonraisecurity.com/blog/nobelium-hackers-bypass-admin-credentials/
+
+- 【云攻防系列】从攻击者视角聊聊K8S集群安全（上）
+
+https://xz.aliyun.com/t/11652
+
+- KCon议题讲解——进退维谷：runC的阿克琉斯之踵
+
+https://mp.weixin.qq.com/s/YYc0usJUuFwewBEUZ3vC6w
+
+- 云基础设施授权管理（CIEM）解释
+
+https://www.crowdstrike.com/cybersecurity-101/cloud-security/cloud-infrastructure-entitlement-management-ciem/
+
+- 2022 年 Equinix 云转型大会：关键要点
+
+https://www.cloudcomputing-news.net/news/2022/aug/25/equinix-cloud-transformation-conference-2022-the-key-takeaways/
+
+- 限制对你的 RDS 快照的访问
+
+https://kloudle.com/academy/restricting-access-to-your-rds-snapshots
+
+
+
 ### 20220829
 
 - 云数据管理能力 (CDMC) 框架：面临的挑战和最佳实践
