@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 8月
 
+### 20220831
+
+- 应对当前修补容器漏洞的挑战
+
+https://toddysm.com/2022/08/23/addressing-the-curent-challenges-of-patching-container-vulnerabilities/
+
+- 【云攻防系列】从攻击者视角聊聊K8S集群安全（下）
+
+https://mp.weixin.qq.com/s/pyg6ipGgGW0GMvtBQ-GbgQ
+
+- 在生产中采用的 26 个 AWS 安全最佳实践
+
+https://sysdig.com/blog/26-aws-security-best-practices/
+
+- 为什么在任何地方注意 AWS IAM 角色很重要
+
+https://ermetic.com/blog/aws/why-its-important-to-take-notice-of-aws-iam-roles-anywhere/
+
+- AWS Lambda 中不安全的反序列化行为
+
+https://www.contrastsecurity.com/security-influencers/insecure-deserialization-in-aws-lambda
+
+- 金融科技公司如何保护消费者的信任，从云开始
+
+https://www.lacework.com/blog/how-fintech-companies-can-protect-consumer-trust-starting-with-the-cloud/
+
+- 如何自定义您的 PCI 合规框架
+
+https://orca.security/resources/blog/customize-pci-compliance-framework/
+
+
+
 ### 20220830
 
 - Nobelium 黑客利用管理员凭证进行攻击
