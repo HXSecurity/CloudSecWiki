@@ -6,6 +6,30 @@ title: 每日云安全技术资讯
 
 # 2022 年
 
+## 9 月
+
+### 20220901
+
+- 微软 Azure 故障导致 Ubuntu 虚拟机脱机
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-outage-knocks-ubuntu-vms-offline-after-buggy-update/
+
+- AWS 的事件响应
+
+https://www.chrisfarris.com/post/aws-ir/
+
+- 自动化的 Azure 滥用研究--第二部分
+
+https://posts.specterops.io/automating-azure-abuse-research-part-2-3e5bbe7a20c0
+
+- 为什么云数据库需要在你的技术栈中？
+
+https://thenewstack.io/why-cloud-databases-need-to-be-in-your-tech-stack/
+
+- 采用服务网格的 6 大好处？
+
+https://mp.weixin.qq.com/s/C0pLSurasF4Xp7el2O3_og
+
 ## 8月
 
 ### 20220831
