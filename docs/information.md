@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220902
+
+- 什么是最小权限原则？为什么它如此重要？
+
+https://blog.lightspin.io/devsecops/principle-of-least-privilege
+
+- 真实世界的云攻击：缓解云计算勒索的真正方法
+
+https://www.darkreading.com/cloud/real-world-cloud-attacks-true-tasks-of-cloud-ransomware-mitigation
+
+- 亚马逊云科技：安全工作好比消防，与其去救火，不如防患于未然
+
+https://www.infoq.cn/article/mJxWq8XfDBHGfdefkawS
+
+- Confidential Computing 能为 Kubernetes 社区做什么？
+
+https://www.cncf.io/blog/2022/08/31/what-can-confidential-computing-do-for-the-kubernetes-community/
+
+- Docker 的 health 健康状态检查
+
+https://mp.weixin.qq.com/s/kXjQ2WWZbiQ_xZZb2VcRSQ
+
+- VMware 旨在通过新技术重新定义多云网络和安全性
+
+https://www.cloudcomputing-news.net/news/2022/sep/01/vmware-aims-to-redefine-multi-cloud-networking-and-security-with-new-tech/
+
+
+
 ### 20220901
 
 - 微软 Azure 故障导致 Ubuntu 虚拟机脱机
