@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220905
+
+- 安全管理向云端转移
+
+https://securityboulevard.com/2022/09/security-management-shifting-to-the-cloud-techstrong-tv/
+
+- BPF 进阶笔记（五）：几种 TCP 相关的 BPF（sockops、struct_ops、header options）
+
+https://arthurchiao.art/blog/bpf-advanced-notes-5-zh/
+
+- 公有云攻防系列——云服务利用篇
+
+https://mp.weixin.qq.com/s/zw9nGP9-czU2aPrpVa6wkg
+
+- Azure Synapse：Spark 中的本地权限提升漏洞
+
+https://orca.security/resources/blog/synapse-local-privilege-escalation-vulnerability-spark/
+
+- Azure 身份治理和安全
+
+https://sonraisecurity.com/blog/azure-identity-governance-security/
+
+
+
 ### 20220902
 
 - 什么是最小权限原则？为什么它如此重要？
