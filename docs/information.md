@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220906
+
+- 浅谈云原生BAS
+
+https://mp.weixin.qq.com/s/vp14doFQzEHn1DJA05oSLQ
+
+- 深入了解 Distroless
+
+https://iximiuz.com/en/posts/containers-distroless-images/
+
+- 什么是云加密？
+
+https://www.crowdstrike.com/cybersecurity-101/cloud-security/cloud-encryption/
+
+- Azure 云安全工具简介
+
+https://sonraisecurity.com/blog/an-introduction-to-azure-cloud-security-features/
+
+- 我，PolarDB云原生数据库，5年来实现这些重磅技术创新
+
+https://mp.weixin.qq.com/s/Q-G3-x33tPgxW2ANdaYeBA
+
+- 火线Zone助力 ｜这场零信任攻防赛，有点不一样！邀攻击选手报名参赛
+
+https://mp.weixin.qq.com/s/t1yNNR4potK3MUF9xf3nnA
+
+
+
 ### 20220905
 
 - 安全管理向云端转移
