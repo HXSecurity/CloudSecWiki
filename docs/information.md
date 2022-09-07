@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220907
+
+- AWS 安全组指南
+
+https://sysdig.com/blog/aws-security-groups-guide/
+
+- 多云安全：要考虑的关键事项
+
+https://www.rebellionresearch.com/multi-cloud-security-key-things-to-consider
+
+- 2 分钟测试 Kubernetes Pod 安全
+
+https://www.cncf.io/blog/2022/09/06/the-2-minute-test-for-kubernetes-pod-security/
+
+- 云中之战：防止 DDoS 攻击
+
+https://securityboulevard.com/2022/09/battle-in-the-cloud-preventing-ddos-attacks/
+
+- AWSGoat：对 AWS 云解决方案进行渗透测试
+
+https://www.infoq.cn/article/MV5Lp3yF1d3ewP1MPD9w
+
+- 如何限制对你的公开访问的 RDS 实例的访问
+
+https://kloudle.com/academy/how-to-restrict-access-to-your-publicly-accessible-rds-instance
+
+
+
 ### 20220906
 
 - 浅谈云原生BAS
