@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220908
+
+- 百万级服务器护航经验沉淀，腾讯安全《云上安全攻防实战手册》发布
+
+https://mp.weixin.qq.com/s/G4vp5GNoqPTQeMIGzaYdtw
+
+- 为了保护云原生 API，避免过度宽松的状态
+
+https://containerjournal.com/features/to-protect-cloud-native-apis-avoid-overly-permissive-states/
+
+- 96% 的人本可以防止他们的身份泄露 - IDSA
+
+https://ermetic.com/blog/cloud/96-of-organizations-could-have-prevented-their-identity-breach-idsa-report-2022/
+
+- 基于云的文件系统作为勒索软件防御
+
+https://securityboulevard.com/2022/09/cloud-based-file-systems-as-a-ransomware-defense/
+
+- CIEM vs CWPP vs CSPM
+
+https://www.trendmicro.com/en_us/devops/22/i/ciem-vs-cwpp-vs-cspm.html
+
+- 记一次地级市某行业专项攻防演练
+
+https://forum.butian.net/share/1854
+
+
+
 ### 20220907
 
 - AWS 安全组指南
