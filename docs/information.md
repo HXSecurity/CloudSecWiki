@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220909
+
+- AWS KMS 完整指南
+
+https://blog.lightspin.io/the-complete-guide-to-aws-kms
+
+- 走向成熟的KubeEdge边缘网络项目EdgeMesh详解
+
+https://mp.weixin.qq.com/s/VzvxugdizNIg9GVE-ybUew
+
+- 如何加强你的 Azure 云安全性
+
+https://sonraisecurity.com/blog/azure-cloud-security/
+
+- VMware 在 VMware vSphere 8 中采用 Kubernetes API
+
+https://containerjournal.com/features/vmware-embraces-kubernetes-apis-in-vmware-vsphere-8/
+
+- CF 云环境利用框架更新至 v0.4.0 版本
+
+https://mp.weixin.qq.com/s/lSpNCnKRYY6w02JTbMvzEA
+
+- 5 个巩固 Kubernetes 安全性的实用技巧
+
+https://www.lacework.com/blog/5-practical-tips-to-lock-up-your-kubernetes-security/
+
+
+
 ### 20220908
 
 - 百万级服务器护航经验沉淀，腾讯安全《云上安全攻防实战手册》发布
