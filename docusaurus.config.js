@@ -13,7 +13,7 @@ const config = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'selefra', // Usually your GitHub org/user name.
+    organizationName: 'HXSecurity', // Usually your GitHub org/user name.
     projectName: 'CloudSecWiki', // Usually your repo name.
 
     presets: [
@@ -26,7 +26,7 @@ const config = {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
                     editUrl: function({ locale, docPath }) {
-                        return `https://github.com/selefra/CloudSecWiki/edit/main/docs/${docPath}`;
+                        return `https://github.com/HXSecurity/CloudSecWiki/edit/main/docs/${docPath}`;
                     },
                     showLastUpdateAuthor: true,
                     showLastUpdateTime: true,
@@ -93,7 +93,7 @@ const config = {
                     label: '关于',
                 },
                 {
-                    href: 'https://github.com/selefra',
+                    href: 'https://github.com/HXSecurity',
                     label: 'GitHub',
                     position: 'left',
                 },
