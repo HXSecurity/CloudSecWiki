@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220913
+
+- 如何使用洞态 IAST 高效的审计漏洞与 SQL 注入 Bypass 和 CVE 申请
+
+https://zone.huoxian.cn/d/2552-iastsqlbypasscve
+
+- eBPF Uprobe 的实现以及如何逃逸 Uprobe 监控
+
+https://blog.quarkslab.com/defeating-ebpf-uprobe-monitoring.html
+
+- NSA 为 Kubernetes 提出的三个主要安全建议
+
+https://containerjournal.com/features/nsa-wants-strong-kubernetes-authentication-and-authorization/
+
+- 云安全态势管理 CSPM 的演进
+
+https://sonraisecurity.com/blog/the-evolution-of-cloud-security-posture-management/
+
+- 云安全软件开发人员的崛起
+
+https://securityboulevard.com/2022/09/the-rise-of-software-developers-in-cloud-security/
+
+- 零信任对 Kubernetes 意味着什么？
+
+https://www.infoq.cn/article/R4ZfdijOEfQqg9muFlGS
+
+
+
 ### 20220909
 
 - AWS KMS 完整指南
