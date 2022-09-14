@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220914
+
+- 记录一次平平无奇的云上攻防过程
+
+https://zone.huoxian.cn/d/2557
+
+- centos7使用kubeadm安装kubernetes集群
+
+https://zone.huoxian.cn/d/2554-centos7kubeadmkubernetes
+
+- K8s 安全的未来之路：消除常设特权
+
+https://containerjournal.com/features/the-way-forward-for-k8s-security-eliminate-standing-privileges/
+
+- 什么是 SOC2 合规性？
+
+https://blog.lightspin.io/what-is-soc2-compliance
+
+- 攻击者想要您的身份并确切知道在哪里可以找到它
+
+https://www.lacework.com/blog/attackers-want-your-identity-and-know-exactly-where-to-find-it/
+
+- 在公共 GitHub 存储库上暴露的 Shiba Inu AWS 凭证泄露
+
+https://www.scmagazine.com/news/cloud-security/leaked-shiba-inu-aws-credential-exposed-on-public-github-repository
+
+
+
 ### 20220913
 
 - 如何使用洞态 IAST 高效的审计漏洞与 SQL 注入 Bypass 和 CVE 申请
