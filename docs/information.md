@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220915
+
+- 快速检查 k8s 集群 pod 安全
+
+https://zone.huoxian.cn/d/2559-k8spod
+
+- 云安全架构——批处理作业
+
+https://medium.com/cloud-security/cloud-security-architecture-batch-jobs-10f8b2f363c1
+
+- CloudFox 介绍
+
+https://bishopfox.com/blog/introducing-cloudfox
+
+- KSPM 和如何改善你的 Kubernetes 安全
+
+https://sysdig.com/blog/how-to-improve-your-kubernetes-security-posture-kspm/
+
+- 企业如何应对云原生时代的安全挑战？
+
+https://mp.weixin.qq.com/s/MGja5E24KuKixZWck7TRQw
+
+- CNAPP 解决的 5 大安全挑战
+
+https://www.trendmicro.com/en_us/devops/22/i/cnapp-solved-security-challenges.html
+
+- IBM 表示，云中的过度特权是一个普遍问题
+
+https://www.csoonline.com/article/3673750/excess-privilege-in-the-cloud-is-a-universal-problem-ibm-says.html
+
+
+
 ### 20220914
 
 - 记录一次平平无奇的云上攻防过程
