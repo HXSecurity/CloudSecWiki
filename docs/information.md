@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220916
+
+- 威胁警报：TeamTNT 带来了云上新恶意软件
+
+https://blog.aquasec.com/new-malware-in-the-cloud-by-teamtnt
+
+- 改善云安全状况的 5 种方法
+
+https://www.techtarget.com/searchsecurity/opinion/5-ways-to-improve-your-cloud-security-posture
+
+- 软件开发人员在云安全领域的崛起
+
+https://bridgecrew.io/blog/rise-of-developers-in-cloud-security/
+
+- 降低容器安全威胁
+
+https://containerjournal.com/features/containing-container-security-threats/
+
+- TeamTNT 通过 15 万次恶意云镜像拉取 Docker 容器
+
+https://www.darkreading.com/cloud/teamtnt-docker-containers-malicious-cloud-images
+
+- 云安全专家预计严重数据泄露的风险会增加
+
+https://www.cybersecuritydive.com/news/cloud-security-risks/631800/
+
+- 如何限制对公共 Cloud SQL 数据库实例的访问
+
+https://kloudle.com/academy/how-to-restrict-access-to-public-cloud-sql-database-instances
+
+
+
 ### 20220915
 
 - 快速检查 k8s 集群 pod 安全
