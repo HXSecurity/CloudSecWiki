@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220919
+
+- 什么是无代理扫描？我需要它吗？
+
+https://blog.lightspin.io/cloud-security/agentless-scanning
+
+- Distroless 容器映像的内部内容：深入了解
+
+https://iximiuz.com/en/posts/containers-distroless-images/
+
+- 您的云安全实践如何支持在完全不同的成熟度级别上工作的团队
+
+https://www.lacework.com/blog/how-your-cloud-security-practice-can-support-teams-working-at-wildly-different-maturity-levels/
+
+- IDSA 推出 CIEM 最佳实践
+
+https://ermetic.com/blog/cloud/idsa-introduces-ciem-best-practices/
+
+- 大型云服务提供商的高风险敞口减少
+
+https://www.scmagazine.com/news/cloud-security/large-cloud-service-providers-saw-a-decrease-in-high-level-risk-exposure
+
+- Docker 镜像构建保姆级入门实战指南
+
+https://mp.weixin.qq.com/s/5_TOeATF53x49xeuWEccBA
+
+
+
 ### 20220916
 
 - 威胁警报：TeamTNT 带来了云上新恶意软件
