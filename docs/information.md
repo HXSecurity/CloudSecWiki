@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220920
+
+- Kubernetes 的 NSA 安全最佳实践
+
+https://containerjournal.com/features/nsa-security-best-practices-for-kubernetes/
+
+- TeamTNT 瞄准存在错误配置的 kubelet
+
+https://sysdig.com/blog/teamtnt-kubelet-credentials/
+
+- Docker：如何在不运行任何容器的情况下提取镜像文件系统
+
+https://iximiuz.com/en/posts/docker-image-to-filesystem/
+
+- CSPM 的一些弊端
+
+https://www.chrisfarris.com/post/cspm-tarpit/
+
+- 云检测和响应：CDR 与 EDR 与 NDR 与 XDR
+
+https://www.techtarget.com/searchsecurity/tip/Cloud-detection-and-response-CDR-vs-EDR-vs-NDR-vs-XDR
+
+
+
 ### 20220919
 
 - 什么是无代理扫描？我需要它吗？
