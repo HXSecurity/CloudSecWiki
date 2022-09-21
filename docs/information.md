@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220921
+
+- Kubernetes 1.18 安装 Dashboard
+
+https://zone.huoxian.cn/d/2568-kubernetes118dashboard
+
+- Azure Cloud Shell 命令注入窃取用户的访问令牌
+
+https://blog.lightspin.io/azure-cloud-shell-command-injection-stealing-users-access-tokens
+
+- 带你理解 Kubernetes Pod 被移除是什么意思
+
+https://sysdig.com/blog/kubernetes-pod-evicted/
+
+- Serverless Devs 进入 CNCF 沙箱，成首个入选的 Serverless 工具项目！
+
+https://mp.weixin.qq.com/s/ICVDO3U5Ea1DzP3LFJq8mQ
+
+- AttachMe：严重的 OCI 漏洞允许未经授权访问客户云存储卷
+
+https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access
+
+- 云中的第三方风险
+
+https://securityboulevard.com/2022/09/third-party-risk-in-the-cloud/
+
+
+
 ### 20220920
 
 - Kubernetes 的 NSA 安全最佳实践
