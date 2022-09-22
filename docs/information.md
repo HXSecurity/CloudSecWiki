@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220922
+
+- 多云是新常态，但也带来了关键的安全挑战
+
+https://blog.radware.com/security/cloudsecurity/2022/09/multi-cloud-is-the-new-normal/
+
+- 我们在调查后，看到了云安全挑战的严重性
+
+https://securityboulevard.com/2022/09/survey-reveals-the-severity-of-cloud-security-challenge/
+
+- 为什么制造业是云安全攻击的重灾区
+
+https://securityboulevard.com/2022/09/why-manufacturing-struggles-with-cloud-security/
+
+- 优先考虑你的容器镜像管道
+
+https://www.lacework.com/blog/prioritizing-your-container-image-pipeline/
+
+- 针对云计算服务环境下关键信息基础设施安全保障的思考
+
+https://www.anquanke.com/post/id/280572
+
+- 无服务器安全的复杂性
+
+https://www.contrastsecurity.com/security-influencers/the-complexities-of-serverless-security-how-to-secure-serverless-applications-contrast-security
+
+
+
 ### 20220921
 
 - Kubernetes 1.18 安装 Dashboard
