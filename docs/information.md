@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220923
+
+- Azure Cloud Shell 命令注入窃取用户的访问令牌
+
+https://zone.huoxian.cn/d/2573-azure-cloud-shell
+
+- Docker 公司将整合免费的 SBOM 生成工具
+
+https://containerjournal.com/features/docker-inc-to-integrate-free-sbom-generation-tool/
+
+- 什么是图表技术？它能做什么？
+
+https://blog.lightspin.io/graph-technology
+
+- 围绕云原生应用保护平台的炒作是什么？
+
+https://sonraisecurity.com/blog/cloud-native-application-protection-platforms/
+
+- ESG 分享有关 IaC 安全趋势的要点
+
+https://www.lacework.com/blog/esg-shares-takeaways-on-iac-security-trends/
+
+- 甲骨文出现可访问客户数据的云隔离漏洞，现已修复
+
+https://www.infoq.cn/news/LXapis10RZeLMLDK2hsx
+
+
+
 ### 20220922
 
 - 多云是新常态，但也带来了关键的安全挑战
