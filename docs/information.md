@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220926
+
+- 火线安全——云端火线上的安全
+
+https://mp.weixin.qq.com/s/4qGWcqkZA68bnyus8eM2hg
+
+- AttachMe: 关键的 OCI 漏洞，允许未经授权访问客户云存储卷
+
+https://zone.huoxian.cn/d/2576-attachmeoci
+
+- AWS IAM 身份中心访问令牌以明文形式存储，不，这不是严重漏洞
+
+https://itnext.io/aws-iam-identity-center-access-tokens-are-stored-in-clear-text-and-no-thats-not-a-critical-68a48c1e398
+
+- 工具发布 – Kubescout 项目：为 Scout Suite 添加 Kubernetes 支持
+
+https://research.nccgroup.com/2022/09/22/tool-release-project-kubescout-adding-kubernetes-support-to-scout-suite/
+
+- Azure 攻击路径
+
+https://cloudbrothers.info/azure-attack-paths/
+
+- 实施 DevSecOps 以保护您的 CI/CD 管道
+
+https://www.infracloud.io/blogs/implement-devsecops-secure-ci-cd-pipeline/
+
+
+
 ### 20220923
 
 - Azure Cloud Shell 命令注入窃取用户的访问令牌
