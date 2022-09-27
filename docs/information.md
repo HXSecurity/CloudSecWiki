@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220927
+
+- 网络研讨会回顾：不断变化的云需要动态安全
+
+https://sonraisecurity.com/blog/webinar-recap-continuously-changing-clouds-need-dynamic-security/
+
+- 7 张图入门 Hadoop 在 K8S 环境中部署
+
+https://mp.weixin.qq.com/s/tT44pBkGhL5e2geJN6IgYw
+
+- Azure Active Directory 如何打开新的身份验证风险
+
+https://www.csoonline.com/article/3672531/how-azure-active-directory-opens-new-authentication-risks.html
+
+- 阿里云公布国际业务战略路线图
+
+https://www.cloudcomputing-news.net/news/2022/sep/26/alibaba-cloud-unveils-strategic-roadmap-for-international-business/
+
+- 英国最大的健康研究计划选择微软云
+
+https://www.cloudcomputing-news.net/news/2022/sep/23/uks-largest-health-research-programme-chooses-microsoft-cloud/
+
+- 云原生应用保护平台：最佳实践
+
+https://www.scmagazine.com/resource/cloud-security/cloud-native-app-protection-platforms-best-practices
+
+
+
 ### 20220926
 
 - 火线安全——云端火线上的安全
