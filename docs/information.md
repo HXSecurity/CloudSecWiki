@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220928
+
+- 如何使用开源满足 24 个 Google Cloud Platform (GCP) 安全最佳实践
+
+https://sysdig.com/blog/gcp-security-best-practices/
+
+- 公共和私有 VPC 和子网（路由表）
+
+https://medium.com/cloud-security/public-and-private-vpcs-and-subnets-route-tables-73b0fd78caa7
+
+- 由于云配置错误，Optus 面临 100 万美元的赎金
+
+https://sonraisecurity.com/blog/optus-faces-1million-ransom-due-to-cloud-misconfiguration/
+
+- FBI 帮助澳大利亚当局调查大规模 Optus 数据泄露：报告
+
+https://www.darkreading.com/attacks-breaches/fbi-helping-australian-authorities-investigate-massive-optus-data-breach-reports
+
+- 微软为 Azure 虚拟桌面推出无密码登录
+
+https://www.darkreading.com/cloud/microsoft-passwordless-sign-on-azure-virtual-desktop
+
+- 我可以用 Azure AD 替换 Active Directory 吗？不，这就是原因
+
+https://jumpcloud.com/blog/can-i-replace-ad-with-azure-ad
+
+- 开发人员如何保护他们 serverless 环境
+
+https://www.contrastsecurity.com/security-influencers/how-developers-can-secure-their-serverless-environments
+
+
+
 ### 20220927
 
 - 网络研讨会回顾：不断变化的云需要动态安全
