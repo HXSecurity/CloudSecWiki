@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220929
+
+- Azure攻击路径
+
+https://zone.huoxian.cn/d/2580-azure
+
+- 红队视角下的 AWS 横向移动
+
+https://mp.weixin.qq.com/s/Q0iiRJ53BwuU4LHynR4qWQ
+
+- Sysdig 报告揭示了容器安全漏洞的真实成本
+
+https://containerjournal.com/features/sysdig-report-reveals-true-cost-of-container-security-breaches/
+
+- Aqua、HashiCorp 启用云原生安全、零信任方法
+
+https://blog.aquasec.com/aqua-and-hashicorp-in-partnership-enabling-cloud-native-security-and-zero-trust-approaches
+
+- Sysdig 2022 威胁报告：云原生威胁正在增加和成熟
+
+https://sysdig.com/blog/2022-sysdig-cloud-native-threat-report/
+
+- 应用安全与云安全 101：模糊云原生应用层之间的界限
+
+https://bridgecrew.io/blog/application-infrastructure-security-101-blurring-cloud-native-app-layers/
+
+
+
 ### 20220928
 
 - 如何使用开源满足 24 个 Google Cloud Platform (GCP) 安全最佳实践
