@@ -8,6 +8,38 @@ title: 每日云安全技术资讯
 
 ## 9 月
 
+### 20220930
+
+- 使用自定义云容器在 Azure Functions 中增强云安全性
+
+https://www.trendmicro.com/en_us/research/22/i/stronger-cloud-security-in-azure-function-using-custom-cloud-container.html
+
+- 使用 Kubescape 和 kube-bench 保护 Kubernetes 集群
+
+https://zone.huoxian.cn/d/2586-kubescape-kube-bench-kubernetes
+
+- 云安全趋势：是什么让云基础设施容易受到威胁？
+
+https://www.helpnetsecurity.com/2022/09/29/cloud-security-trends-cloud-infrastructure-threats-video/
+
+- 您的云安全供应商可以帮助您升级吗？
+
+https://www.lacework.com/blog/can-your-cloud-security-vendor-help-you-level-up/
+
+- 您的云安全解决方案失败的警告信号
+
+https://sonraisecurity.com/blog/warning-signs-your-cloud-security-solution-is-failing/
+
+- 限制对 Elasticsearch / Opensearch 服务的访问
+
+https://kloudle.com/academy/restricting-access-to-elasticsearch-opensearch-service
+
+- 大多数组织在去年发生了与云相关的安全事件
+
+https://www.scmagazine.com/news/cloud-security/most-organizations-had-a-cloud-related-security-incident-in-the-last-year
+
+
+
 ### 20220929
 
 - Azure攻击路径
