@@ -6,6 +6,34 @@ title: 每日云安全技术资讯
 
 # 2022 年
 
+## 10 月
+
+### 20221008
+
+- 适用于 Kubernetes 的云原生 IAM EKS 密钥管理
+
+https://zone.huoxian.cn/d/2588-kubernetes-iam-eks
+
+- 容器映像：下一个软件供应链问题？ 
+
+https://containerjournal.com/features/container-images-the-next-software-supply-chain-concern/
+
+- Kubernetes ErrImagePull 和 ImagePullBackOff 详解
+
+https://sysdig.com/blog/kubernetes-errimagepull-imagepullbackoff/
+
+- 如何降低 Azure 资源公开访问的风险
+
+https://ermetic.com/blog/azure/public-network-access-to-azure-resources-is-too-easy-to-configure/
+
+- 威胁检测和响应工具建立在不稳固的基础之上，使您的云工作负载面临风险
+
+https://www.lacework.com/blog/threat-detection-and-response-tools-are-built-on-shaky-foundations-leaving-your-cloud-workloads-at-risk/
+
+- Terraform 1.3，简化重构体验
+
+https://www.infoq.cn/article/t1OYQuveBtsjPBr6ETdx
+
 ## 9 月
 
 ### 20220930
