@@ -8,6 +8,32 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221009
+
+- 核心 AWS 服务中的常见安全漏洞：利用和缓解
+
+https://zone.huoxian.cn/d/2590-aws
+
+- Docker：如何调试 Distroless 和 Slim 容器
+
+https://iximiuz.com/en/posts/docker-debug-slim-containers/
+
+- Serverless 安全揭秘：架构、风险与防护措施
+
+https://www.anquanke.com/post/id/281021
+
+- 快速搭建本地 K8s 集群
+
+https://itnext.io/quickly-setup-a-local-k8s-cluster-da97c66e7a33
+
+- 一文彻底搞懂 Kubernetes 中的认证
+
+https://mp.weixin.qq.com/s/bf4q8LcKvvoJsgRAL9sANg
+
+- 绿盟科技云安全纲领（上）
+
+https://mp.weixin.qq.com/s/oV7f1kKFZcJT0lAkNwuGsg
+
 ### 20221008
 
 - 适用于 Kubernetes 的云原生 IAM EKS 密钥管理
