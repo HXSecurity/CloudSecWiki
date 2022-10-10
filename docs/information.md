@@ -8,6 +8,32 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221010
+
+- 云服务枚举 - AWS、Azure 和 GCP
+
+https://zone.huoxian.cn/d/2592-awsazure-gcp
+
+- 当前状态：2019 年第三方对Kubernetes的安全审计
+
+https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/
+
+- OPPO 自研云原生分布式任务调度平台
+
+https://www.infoq.cn/article/HHPHzeKSlWI5vW8U3kpD
+
+- 谷歌云研究将 CI/CD 与安全能力联系起来
+
+https://www.cybersecuritydive.com/news/cicd-strengthens-security/632947/
+
+- 重新审视 Lambda 的持久性
+
+https://frichetten.com/blog/revisiting_lambda_persistence/
+
+- 让我们使用 Oracle 云基础设施加密无服务器自动化
+
+https://itnext.io/lets-encrypt-automation-with-oracle-cloud-infrastructure-1ea5840a5be6
+
 ### 20221009
 
 - 核心 AWS 服务中的常见安全漏洞：利用和缓解
