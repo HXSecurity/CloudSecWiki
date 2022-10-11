@@ -8,6 +8,32 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221011
+
+- 使用自定义云容器在 Azure Functions 中增强云安全性
+
+https://zone.huoxian.cn/d/2594-azure-functions
+
+- 零信任、服务网格和 Linkerd
+
+https://securityboulevard.com/2022/10/zero-trust-the-service-mesh-and-linkerd/
+
+- 云经济学中要避免的六个最具破坏性的错误
+
+https://peoplactive.com/six-cloud-economics-mistakes-to-avoid/
+
+- 使用 Falco 和 Calico 防止 Kubernetes 中的 DoS 攻击
+
+https://sysdig.com/blog/denial-of-service-kubernetes-calico-falco/
+
+- 如何为 AWS Root 用户启用 MFA
+
+https://kloudle.com/academy/how-to-enable-mfa-for-aws-root-user
+
+- 在云上使用 Redis？这十件事你应该知道
+
+https://itnext.io/using-redis-on-cloud-here-are-ten-things-you-should-know-a1026624441e
+
 ### 20221010
 
 - 云服务枚举 - AWS、Azure 和 GCP
