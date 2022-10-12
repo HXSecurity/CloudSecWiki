@@ -8,6 +8,32 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221012
+
+- 绿盟科技云安全纲领（中）
+
+https://mp.weixin.qq.com/s/JZJRw1UNFizvd1nYnnSX-w
+
+- 如何使用 Azure 破解 API 身份验证令牌
+
+https://danaepp.com/how-to-use-azure-to-crack-api-auth-tokens
+
+- 绿盟科技云安全纲领（下）
+
+https://mp.weixin.qq.com/s/VaIcX_WVqb1SsTz5lgf8rA
+
+- 可以像 Docker 一样方便的使用 Containerd 吗？
+
+https://mp.weixin.qq.com/s/HOAJmEVLAsjByiYHxPAb7w
+
+- 谷歌在云安全市场上大放异彩
+
+https://www.scmagazine.com/analysis/cloud-security/google-unveils-suite-of-combined-offerings-as-it-makes-major-play-for-cloud-security-market
+
+- Terraform 0.13 的 CDK 显著提高了性能
+
+https://www.hashicorp.com/blog/cdk-for-terraform-0-13-significantly-improves-performance
+
 ### 20221011
 
 - 使用自定义云容器在 Azure Functions 中增强云安全性
