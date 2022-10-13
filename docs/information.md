@@ -8,6 +8,32 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221013
+
+- 云横向移动：突破易受攻击的容器
+
+https://zone.huoxian.cn/d/2597
+
+- AWS S3 Bucket子域接管实现可信钓鱼服务攻击
+
+https://mp.weixin.qq.com/s/9BeHub6YCp0oM8jHrK6_dg
+
+- 什么是容器安全性，您如何提升自己的安全性？
+
+https://blog.sonatype.com/what-is-container-security-and-how-can-you-boost-yours
+
+- 了解 Kubernetes 中基于角色的访问控制
+
+https://containerjournal.com/features/understanding-role-based-access-control-in-kubernetes/
+
+- 在从代码到云的背景下的漏洞管理
+
+https://containerjournal.com/features/vulnerability-management-context-from-code-to-cloud/
+
+- 谷歌云发布重磅安全产品，逆转软件供应链领域攻防形势
+
+https://www.secrss.com/articles/47880
+
 ### 20221012
 
 - 绿盟科技云安全纲领（中）
