@@ -8,6 +8,36 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221014
+
+- 重温OMI：分析CVE-2022-29149，Azure OMI中的权限提升漏洞
+
+https://zone.huoxian.cn/d/2599-omicve-2022-29149azure-omi
+
+- 谷歌对云计算技术的十大预测
+
+https://mp.weixin.qq.com/s/pxgvij_9SMTEnL04DY8Ohw
+
+- 如何监控 Kubernetes 服务网格 Istio
+
+https://sysdig.com/blog/monitor-istio/
+
+- 了解适用于您的云原生应用程序开发的 Kubernetes 安全最佳实践
+
+https://www.cncf.io/blog/2022/10/12/learn-about-kubernetes-security-best-practices-for-your-cloud-native-application-development/
+
+- 云中的横向移动风险以及如何预防它们 - 第 1 部分：网络层 (VPC)
+
+https://www.wiz.io/blog/lateral-movement-risks-in-the-cloud-and-how-to-prevent-them-part-1-the-network-layer
+
+- Verizon 的 2022 年数据泄露报告——云安全专业人士的见解
+
+https://ermetic.com/blog/cloud/verizons-2022-data-breach-report-insights-for-cloud-security-professionals/
+
+- Azure Arc 的 Kubernetes 权限提升漏洞
+
+https://www.cloudvulndb.org/cve-2022-37968
+
 ### 20221013
 
 - 云横向移动：突破易受攻击的容器
