@@ -8,6 +8,32 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221017
+
+- 解决云环境中的Spring4Shell和CVE-2022-22963 RCE漏洞
+
+https://zone.huoxian.cn/d/2603-spring4shellcve-2022-22963-rce
+
+- KubeEdge SIG AI发布首个分布式协同AI Benchmark调研
+
+https://mp.weixin.qq.com/s/sOySOx0LyrcZ2Ao43BtNGQ
+
+- 亚马逊云科技开发者官网上线，为什么值得关注？
+
+https://www.infoq.cn/article/Z0QjFecVCY9NjsGwg1Cc
+
+- Serverless 架构的 N 种可能，你 Pick 谁？
+
+https://www.infoq.cn/article/xj8wDg8YX0vgoDe7fHOz
+
+- 公共云安全面临的 5 大挑战
+
+https://www.scmagazine.com/resource/cloud-security/5-challenges-to-public-cloud-security
+
+- 微软首席信息安全官谈为什么云对安全响应很重要
+
+https://www.cybersecuritydive.com/news/microsoft-ciso-cloud-security/633028/
+
 ### 20221014
 
 - 重温OMI：分析CVE-2022-29149，Azure OMI中的权限提升漏洞
