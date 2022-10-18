@@ -8,6 +8,28 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221018
+
+- 云 DNS 安全 – 如何保护云中的 DNS
+
+https://zone.huoxian.cn/d/2605-dns-dns
+
+- 企业将业务迁移到云平台时面临的7个常见挑战
+
+https://mp.weixin.qq.com/s/QdcK4f5I7QuigQLRKpc1dw
+
+- 什么是云工作负载保护平台 (CWPP)?
+
+https://www.crowdstrike.com/cybersecurity-101/cloud-security/cloud-workload-protection-platform-cwpp/
+
+- 迁移到云时的身份和访问趋势与挑战
+
+https://www.scmagazine.com/resource/identity-and-access/top-identity-and-access-trends-and-challenges-when-moving-to-the-cloud
+
+- 测试 AWS Cloudwatch 告警
+
+https://itnext.io/testing-aws-cloudwatch-alarms-75caebcf6da8
+
 ### 20221017
 
 - 解决云环境中的Spring4Shell和CVE-2022-22963 RCE漏洞
