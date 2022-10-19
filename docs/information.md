@@ -8,6 +8,32 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221019
+
+- 云中的横向移动风险以及如何防止它们-第1部分：网络层（VPC）
+
+https://zone.huoxian.cn/d/2608-1vpc
+
+- 【奇技淫巧】五分钟教你挖掘AK/SK泄露漏洞
+
+https://mp.weixin.qq.com/s/drSOjKvVG98Ck7rryWKDzw
+
+- 浅谈云原生安全之CASB
+
+http://blog.nsfocus.net/casb/
+
+- 使用 Google Cloud Provider 时的身份和访问管理最佳做法
+
+https://www.praetorian.com/blog/iam-best-practices-gcp/
+
+- 容器化的好处
+
+https://mp.weixin.qq.com/s/PPX0xYvRZCNQMqegsXjdpQ
+
+- 7 个 k8s 最佳实践
+
+https://itnext.io/7-kubernetes-best-practices-17f8634907b0
+
 ### 20221018
 
 - 云 DNS 安全 – 如何保护云中的 DNS
