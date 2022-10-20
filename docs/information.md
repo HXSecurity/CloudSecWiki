@@ -8,6 +8,32 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221020
+
+- 了解 Kubernetes 中基于角色的访问控制
+
+https://zone.huoxian.cn/d/2611-kubernetes
+
+- cert-manager 成为 CNCF 孵化项目
+
+https://www.cncf.io/blog/2022/10/19/cert-manager-becomes-a-cncf-incubating-project/
+
+- 使用 Service Mesh 和 Kubernetes 实现零信任安全
+
+https://securityboulevard.com/2022/10/implementing-zero-trust-security-with-service-mesh-and-kubernetes/
+
+- 您需要知道的 IAM 角色信任更新
+
+https://ermetic.com/blog/aws/iam-role-trust-update-what-you-need-to-know/
+
+- 用 CNAPP 解决云原生应用安全难题
+
+https://www.trendmicro.com/en_us/devops/22/j/cloud-native-app-security-cnapp.html
+
+- Kubernetes 世界中的微服务应用之旅
+
+https://itnext.io/journey-of-a-microservice-application-in-the-kubernetes-world-f760cba7600f
+
 ### 20221019
 
 - 云中的横向移动风险以及如何防止它们-第1部分：网络层（VPC）
