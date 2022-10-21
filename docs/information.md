@@ -8,6 +8,32 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221021
+
+- Google Cloud Shell - 命令注入
+
+https://zone.huoxian.cn/d/2612-google-cloud-shell
+
+- 微软 Azure SFX 漏洞让黑客可以劫持 Service Fabric 集群
+
+https://www.4hou.com/posts/q8kD
+
+- 错误配置的服务器暴露的 Microsoft 客户数据
+
+https://www.darkreading.com/cloud/microsoft-customer-data-exposed-by-misconfigured-server
+
+- 云原生授权的 5 条法则
+
+https://containerjournal.com/features/5-laws-of-cloud-native-authorization/
+
+- 云安全新特性：云安全态势管理的并行性与建议
+
+https://medium.com/@progresschef/new-in-cloud-security-parallelism-and-suggestions-for-cloud-security-posture-management-5264ce02eac1
+
+- Datadog 详细介绍最常见的 AWS 安全错误
+
+https://securityboulevard.com/2022/10/datadog-details-most-common-aws-security-mistakes/
+
 ### 20221020
 
 - 了解 Kubernetes 中基于角色的访问控制
