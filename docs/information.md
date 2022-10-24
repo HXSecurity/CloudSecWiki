@@ -8,6 +8,28 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221024
+
+- 您需要知道的IAM 角色信任更新
+
+https://zone.huoxian.cn/d/2620-iam
+
+- 八种常见的云配置错误类型及缓解方案
+
+https://www.4hou.com/posts/2JNP
+
+- 云原生场景下的容器网络隔离技术
+
+https://www.secrss.com/articles/48199
+
+- 滥用 AWS 连接跟踪
+
+https://frichetten.com/blog/abusing-aws-connection-tracking/
+
+- 优化边缘计算计划的影响
+
+https://peoplactive.com/edge-computing-initiatives/
+
 ### 20221021
 
 - Google Cloud Shell - 命令注入
