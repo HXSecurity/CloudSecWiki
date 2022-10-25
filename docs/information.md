@@ -8,6 +8,28 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221025
+
+- 什么是 CSPM？它为什么如此重要？
+
+https://zone.huoxian.cn/d/2623-cspm
+
+- 一次简单的"云"上野战记录
+
+https://mp.weixin.qq.com/s/wi8CoNwdpfJa6eMP4t1PCQ
+
+- 云原生场景下的容器网络隔离技术
+
+https://www.secrss.com/articles/48199
+
+- 在公开的 S3 存储桶中发现了数千个密钥
+
+https://trufflesecurity.com/blog/an-api-worm-in-the-making-thousands-of-secrets-found-in-open-s3-buckets/
+
+- 用 Mimir 可视化云原生监控报警
+
+https://mp.weixin.qq.com/s/o3wbjZhvoEMvzv6eqemnCg
+
 ### 20221024
 
 - 您需要知道的IAM 角色信任更新
