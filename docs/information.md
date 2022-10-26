@@ -8,6 +8,28 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221026
+
+- 降低滥用AWS IAM用户访问密钥的风险
+
+https://zone.huoxian.cn/d/2625-aws-iam
+
+- 30 年前，我们忽视了容器的危险，现在我们又这样了
+
+https://www.lacework.com/blog/we-ignored-the-dangers-of-containers-30-years-ago-and-were-doing-it/
+
+- CISA 就保护云配置的基线措施寻求反馈
+
+https://www.nextgov.com/cybersecurity/2022/10/cisa-seeks-feedback-baseline-measures-secure-cloud-configuration/378903/
+
+- 使用 CIS Benchmark for Amazon EKS 实现 Kubernetes 最佳实践
+
+https://www.lacework.com/blog/achieving-kubernetes-best-practices-with-cis-benchmark-for-amazon-eks/
+
+- 微软发布 Azure Cosmos DB for PostgreSQL
+
+https://www.infoq.cn/article/4114G9FlqZFEyTzQ53mq
+
 ### 20221025
 
 - 什么是 CSPM？它为什么如此重要？
