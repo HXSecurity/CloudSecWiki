@@ -8,6 +8,32 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221027
+
+- 如何加密AWS EBS卷
+
+https://zone.huoxian.cn/d/2626-aws-ebs
+
+- 微软 Azure 在容器供应链安全的开源实践
+
+https://mp.weixin.qq.com/s/liBmMhUrtNO31Sl6bkvo7w
+
+- CrowdStrike 详细介绍了复杂的容器加密劫持活动
+
+https://containerjournal.com/features/crowdstrike-details-sophisticated-container-cryptojacking-campaign/
+
+- Trivy 现在支持 NSA Kubernetes 合规性
+
+https://blog.aquasec.com/trivy-now-supports-nsa-kubernetes-compliance
+
+- 无代理云安全的主要优势
+
+https://sonraisecurity.com/blog/agentless-cloud-security/
+
+- 攻击者开始瞄准 AWS EC2 工作负载，从而窃取凭证
+
+https://www.trendmicro.com/en_us/research/22/j/threat-actors-target-aws-ec2-workloads-to-steal-credentials.html
+
 ### 20221026
 
 - 降低滥用AWS IAM用户访问密钥的风险
