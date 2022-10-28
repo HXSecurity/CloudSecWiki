@@ -8,6 +8,28 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221028
+
+- 在公开的 S3 存储桶中发现了数千个密钥
+
+https://zone.huoxian.cn/d/2628-s3
+
+- Docker 容器安全风险和防御综述
+
+https://mp.weixin.qq.com/s/WNHZvVNQuA55d3siEZbCwA
+
+- IBM 2022 年数据泄露成本 – 云安全专业人员的亮点
+
+https://ermetic.com/blog/cloud/ibm-cost-of-a-data-breach-2022-highlights-for-cloud-security-professionals/
+
+- 重构云安全理念：零信任、零摩擦、零损失
+
+https://www.secrss.com/articles/47993
+
+- 高级功能 | 使用 eBPF 加速节点内 TCP 通信
+
+https://mp.weixin.qq.com/s/G3uYXkCmIGKFzod4iTnSFg
+
 ### 20221027
 
 - 如何加密AWS EBS卷
