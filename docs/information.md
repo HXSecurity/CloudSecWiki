@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221031
+
+- 使用 Google Cloud Platform 时的身份和访问管理最佳做法
+
+https://zone.huoxian.cn/d/2630-google-cloud-platform
+
+- AWS redshift jdbc RCE 漏洞
+
+https://github.com/p1n93r/redshift-jdbc-RCE
+
+- AWS 中信任策略的危险
+
+https://blog.nviso.eu/2022/10/25/the-dangers-of-trust-policies-in-aws/
+
+- 一个扫描公开的 AWS S3 存储桶以查找敏感信息的新开源工具
+
+https://www.bleepingcomputer.com/news/security/new-open-source-tool-scans-public-aws-s3-buckets-for-secrets/
+
+- 云迁移：如何保护资源
+
+https://www.scmagazine.com/resource/identity-and-access/cloud-migration-how-to-protect-resources
+
+
+
 ### 20221028
 
 - 在公开的 S3 存储桶中发现了数千个密钥
