@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 10 月
 
+### 20221101
+
+- AWS 控制台中的 XSS
+
+https://zone.huoxian.cn/d/2632-aws-xss
+
+- 随着云业务受到经济衰退的打击，微软安全业务激增
+
+https://www.cybersecuritydive.com/news/microsoft-earnings-headwinds/634998/
+
+- 企业准备进行云迁移时需要问的4个重要问题
+
+https://mp.weixin.qq.com/s/hp4RsRFryNCKojbqsSccHQ
+
+- 云黑客及其方法的深入探索
+
+https://www.cysecurity.news/2022/10/an-in-depth-exploration-of-cloud.html
+
+- Google Cloud 为区块链节点引擎提供 Web3 开发人员
+
+https://www.cysecurity.news/2022/10/google-cloud-delivers-web3-developers.html?utm_source=dlvr.it&utm_medium=twitter
+
+
+
 ### 20221031
 
 - 使用 Google Cloud Platform 时的身份和访问管理最佳做法
