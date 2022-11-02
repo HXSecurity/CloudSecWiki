@@ -6,7 +6,35 @@ title: 每日云安全技术资讯
 
 # 2022 年
 
-## 10 月
+## 11 月
+
+### 20221102
+
+- 劫持 IAM 角色并避免检测
+
+https://zone.huoxian.cn/d/2635-iam
+
+- 5 大云存储趋势
+
+https://www.datamation.com/storage/cloud-storage-trends/
+
+- 5 个自动生成 Terraform 配置文件的工具
+
+https://www.infracloud.io/blogs/auto-generate-terraform-configuration-files/
+
+- CloudFox：一款针对云环境渗透测试的自动化安全态势感知工具
+
+https://www.freebuf.com/articles/network/347206.html
+
+- 腾讯云加码云原生技术投入，宣布升级云原生战略布局
+
+https://www.infoq.cn/article/N8u6idtvtt9jgTPhaaV8
+
+- 在 Microsoft Azure 开发人员工具中发现“CosMiss”漏洞
+
+https://therecord.media/votes-in-slovakias-parliament-suspended-after-alleged-cybersecurity-incident/
+
+
 
 ### 20221101
 
@@ -30,7 +58,7 @@ https://www.cysecurity.news/2022/10/an-in-depth-exploration-of-cloud.html
 
 https://www.cysecurity.news/2022/10/google-cloud-delivers-web3-developers.html?utm_source=dlvr.it&utm_medium=twitter
 
-
+## 10 月
 
 ### 20221031
 
