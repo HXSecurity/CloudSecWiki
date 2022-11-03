@@ -8,6 +8,34 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221103
+
+- 枚举无需登录 CloudTrail 的 AWS API 权限
+
+https://zone.huoxian.cn/d/2637-cloudtrailaws-api
+
+- AWS 枚举（第一部分）
+
+https://securitycafe.ro/2022/11/01/aws-enumeration-part-1/
+
+- 云日志管理是否可以保护您免受威胁？CloudTrail 与 CloudWatch
+
+https://sysdig.com/blog/cloud-log-management-cloudwatch-vs-cloudtrail/
+
+- Microsoft Azure Cosmos DB 中的严重漏洞打开了 Jupyter Notebooks
+
+https://www.darkreading.com/application-security/critical-vulnerability-found-and-fixed-in-azure-cosmos-db-
+
+- Azure Cosmos DB Notebook 远程代码执行漏洞
+
+https://orca.security/resources/blog/cosmiss-vulnerability-azure-cosmos-db/
+
+- 只用于进入其他 AWS 账户的 AWS 账户
+
+https://src-bin.com/an-aws-account-just-for-getting-into-other-aws-accounts/
+
+
+
 ### 20221102
 
 - 劫持 IAM 角色并避免检测
