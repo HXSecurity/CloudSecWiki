@@ -8,6 +8,58 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221107
+
+- AWS 中信任策略的危险
+
+https://zone.huoxian.cn/d/2641-aws
+
+- Terraform 更灵活的 prevent_destroy
+
+https://mp.weixin.qq.com/s/X9qhI65idWbRGg472OVQsg
+
+- 浅谈云原生安全建设
+
+https://mp.weixin.qq.com/s/HA_w_gEe-GOFZXGsOg_Iog
+
+- 2022年云存储市场
+
+https://www.datamation.com/storage/cloud-storage-market/
+
+- 用 Mimir 可视化云原生监控报警
+
+https://mp.weixin.qq.com/s/o3wbjZhvoEMvzv6eqemnCg
+
+
+
+### 20221104
+
+- Microsoft Azure SFX 漏洞让黑客劫持 Service Fabric 集群
+
+https://zone.huoxian.cn/d/2639-microsoft-azure-sfx-service-fabric
+
+- 作战图鉴：12大场景详述容器安全建设要求
+
+https://mp.weixin.qq.com/s/41kXG9gpHfYWvwilB9oQ1A
+
+- 公有云攻防系列：云凭证的泄露与利用
+
+https://mp.weixin.qq.com/s/V2hTqTnUbAsPDWLHljiQ4A
+
+- 如何改善您在云中的事件响应
+
+https://ermetic.com/blog/cloud/how-to-improve-your-incident-response-in-the-cloud/
+
+- GOOGLE DRIVE 安全性：您的学生数据在云端是否安全？
+
+https://managedmethods.com/blog/google-drive-security-is-your-student-data-safe-in-the-cloud/
+
+- DRaaS 引领企业进入云世界
+
+https://securityboulevard.com/2022/11/draas-leads-companies-into-the-world-of-cloud/
+
+
+
 ### 20221103
 
 - 枚举无需登录 CloudTrail 的 AWS API 权限
