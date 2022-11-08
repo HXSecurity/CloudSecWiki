@@ -10,10 +10,6 @@ title: 每日云安全技术资讯
 
 ### 20221108
 
-- 云安全的新功能：云安全态势管理的并行性和建议
-
-https://zone.huoxian.cn/d/2642
-
 - 云容灾最佳实践
 
 https://devops.com/cloud-disaster-recovery-best-practices/
