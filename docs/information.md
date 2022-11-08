@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221108
+
+- 云安全的新功能：云安全态势管理的并行性和建议
+
+https://zone.huoxian.cn/d/2642
+
+- 云容灾最佳实践
+
+https://devops.com/cloud-disaster-recovery-best-practices/
+
+- 这几个月来 T Wiki 云安全知识库更新了什么？
+
+https://mp.weixin.qq.com/s/2LW5pgyq-AUOP1OIN0111Q
+
+- SANS DevSecOps 2022 年调查：5 个关键要点
+
+https://www.cncf.io/blog/2022/11/07/sans-devsecops-survey-2022-5-key-takeaways/
+
+- Google Cloud Platform中的权限提升 - 第 2 部分（非 IAM）
+
+https://rhinosecuritylabs.com/cloud-security/privilege-escalation-google-cloud-platform-part-2/
+
+
+
 ### 20221107
 
 - AWS 中信任策略的危险
