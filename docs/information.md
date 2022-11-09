@@ -12,7 +12,7 @@ title: 每日云安全技术资讯
 
 - CosMiss：Azure Cosmos DB Notebook 远程代码执行漏洞
 
-https://zone.huoxian.cn/d/2645-cosmissazure-cosmos-db-notebook
+https://zone.huoxian.cn/d/2645-azure-cosmos-db-notebook
 
 - 全球混合云发展趋势报告（2022）
 
