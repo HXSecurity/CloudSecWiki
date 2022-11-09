@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221109
+
+- CosMiss：Azure Cosmos DB Notebook 远程代码执行漏洞
+
+https://zone.huoxian.cn/d/2645-cosmissazure-cosmos-db-notebook
+
+- 全球混合云发展趋势报告（2022）
+
+https://mp.weixin.qq.com/s/jFMfj_s33JiDynxx1fuOIg
+
+- 同时采用边缘计算和云计算的4个好处
+
+https://mp.weixin.qq.com/s/72sIudvsVvlYZJQnVEFx0A
+
+- 如何处理 Azure 上的勒索软件
+
+https://sysdig.com/blog/ransomware-azure-mitigations/
+
+- CloudGoat ECS_EFS_Attack 靶场演练
+
+https://rhinosecuritylabs.com/cloud-security/cloudgoat-aws-ecs_efs_attack/
+
+
+
 ### 20221108
 
 - 云容灾最佳实践
