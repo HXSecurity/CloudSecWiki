@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221110
+
+- 攻击者瞄准AWS EC2 工作负载以窃取凭证
+
+https://zone.huoxian.cn/d/2648-aws-ec2
+
+- GCP 渗透测试笔记
+
+https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes/
+
+- 2023年的十大云计算趋势
+
+https://mp.weixin.qq.com/s/uU4zzrT7DJL1xdPhbBTEcQ
+
+- CI/CD 管道中的 Kubernetes 安全性
+
+https://containerjournal.com/features/kubernetes-security-in-your-ci-cd-pipeline/
+
+- 在 AWS 中滥用 VPC 流量镜像
+
+https://rhinosecuritylabs.com/aws/abusing-vpc-traffic-mirroring-in-aws/
+
+
+
 ### 20221109
 
 - CosMiss：Azure Cosmos DB Notebook 远程代码执行漏洞
