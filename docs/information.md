@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221111
+
+- AWS 枚举 – 第 I 部分
+
+https://zone.huoxian.cn/d/2650-aws-i
+
+- Kubernetes 中的用户与身份认证授权
+
+https://mp.weixin.qq.com/s/M85wfdA40gBOWR1BQ00spA
+
+- 从 Kubernetes 漏洞中学习
+
+https://containerjournal.com/features/learning-from-kubernetes-vulnerabilities/
+
+- Murre – 轻量级的 K8s 指标监控工具
+
+https://www.cncf.io/blog/2022/11/10/murre-the-lightweight-k8s-metrics-monitoring-tool/
+
+- 探索 AWS 中钓鱼持久性 Cookie 的威力
+
+https://rhinosecuritylabs.com/aws/aws-phished-persistent-cookies/
+
+
+
 ### 20221110
 
 - 攻击者瞄准AWS EC2 工作负载以窃取凭证
