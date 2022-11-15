@@ -8,6 +8,54 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221115
+
+- FabriXss (CVE-2022-35829)：在 Azure Fabric Explorer 中使用 CSTI 和存储的 XSS 来滥用自定义角色用户
+
+https://zone.huoxian.cn/d/2655-fabrixss-cve-2022-35829-azure-fabric-explorer-csti-xss
+
+- 在云中进行黑客攻击 - iam_privesc_by_attachment
+
+https://0xd4y.com/videos/2022/11/12/IAM-Privesc-By-Attachment/
+
+- 允许非 AWS 工作负载使用 AWS IAM Roles Anywhere 访问 AWS 服务
+
+https://kloudle.com/academy/allowing-non-aws-workloads-to-access-aws-services-using-aws-iam-roles-anywhere
+
+- 组织增加对云的现代数据保护以降低安全风险
+
+https://www.cloudcomputing-news.net/news/2022/nov/10/organisations-increasing-modern-data-protection-for-cloud-to-reduce-security-risks/
+
+- PCI DSS 4.0 即将到来：如何为即将到来的信用卡支付规则变化做准备
+
+https://www.csoonline.com/article/3678989/pci-dss-4-0-is-coming-how-to-prepare-for-the-looming-changes-to-credit-card-payment-rules.html
+
+
+
+### 20221114
+
+- 使用 Cloud Shell 在 Google Cloud Platform (GCP) 中权限维持
+
+https://zone.huoxian.cn/d/2653-cloud-shell-google-cloud-platform-gcp
+
+- 使用未记录的CodeStar API 提升 AWS IAM 权限
+
+https://rhinosecuritylabs.com/aws/escalating-aws-iam-privileges-undocumented-codestar-api/
+
+- 【云安全系列】eBPF——提高Seccomp防护生产力
+
+https://mp.weixin.qq.com/s/OcmqqZnoZXMVbJN7_ygmeA
+
+- 为什么云配置错误仍然是一个主要问题？
+
+https://securityintelligence.com/articles/why-cloud-misconfigurations-major-issue/
+
+- GCP渗透测试笔记 2
+
+https://0xd4y.com/2022/10/24/GCP-Penetration-Testing-Notes-2/
+
+
+
 ### 20221111
 
 - AWS 枚举 – 第 I 部分
