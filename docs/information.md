@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221116
+
+- Google Cloud Platform中的权限提升 - 第 2 部分（非 IAM）
+
+https://zone.huoxian.cn/d/2658-google-cloud-platform-2-iam
+
+- 云原生应用中的最小权限原则
+
+https://containerjournal.com/features/the-principle-of-least-privilege-in-cloud-native-applications/
+
+- 24 张图初探开源容器安全平台 NeuVector
+
+https://mp.weixin.qq.com/s/s3corv94JMRY0Gpdcug7oA
+
+- 通过左移和右移实践加强网络安全
+
+https://sysdig.com/blog/strengthen-cybersecurity-with-shift-left-and-shield-right-practices/
+
+- 如何保护 Helm
+
+https://sysdig.com/blog/how-to-secure-helm/
+
+
+
 ### 20221115
 
 - FabriXss (CVE-2022-35829)：在 Azure Fabric Explorer 中使用 CSTI 和存储的 XSS 来滥用自定义角色用户
