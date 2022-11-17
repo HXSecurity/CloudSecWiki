@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221117
+
+- 如何应对 Azure 上的勒索软件
+
+https://zone.huoxian.cn/d/2659-azure
+
+- 5 个 Kubernetes 痛点及其解决方法
+
+https://containerjournal.com/features/5-kubernetes-pain-points-and-how-to-solve-them/
+
+- 加密货币挖矿的真实成本：TeamTNT 的对抗分析
+
+https://sysdig.com/blog/real-cost-cryptomining-teamtnt/
+
+- 未授权的 AWS 角色枚举
+
+https://rhinosecuritylabs.com/aws/aws-role-enumeration-iam-p2/
+
+- 云托管基础设施的错误配置仍然是数据安全的主要挑战
+
+https://www.imperva.com/blog/cloud-managed-infrastructure-misconfigurations-are-a-major-challenge-to-data-security/
+
+
+
 ### 20221116
 
 - Google Cloud Platform中的权限提升 - 第 2 部分（非 IAM）
