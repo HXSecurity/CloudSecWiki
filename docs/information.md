@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221118
+
+- GCP 渗透测试笔记
+
+https://zone.huoxian.cn/d/2661-gcp
+
+- 研究人员发现数百个 Amazon RDS 实例泄露了用户的个人数据
+
+https://thehackernews.com/2022/11/researchers-discover-hundreds-of-amazon.html
+
+- 【云安全系列】Seccomp—云安全syscall防护利器
+
+https://mp.weixin.qq.com/s/EMLpMCLtvwNhFFs9aDPEcA
+
+- 【安全研究】基于 OPA 和 Spring Security 的外部访问控制
+
+https://www.freebuf.com/articles/system/349379.html
+
+- 使用 AWS 账户 ID 进行 IAM 用户枚举
+
+https://rhinosecuritylabs.com/aws/aws-iam-user-enumeration/
+
+
+
 ### 20221117
 
 - 如何应对 Azure 上的勒索软件
