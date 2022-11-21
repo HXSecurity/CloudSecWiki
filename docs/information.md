@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221121
+
+- CloudGoat ECS_EFS_Attack 演练
+
+https://zone.huoxian.cn/d/2664-cloudgoat-ecs-efs-attack
+
+- GDPR 和渗透测试：您需要了解的内容
+
+https://rhinosecuritylabs.com/compliance/gdpr-penetration-testing-need-know/
+
+- 了解云中第三方风险的 6 个技巧
+
+https://ermetic.com/blog/cloud/6-tips-for-understanding-3rd-party-risk-in-the-cloud/
+
+- 云原生网络安全会取代防火墙吗？
+
+https://www.trendmicro.com/en_us/devops/22/k/cloud-native-network-security-cloud-firewalls.html
+
+- 为什么基于行为的威胁检测对于云工作负载安全至关重要
+
+https://www.lacework.com/blog/why-behavioral-based-threat-detection-is-critical-for-cloud-workload-security/
+
+
+
 ### 20221118
 
 - GCP 渗透测试笔记
