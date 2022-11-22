@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221122
+
+- 看我如何在云环境中利用 Log4j 漏洞
+
+https://zone.huoxian.cn/d/2666-log4j
+
+- 基础设施的抽象化将是管理多云的关键
+
+https://devops.com/infrastructure-abstraction-will-be-key-to-managing-multi-cloud/
+
+- CloudFormation 组织
+
+https://www.chrisfarris.com/post/organization-cloudformation/
+
+- 允许非 AWS 工作负载使用 AWS IAM Roles Anywhere 访问 AWS 服务
+
+https://kloudle.com/academy/allowing-non-aws-workloads-to-access-aws-services-using-aws-iam-roles-anywhere
+
+- 深入研究 IAM 策略评估 -- AWS re:Inforce IAM433 的亮点
+
+https://ermetic.com/blog/aws/diving-deeply-into-iam-policy-evaluation-highlights-from-aws-reinforce-session-iam433/
+
+
+
 ### 20221121
 
 - CloudGoat ECS_EFS_Attack 演练
