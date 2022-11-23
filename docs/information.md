@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221123
+
+- 记一次 AWS 攻防场景演练
+
+https://zone.huoxian.cn/d/2668-aws
+
+- 深入探讨 AWS KMS 密钥访问和 AWS 密钥授予
+
+https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
+
+- CSPM——实践中的最小特权原则
+
+https://sysdig.com/blog/cspm-least-privilege-principle/
+
+- 容器安全：它是什么以及如何实现它
+
+https://www.cncf.io/blog/2022/11/14/container-security-what-it-is-and-how-to-implement-it/
+
+- 在多云环境中实现纵深防御
+
+https://securityboulevard.com/2022/11/achieve-defense-in-depth-in-multi-cloud-environments/
+
+
+
 ### 20221122
 
 - 看我如何在云环境中利用 Log4j 漏洞
