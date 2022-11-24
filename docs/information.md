@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221124
+
+- 带你走进S3存储桶中的潜在漏洞
+
+https://zone.huoxian.cn/d/2670-s3
+
+- 这 11 张图把 K8S 权限认证说的很清楚了
+
+https://mp.weixin.qq.com/s/aDJrKuOLhv4dNRuH-RQmrQ
+
+- Docker Hub恶意镜像分析：通过公共容器镜像进行攻击
+
+https://sysdig.com/blog/analysis-of-supply-chain-attacks-through-public-docker-images/
+
+- 回顾 KubeCon + CloudNativeCon North America 2022
+
+https://www.cncf.io/blog/2022/11/23/looking-back-on-kubecon-cloudnativecon-north-america-2022/
+
+- AWS pre:Invent 2022
+
+https://www.chrisfarris.com/post/preinvent2022/
+
+
+
 ### 20221123
 
 - 记一次 AWS 攻防场景演练
