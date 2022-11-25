@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221125
+
+- 谷歌云平台存储桶枚举与提权
+
+https://zone.huoxian.cn/d/2672
+
+- 云电脑如何充当勒索软件恢复的保险计划
+
+https://www.helpnetsecurity.com/2022/11/24/cloud-pcs-business-recovery-video/
+
+- AnalyticsRules.Exchange
+
+https://cloudbrothers.info/analyticsrules-exchange/
+
+- 用容器化的欺骗手段诱捕黑客
+
+https://itnext.io/trapping-hackers-with-containerized-deception-7a52c78285aa
+
+- AWS AppSync 通过 ServiceRoleArn 混淆代理
+
+https://www.cloudvulndb.org/aws-appsync-confused-deputy
+
+
+
 ### 20221124
 
 - 带你走进S3存储桶中的潜在漏洞
