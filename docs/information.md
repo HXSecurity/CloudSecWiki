@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221128
+
+- 这 11 张图把 K8S 权限认证说的很清楚了
+
+https://mp.weixin.qq.com/s/aDJrKuOLhv4dNRuH-RQmrQ
+
+- 从云原生迁移中风险最大的部分中幸存下来
+
+https://containerjournal.com/features/surviving-the-riskiest-part-of-your-cloud-native-migration/
+
+- 研究发现 Kubernetes 在指数级挑战中表现乐观
+
+https://containerjournal.com/features/study-finds-optimism-for-kubernetes-amid-exponential-challenges/
+
+- Docker Hub恶意镜像分析：通过公共容器镜像进行攻击
+
+https://sysdig.com/blog/analysis-of-supply-chain-attacks-through-public-docker-images/
+
+- 公有云安全容器设计，腾讯 Nodeless 弹性容器技术演进和实践
+
+https://www.infoq.cn/article/2JPIXj7aGW8murb40QA7
+
+
+
 ### 20221125
 
 - 谷歌云平台存储桶枚举与提权
