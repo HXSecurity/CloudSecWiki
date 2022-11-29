@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221129
+
+- Kubernetes 资源使用：使用 Goldilocks Open Source 估算工作负载成本
+
+https://www.cncf.io/blog/2022/11/28/kubernetes-resource-usage-estimate-workload-cost-with-goldilocks-open-source/
+
+- 最小化云安全事件的影响范围
+
+https://ermetic.com/blog/cloud/sealing-off-your-clouds-blast-radius/
+
+- 小型企业的云安全基础知识
+
+https://techspective.net/2022/11/23/how-cmms-software-can-help-your-business/
+
+- 如何理解 Istio 中的 MTLS 流量加密？
+
+https://jimmysong.io/blog/what-is-tls-termination/
+
+- registry.k8s.io：更快、更便宜且普遍可用
+
+https://kubernetes.io/blog/2022/11/28/registry-k8s-io-faster-cheaper-ga/
+
+
+
 ### 20221128
 
 - 这 11 张图把 K8S 权限认证说的很清楚了
