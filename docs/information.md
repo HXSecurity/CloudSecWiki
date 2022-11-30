@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 11 月
 
+### 20221130
+
+- 一文读懂云原生网关
+
+https://mp.weixin.qq.com/s/UZmcAx_Uj4Ozpa7QFVKLwQ
+
+- 生产网云负载防护如何落地？来自字节跳动的实践分享
+
+https://www.anquanke.com/post/id/283780
+
+- 云存储中的勒索
+
+https://sysdig.com/blog/extortion-in-cloud-storage/
+
+- 互联网增长的下半场：“云”将释放出怎样的新能量？
+
+https://www.infoq.cn/article/t828pxN6Z7237yL222ja
+
+- 容器：Rootful、Rootless、特权和超级特权
+
+https://infosecadalid.com/2021/08/30/containers-rootful-rootless-privileged-and-super-privileged/
+
+
+
 ### 20221129
 
 - Kubernetes 资源使用：使用 Goldilocks Open Source 估算工作负载成本
