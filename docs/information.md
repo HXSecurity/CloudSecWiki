@@ -6,6 +6,32 @@ title: 每日云安全技术资讯
 
 # 2022 年
 
+## 12 月
+
+### 20221201
+
+- 云迁移的方法、挑战和风险
+
+https://mp.weixin.qq.com/s/_HxlrgN5IszZzcheYRACHw
+
+- Amazon Web Services (AWS) 修复了一个跨租户漏洞，该漏洞可能允许攻击者获得对资源的未授权访问
+
+https://securityaffairs.co/wordpress/139045/hacking/amazon-web-services-flaw.html
+
+- 2023 年您需要了解的 43 个云安全术语
+
+https://blog.lightspin.io/cloud-security-terms
+
+- Constellation——第一个始终加密的 Kubernetes 引擎
+
+https://www.cncf.io/blog/2022/11/30/constellation-the-first-always-encrypted-kubernetes-engine/
+
+- nuvola：一款针对AWS环境的自动化安全分析工具
+
+https://www.freebuf.com/articles/network/350781.html
+
+
+
 ## 11 月
 
 ### 20221130
