@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221202
+
+- AWS 加强了 EKS 和 AWS Marketplace 的集成
+
+https://containerjournal.com/features/aws-tightens-eks-and-aws-marketplace-integration/
+
+- Docker逃逸那些事儿
+
+https://mp.weixin.qq.com/s/tiniAQ5AhCXm2_mqj_j7iA
+
+- 云安全基础知识第 1 部分：了解您的环境
+
+https://medium.com/@snyksec/cloud-security-fundamentals-part-1-know-your-environment-5b74ba04a53b
+
+- 在云中实施安全左移
+
+https://devops.com/implementing-shift-left-security-in-the-cloud/
+
+- 关于 Kubernetes Autoscaling 我想知道的一切
+
+https://www.qovery.com/blog/everything-i-wanted-to-know-about-kubernetes-autoscaling
+
+
+
 ### 20221201
 
 - 云迁移的方法、挑战和风险
