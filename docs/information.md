@@ -8,6 +8,54 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221209
+
+- K8s API访问控制
+
+https://mp.weixin.qq.com/s/ZpBuac-HC2g4MTVT_FvG6w
+
+- AWS 加强云中的容器安全
+
+https://containerjournal.com/features/aws-strengthens-container-security-in-the-cloud/
+
+- Kubernetes 服务：ClusterIP、Nodeport 和 LoadBalancer
+
+https://sysdig.com/blog/kubernetes-services-clusterip-nodeport-loadbalancer/
+
+- 云安全：维护最小特权
+
+https://sonraisecurity.com/blog/principle-least-privilege/
+
+- CNCF 宣布 Argo 正式毕业
+
+https://www.infoq.cn/news/Y8a0EK2UevjXBm3QGCOX
+
+
+
+### 20221208
+
+- Kubernetes 1.26 中的删除、弃用和主要更改
+
+https://mp.weixin.qq.com/s/njXUM8Lj5CuUS0AMIjiqnA
+
+- Kubernetes 跨集群流量调度实战 ：访问控制
+
+https://mp.weixin.qq.com/s/WntmvEY1Yyrl3SKJ09IkMg
+
+- 红队攻防 | 云上横向移动：利用脆弱容器实施攻击
+
+https://mp.weixin.qq.com/s/-EwOour9I5HdmcP40QIhmQ
+
+- 云安全向导
+
+https://github.com/GRQForCloud/cloud-security-guides
+
+- 【专业洞察】利用Postee和AWS Security Hub分级处理Trivy AWS警报
+
+https://mp.weixin.qq.com/s/DdBOcTbWGymtIGhQWlbNsw
+
+
+
 ### 20221202
 
 - AWS 加强了 EKS 和 AWS Marketplace 的集成
