@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221212
+
+- Prometheus：使用 blackbox-exporter 监控 Kubernetes 端点
+
+https://itnext.io/prometheus-kubernetes-endpoints-monitoring-with-blackbox-exporter-a027ae136b8d
+
+- TripleCross：一款功能强大的Linux eBPF安全研究工具
+
+https://mp.weixin.qq.com/s/6uxWVxUvf5tZ-7qMslVZTA
+
+- Sysdig发现利用开源工具PRoot攻击Linux系统的活动
+
+https://www.anquanke.com/post/id/284169
+
+- AWS 配置安全：身份访问管理
+
+https://rhinosecuritylabs.com/cloud-security/aws-identity-access-management-preventing-security-configuration/
+
+- 2023 年要应对的 5 大云安全威胁
+
+https://orca.security/resources/blog/top-5-cloud-security-threats-2023/
+
+
+
 ### 20221209
 
 - K8s API访问控制
