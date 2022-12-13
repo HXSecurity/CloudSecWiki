@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221213
+
+- Kubernetes 上千规模 Pod 最佳实践
+
+https://mp.weixin.qq.com/s/TR4v40t7XjDe7ADG0TnRHg
+
+- 8 张图详解 Prometheus AlertManager 实战操作
+
+https://mp.weixin.qq.com/s/SZq1n9q9uP354BFLDGtpWA
+
+- Azure AD 信息收集工具
+
+https://github.com/JoelGMSec/AzureGraph
+
+- 如何收集 Azure 应用配置
+
+https://www.netspi.com/blog/technical/cloud-penetration-testing/gathering-azure-app-configurations/
+
+- 云计算如何影响中东转型目标
+
+https://peoplactive.com/cloud-computing-affecting-middle-east/
+
+
+
 ### 20221212
 
 - Prometheus：使用 blackbox-exporter 监控 Kubernetes 端点
