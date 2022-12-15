@@ -8,6 +8,54 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221215
+
+- Kubernetes 1.26 - 有什么新内容？
+
+https://sysdig.com/blog/kubernetes-1-26-whats-new/
+
+- Tigera 让 Kubernetes 的零信任实施变得更加简单
+
+https://containerjournal.com/features/tigera-makes-implementing-zero-trust-for-kubernetes-easier/
+
+- 调查显示企业普遍存在云不安全感
+
+https://securityboulevard.com/2022/12/survey-surfaces-general-sense-of-cloud-insecurity-in-the-enterprise/
+
+- 想彻底改变云行业！Spark 发源地 UC 伯克利分校再推开源项目应对云成本飙升：平均降至三分之一
+
+https://www.infoq.cn/article/S3tRHVqd5Al23NOMpVXS
+
+- 2023 KubeCon + CloudNativeCon 和同地活动的重要更新
+
+https://www.cncf.io/blog/2022/12/14/important-updates-for-2023-kubecon-cloudnativecon-and-co-located-events/
+
+
+
+### 20221214
+
+- Kubernetes 1.26 版本发布
+
+https://kubernetes.io/blog/2022/12/09/kubernetes-v1-26-release/
+
+- Kubernetes 1.26 更新结束了 2022 年的开发工作
+
+https://containerjournal.com/features/kubernetes-1-26-update-closes-out-2022-development-efforts/
+
+- AWS利用容器实现ML模型部署的自动化
+
+https://containerjournal.com/features/aws-leverages-containers-to-automate-ml-model-deployments/
+
+- Java应用容器化的那些坑
+
+https://mp.weixin.qq.com/s/7mLZms4JAGx8NG6IUnhL7w
+
+- 探索新的容器检查点功能
+
+https://sysdig.com/blog/forensic-container-checkpointing-dfir-kubernetes/
+
+
+
 ### 20221213
 
 - Kubernetes 上千规模 Pod 最佳实践
