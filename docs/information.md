@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221216
+
+- AzureGraph：从 Microsoft Graph 列出 Azure AD
+
+https://darkbyte.net/azuregraph-enumerando-azure-ad-desde-microsoft-graph/
+
+- 亚马逊云曝出“超级漏洞”，攻击者可删除任何镜像
+
+https://mp.weixin.qq.com/s/H_hMNmmUHVLFEI8s4ROxUQ
+
+- Canonical 为 Kubernetes 实例添加了大量的工具
+
+https://containerjournal.com/features/canonical-adds-bevy-of-tools-to-curated-instances-of-kubernetes/
+
+- 如何监控 kube-controller-manager
+
+https://sysdig.com/blog/how-to-monitor-kube-controller-manager/
+
+- 20 张图详细理清 K8S Istio Gateway 与实战操作
+
+https://mp.weixin.qq.com/s/_z5vHRJTEESxOWDMvhPCkQ
+
+
+
 ### 20221215
 
 - Kubernetes 1.26 - 有什么新内容？
