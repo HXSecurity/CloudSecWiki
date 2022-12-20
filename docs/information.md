@@ -8,6 +8,54 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221220
+
+- 2023 年的 10 个云原生预测
+
+https://containerjournal.com/features/10-cloud-native-predictions-for-2023/
+
+- 移动容器：发现挑战。寻找解决方案
+
+https://www.guidepointsecurity.com/blog/moving-containers-uncovering-challenges-finding-solutions/
+
+- 开源网关 Apache APISIX 认证鉴权精细化实战讲解
+
+https://mp.weixin.qq.com/s/5t6WjxxgqximU6OcMKm83g
+
+- 为什么 OpenTelemetry 将云原生推向了新的高度
+
+https://www.cncf.io/blog/2022/12/16/why-opentelemetry-is-taking-cloud-native-to-new-heights/
+
+- 深入 Azure 功能：HyperV 是最后一道防线
+
+https://unit42.paloaltonetworks.com/azure-serverless-functions-security/
+
+
+
+### 20221219
+
+- AWS ECR 公开漏洞
+
+https://blog.lightspin.io/aws-ecr-public-vulnerability
+
+- 为什么 APISIX Ingress 是比 Traefik 更好的选择？
+
+https://mp.weixin.qq.com/s/fhXHSn-TDDIPGD0OSgaBbA
+
+- 容器化应用程序的过度配置增加了云成本
+
+https://containerjournal.com/features/overprovisioning-of-containerized-applications-adds-to-cloud-costs/
+
+- 我希望在我们的云迁移之前我能了解有关云安全的知识
+
+https://blog.radware.com/uncategorized/2022/12/what-i-wish-i-would-have-known-about-cloud-security/
+
+- re:Invent 2022 全回顾：看见云计算的力量，透视未来的云计算
+
+https://www.infoq.cn/article/0O8eBz5ZJAbO3EiTbYwR
+
+
+
 ### 20221216
 
 - AzureGraph：从 Microsoft Graph 列出 Azure AD
