@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221221
+
+- 利用 IAM 安全错误配置以及如何检测它们
+
+https://sysdig.com/blog/iam-security-misconfiguration/
+
+- 容器安全3个最佳实践：增强整体安全态势
+
+https://mp.weixin.qq.com/s/zp0jfowjKtaO9vcBtrSWDQ
+
+- Akamai 和 S3 存储桶之间的异常缓存中毒
+
+https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/
+
+- 管理微服务基础设施复杂性的 3 种方法
+
+https://containerjournal.com/features/3-ways-to-manage-microservices-infrastructure-complexity/
+
+- 云计算服务：未来的威胁
+
+https://kratikal.com/blog/cloud-computing-services-the-threat-of-the-future/
+
+
+
 ### 20221220
 
 - 2023 年的 10 个云原生预测
