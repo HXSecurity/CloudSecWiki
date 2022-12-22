@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221222
+
+- 16 张图实战 Prometheus 自定义告警规则
+
+https://mp.weixin.qq.com/s/DnDC6OeLKNUfcJASWZQFCw
+
+- 弹性 IP 劫持——AWS 中的一种新攻击向量
+
+https://www.mitiga.io/blog/elastic-ip-hijacking-a-new-attack-vector-in-aws
+
+- 实战 | 对象存储(OSS)攻防案例
+
+https://mp.weixin.qq.com/s/1xeA2ytbpAdi7VpjmmLSsQ
+
+- 盘点2022年十大云安全事件
+
+https://mp.weixin.qq.com/s/If2SDxMeOnOEJpRnyDGXAw
+
+- Azure 中的无密码持久性和特权升级
+
+https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f
+
+
+
 ### 20221221
 
 - 利用 IAM 安全错误配置以及如何检测它们
