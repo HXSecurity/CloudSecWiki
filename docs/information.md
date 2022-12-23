@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221223
+
+- DockerHub上发现1600个恶意镜像
+
+https://mp.weixin.qq.com/s/AsNRCwn_ksUBiWBEddsyXQ
+
+- GitOps：Kubernetes CI/CD 的缺失环节 
+
+https://containerjournal.com/features/gitops-the-missing-link-for-ci-cd-for-kubernetes/
+
+- PEACH 介绍，一种用于云应用程序的租户隔离框架
+
+https://www.wiz.io/blog/introducing-peach-a-tenant-isolation-framework-for-cloud-applications
+
+- 云安全播客 — 两年后或我们对 2022 年的年终反思！
+
+https://medium.com/anton-on-security/cloud-security-podcast-two-years-later-or-our-year-end-reflections-for-2022-22c9e5386655
+
+- 多云世界的 DevOps 重置
+
+https://www.cncf.io/blog/2022/12/20/a-devops-reset-for-a-multi-cloud-world/
+
+
+
 ### 20221222
 
 - 16 张图实战 Prometheus 自定义告警规则
