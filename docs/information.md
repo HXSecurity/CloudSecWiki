@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221226
+
+- 使用 Docker Hub 完美地存储 Helm 图表实战
+
+https://mp.weixin.qq.com/s/oMFtKeWvKv_X3OUsOZdWGg
+
+- 阿里云（香港节点瘫痪）复盘
+
+https://mp.weixin.qq.com/s/jv6l_y9Wk6xVAn9p2Y_IJg
+
+- 【漏洞挖掘系列】OSS的STS模式授权案例
+
+https://mp.weixin.qq.com/s/EFm07aD0ailSsS1pFgvJEg
+
+- Istio 1.16 已经发布，这对环境网格和您来说意味着什么？
+
+https://www.cncf.io/blog/2022/12/15/istio-1-16-is-out-what-does-it-mean-for-ambient-mesh-and-you/
+
+- 什么是云原生应用保护平台（CNAPP）？4 个必备功能
+
+https://blog.lightspin.io/what-is-a-cnapp
+
+
+
 ### 20221223
 
 - DockerHub上发现1600个恶意镜像
