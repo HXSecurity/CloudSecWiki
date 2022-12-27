@@ -8,6 +8,26 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221227
+
+- Lastpass：黑客在云存储漏洞中窃取了客户保险库数据
+
+https://www.bleepingcomputer.com/news/security/lastpass-hackers-stole-customer-vault-data-in-cloud-storage-breach/
+
+- 谷歌：保护多个云环境是 2023 年 SOC 面临的最大挑战
+
+https://www.scmagazine.com/news/cloud-security/google-securing-multiple-cloud-environments-the-top-challenge-for-socs-in-2023
+
+- 如何使用 Hashicorp Vault 作为一种更安全的方式来存储 Istio 证书
+
+https://tetrate.io/blog/how-to-use-hashicorp-vault-as-a-more-secure-way-to-store-istio-certificates/
+
+- 2022 年最佳：8 个 CNCF 云原生持久存储项目
+
+https://containerjournal.com/features/8-cncf-projects-for-cloud-native-persistent-storage/
+
+
+
 ### 20221226
 
 - 使用 Docker Hub 完美地存储 Helm 图表实战
