@@ -8,6 +8,54 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221229
+
+- Containerd 深度剖析-CRI 篇
+
+https://mp.weixin.qq.com/s/_BS1BtTEFCAW2rK2FBXKLg
+
+- 谷歌：云计算引爆API安全危机
+
+https://mp.weixin.qq.com/s/Zz877gDQgV6yqm1ZO3Nw2A
+
+- Kubernetes 可能因容器验证错误而被黑客攻击
+
+https://cysecurity.news/2022/12/kubernetes-can-be-hacked-due-to.html
+
+- Zscaler 加入 CISA 的联合网络防御协作
+
+https://www.meritalk.com/articles/zscaler-joining-cisas-joint-cyber-defense-collaborative/
+
+- 2022 年最佳：强化 Kubernetes 多集群环境
+
+https://containerjournal.com/editorial-calendar/hardening-kubernetes-multi-cluster-environments/
+
+
+
+### 20221228
+
+- Docker Desktop 4.15 正式发布，这些新功能值得看
+
+https://mp.weixin.qq.com/s/shE0iWvwwXVItk0rhsDuRQ
+
+- 基于秘密的云供应链攻击：案例研究和安全团队的经验教训
+
+https://www.wiz.io/blog/secret-based-cloud-supply-chain-attacks-case-study-and-lessons-for-security-teams
+
+- 基础设施自动化降低了云原生的复杂性
+
+https://containerjournal.com/features/infrastructure-automation-reduces-cloud-native-complexity/
+
+- 2022 年精选：Kubernetes 上的大数据：Hadoop 的终结？
+
+https://containerjournal.com/features/big-data-on-kubernetes-the-end-for-hadoop/
+
+- ACSESSED：Azure 认知搜索中的跨租户网络旁路
+
+https://www.mnemonic.io/resources/blog/acsessed-cross-tenant-network-bypass-in-azure-cognitive-search/
+
+
+
 ### 20221227
 
 - Lastpass：黑客在云存储漏洞中窃取了客户保险库数据
