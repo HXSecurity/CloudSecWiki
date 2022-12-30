@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 12 月
 
+### 20221230
+
+- 2022 年最佳：开源云原生工具终极清单
+
+https://containerjournal.com/features/the-ultimate-list-of-open-source-cloud-native-tools/
+
+- K8s组件和架构
+
+https://mp.weixin.qq.com/s/xcXiTwzx9tRkpndARiMKuQ
+
+- 云安全容器安全扫盲 之 如何在Kubenetes（K8S）中部署应用
+
+https://www.secpulse.com/archives/194329.html
+
+- 如何最大限度地减少你的云上漏洞影响范围
+
+https://sonraisecurity.com/blog/how-to-determine-blast-radius/
+
+- 亚马逊云科技为蓝绿及金丝雀策略引入 CloudFront 持续部署
+
+https://www.infoq.cn/article/LW5JeoLR0Jcl1ktRNV0o
+
+
+
 ### 20221229
 
 - Containerd 深度剖析-CRI 篇
