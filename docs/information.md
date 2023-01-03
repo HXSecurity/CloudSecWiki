@@ -4,6 +4,34 @@ sidebar_position: 1
 title: 每日云安全技术资讯
 ---
 
+# 2023 年
+
+## 1 月
+
+### 20230103
+
+- 将 Node.js 应用程序部署到 Kubernetes 集群
+
+https://containerjournal.com/features/deploying-node-js-apps-to-a-kubernetes-cluster/
+
+- 6 个 CI/CD CNCF 项目
+
+https://containerjournal.com/features/6-cncf-projects-for-ci-cd/
+
+- 云计算如何影响金融科技？
+
+https://peoplactive.com/cloud-computing-affecting-fintech/
+
+- Amazon 公布 Security Lake 的预览版本
+
+https://www.infoq.cn/article/qE2ktmffyijphgdTl1mU
+
+- 如何为 2023 年的云安全战略做好财务准备
+
+https://orca.security/resources/blog/how-to-prep-cloud-security-strategy-budgets/
+
+
+
 # 2022 年
 
 ## 12 月
