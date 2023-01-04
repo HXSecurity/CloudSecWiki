@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 1 月
 
+### 20230104
+
+- 在 Lambda 中的 ABAC
+
+https://www.praetorian.com/blog/abac-in-lambda/
+
+- Prometheus 路线图和最近更新
+
+https://www.cncf.io/blog/2023/01/03/prometheus-roadmap-and-latest-updates/
+
+- 为什么在 Kubernetes 中运行 Postgres
+
+https://containerjournal.com/kubecon-cnc-eu-2022/why-run-postgres-in-kubernetes/
+
+- SUSE 简化边缘 Kubernetes 管理
+
+https://containerjournal.com/features/suse-simplifies-kubernetes-management-at-the-edge/
+
+- 使用 Go 开始使用 MSK Serverless 和 AWS Lambda
+
+https://itnext.io/getting-started-with-msk-serverless-and-aws-lambda-using-go-3d5acec6f99f
+
+
+
 ### 20230103
 
 - 将 Node.js 应用程序部署到 Kubernetes 集群
