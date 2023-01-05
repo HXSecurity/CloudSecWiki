@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 1 月
 
+### 20230105
+
+- 2023年的10个云原生发展趋势预测
+
+https://mp.weixin.qq.com/s/85Pj3UeH1o9TlLyx6Ik94A
+
+- K8s 原生支持的准入策略管理
+
+https://mp.weixin.qq.com/s/wDlCQkHTBUQDucT9K7G2mg
+
+- AndroxGh0st——利用您的 AWS 密钥的 python 恶意软件
+
+https://www.lacework.com/blog/androxghost-the-python-malware-exploiting-your-aws-keys/
+
+- K8S 1.26 这个新特性，支持大规模并行批处理工作负载
+
+https://mp.weixin.qq.com/s/rUuFTAwll9g1wx5HPHbQ_Q
+
+- 2022 年 k8s 漏洞合集
+
+https://www.cncf.io/blog/2023/01/04/2022-kubernetes-vulnerabilities-main-takeaways/
+
+
+
 ### 20230104
 
 - 在 Lambda 中的 ABAC
