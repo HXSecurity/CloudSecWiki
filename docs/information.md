@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 1 月
 
+### 20230106
+
+- BHYVE 逃逸
+
+https://www.synacktiv.com/publications/escaping-from-bhyve.html
+
+- 2023年关于云计算创新的预测
+
+https://mp.weixin.qq.com/s/0xZraUUBYQgn74md39o-Ig
+
+- 回顾 2022 年：Kubernetes 的 Big Year
+
+https://containerjournal.com/features/2022-in-review-kubernetes-big-year/
+
+- Serverless 时代的微服务开发指南：华为云提出七大实践新标准
+
+https://www.infoq.cn/article/e4ly6UcN93KApvKGzUCK
+
+- CloudNativeSecurityCon North America 2023：您不想错过的 5 个会议！
+
+https://www.cncf.io/blog/2023/01/04/cloudnativesecuritycon-north-america-2023-5-sessions-you-dont-want-to-miss/
+
+
+
 ### 20230105
 
 - 2023年的10个云原生发展趋势预测
