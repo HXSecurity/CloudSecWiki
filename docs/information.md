@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 1 月
 
+### 20231009
+
+- Prometheus 路线图和最新更新
+
+https://www.cncf.io/blog/2023/01/03/prometheus-roadmap-and-latest-updates/
+
+- 2023 年云安全趋势第 1 部分
+
+https://blog.aquasec.com/cloud-security-trends-2023-part-one
+
+- 2023 年云安全的主要挑战：管理不断增长的网络攻击、提供可见性和整合工具蔓延
+
+https://www.scmagazine.com/news/cloud-security/top-challenges-for-cloud-security-in-2023-managing-growing-cyberattacks-delivering-visibility-and-consolidating-tool-sprawl
+
+- 云可持续性和绿色软件之路
+
+https://www.cncf.io/blog/2023/01/06/cloud-sustainability-and-the-path-to-green-software/
+
+- CSPM 演变——安全开始，保持安全
+
+https://www.scmagazine.com/native/cloud-security/cspm-evolution-start-secure-stay-secure
+
+
+
 ### 20230106
 
 - BHYVE 逃逸
