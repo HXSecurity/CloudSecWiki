@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 1 月
 
+### 20230110
+
+- 容器云安全的现状评估和未来发展趋势研判 | 联盟发布
+
+https://mp.weixin.qq.com/s/ZZxd0sYmMljHeWX1_O13tw
+
+- 云原生周刊 | 在 Grafana 中显示 K8s Service 之间的依赖关系
+
+https://mp.weixin.qq.com/s/SqXO2FWrrwsnf7reFdT78w
+
+- D2iQ 扩展了 Kubernetes 管理平台的范围
+
+https://containerjournal.com/features/d2iq-extends-reach-of-kubernetes-management-platform-2/
+
+- 云环境图和攻击路径的技术深入研究
+
+https://blog.lightspin.io/technical-deep-dive-of-cloud-environment-graphs-and-attack-paths
+
+- 使用自动准时制 (JIT) 实现最小特权 - 指南
+
+https://ermetic.com/blog/cloud/using-automated-just-in-time-jit-to-reach-least-privilege-a-guide/
+
+
+
 ### 20231009
 
 - Prometheus 路线图和最新更新
