@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 1 月
 
+### 20230111
+
+- 5 个云原生应用配置管理最佳实践
+
+https://containerjournal.com/features/5-cloud-native-app-config-management-best-practices/
+
+- 云灾难恢复策略的 7 大主要优势
+
+https://securityboulevard.com/2023/01/7-key-benefits-of-a-cloud-disaster-recovery-strategy/
+
+- 2023 年您需要制定的 6 种 Kubernetes 成本控制策略
+
+https://www.cncf.io/blog/2023/01/10/6-kubernetes-cost-control-strategies-you-need-in-place-for-2023/
+
+- AWS 表示现在将默认加密 S3 存储桶
+
+https://aws.amazon.com/cn/blogs/aws/amazon-s3-encrypts-new-objects-by-default/
+
+- 云中的横向移动风险以及如何预防它们——第 2 部分：从容器受损到云接管
+
+https://www.wiz.io/blog/lateral-movement-risks-in-the-cloud-and-how-to-prevent-them-part-2-from-k8s-clust
+
+
+
 ### 20230110
 
 - 容器云安全的现状评估和未来发展趋势研判 | 联盟发布
