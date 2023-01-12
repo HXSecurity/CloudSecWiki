@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 1 月
 
+### 20230112
+
+- 将工作负载安全地从本地迁移到云端
+
+https://www.forbes.com/sites/forbestechcouncil/2023/01/10/moving-workloads-securely-from-on-premises-to-the-cloud
+
+- 数据显示 GCP 用户在跨云安全方面落后
+
+https://securityboulevard.com/2023/01/data-reveals-gcp-users-lagging-in-cross-cloud-security/
+
+- Apple 让消费者 BYOK；您的云提供商是否效仿？
+
+[Apple Lets Consumers BYOK; Is Your Cloud Provider Following Suit?](https://baffle.io/blog/apple-lets-consumers-byok-is-your-cloud-provider-following-suit/)
+
+- CNAPP 在云安全中的重要性以及平台之间的主要差异
+
+https://deepfence.io/the-importance-of-cnapp-in-cloud-security-and-key-differences-between-platforms/
+
+- 10 张图详解 K8S 中部署 Ceph 与功能测试实战
+
+https://mp.weixin.qq.com/s/uOUU_O35An689lQ30dIsLg
+
+
+
 ### 20230111
 
 - 5 个云原生应用配置管理最佳实践
@@ -4720,4 +4744,4 @@ https://docker.events.cube365.net/dockercon/2022
 
 - APISIX CVE-2022-29266 漏洞分析与复现
 
-https://wiki.teamssix.com/CloudNative/APISIX/apisix-cve-2022-29266.html
+https://wiki.teamssix.com/CloudNative/APISIX/apisix-cve-2022-29266.htmlv
