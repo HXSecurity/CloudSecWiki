@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 1 月
 
+### 20230113
+
+- K8S后渗透横向节点与持久化隐蔽方式探索
+
+https://mp.weixin.qq.com/s/qYlAYM2jbdPtdXCi0oFagA
+
+- 微软：Kinsing 通过容器、PostgreSQL 瞄准 Kubernetes
+
+https://www.darkreading.com/cloud/microsoft-kinsing-malware-kubernetes-containers-postgresql
+
+- K8S 1.26 跨命名空间存储数据源实践详解
+
+https://mp.weixin.qq.com/s/yK030_eThYTbvGJz8Spfww
+
+- 凭证滥用如何威胁云操作
+
+https://securityboulevard.com/2023/01/how-credential-misuse-threatens-cloud-operations/
+
+- 2023年关键的云计算和安全趋势
+
+https://mp.weixin.qq.com/s/9WagH9tPd05p_PRtq3Y_3g
+
+
+
 ### 20230112
 
 - 将工作负载安全地从本地迁移到云端
