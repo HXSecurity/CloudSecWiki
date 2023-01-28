@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 1 月
 
+### 20230128
+
+- 如何监控 CoreDNS
+
+https://sysdig.com/blog/how-to-monitor-coredns/
+
+- 通过主动漏洞管理克服容器安全漏洞
+
+https://containerjournal.com/features/overcoming-container-security-gaps-with-active-vulnerability-management/
+
+- 如何防止云中的 DDoS 攻击
+
+https://sysdig.com/blog/how-to-prevent-ddos-attack-cloud/
+
+- 为什么不应该使用跳转服务器来保护 Kubernetes 的 API
+
+https://containerjournal.com/features/why-you-shouldnt-use-a-jump-server-to-protect-kubernetes-api/
+
+- 2023 年云原生预测
+
+https://www.cncf.io/blog/2023/01/26/2023-cloud-native-predictions/
+
+
+
 ### 20230113
 
 - K8S后渗透横向节点与持久化隐蔽方式探索
