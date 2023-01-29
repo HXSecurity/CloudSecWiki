@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 1 月
 
+### 20230129
+
+- 安全工程师的 15 个最佳 Kubectl 插件
+
+https://sysdig.com/blog/top-15-kubectl-plugins-for-security-engineers/
+
+- 云计算在银行和金融服务中扮演什么角色？
+
+https://securityboulevard.com/2023/01/what-role-does-cloud-computing-play-in-banking-and-financial-services/
+
+- 云原生授权五定律
+
+https://www.cncf.io/blog/2023/01/19/the-five-laws-of-cloud-native-authorization/
+
+- 什么是云原生成熟度模型（我为什么要关心）？
+
+https://www.cncf.io/blog/2023/01/20/what-is-the-cloud-native-maturity-model-and-why-do-i-care/
+
+- 为什么 CNAPP 解决方案是云安全演进的下一步
+
+https://blog.lightspin.io/why-a-cnapp-solution-is-the-next-step-in-cloud-security-evolution
+
+
+
 ### 20230128
 
 - 如何监控 CoreDNS
