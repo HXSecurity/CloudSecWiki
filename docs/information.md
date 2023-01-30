@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 1 月
 
+### 20230130
+
+- Cloud IDE 是不是一个伪命题
+
+https://www.infoq.cn/article/DtKGOP7ilVoNTssfPwrC
+
+- 2023 年平台工程趋势
+
+https://www.cncf.io/blog/2023/01/24/platform-engineering-trends-in-2023/
+
+- EmojiDeploy Azure Web 服务 RCE
+
+https://ermetic.com/blog/azure/emojideploy-smile-your-azure-web-service-just-got-rced/
+
+- Azure Services SSRF 漏洞
+
+https://orca.security/resources/blog/ssrf-vulnerabilities-in-four-azure-services/
+
+- AWS CloudTrail 漏洞：未记录的 API 允许 CloudTrail 被绕过
+
+https://securitylabs.datadoghq.com/articles/iamadmin-cloudtrail-bypass/
+
+
+
 ### 20230129
 
 - 安全工程师的 15 个最佳 Kubectl 插件
