@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 1 月
 
+### 20230131
+
+- 安全、合规风险使云迁移工作复杂化 
+
+https://securityboulevard.com/2023/01/security-compliance-risks-complicate-cloud-migration-efforts/
+
+- Istio 发布 2022 年安全审计结果
+
+https://www.cncf.io/blog/2023/01/30/istio-publishes-results-of-2022-security-audit/
+
+- 保护您的云环境并减少 MTTR 的最有效方法：黑盒攻击路径分析和像攻击者一样思考的好处
+
+https://blog.lightspin.io/secure-your-cloud-and-reduce-mttr-black-box-attack-path-analysis
+
+- Google Cloud Compute Engine [Google VRP] 中的 SSH 密钥注入
+
+https://blog.stazot.com/ssh-key-injection-google-cloud/
+
+- 2023 年云安全趋势 - 第二部分
+
+https://blog.aquasec.com/cloud-security-trends-for-2023-part-two
+
+
+
 ### 20230130
 
 - Cloud IDE 是不是一个伪命题
