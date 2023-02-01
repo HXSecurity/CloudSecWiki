@@ -6,6 +6,32 @@ title: 每日云安全技术资讯
 
 # 2023 年
 
+## 2 月
+
+### 20230201
+
+- 保持微服务的安全，即使是来自他们自己
+
+https://containerjournal.com/features/keep-microservices-secure-even-from-themselves/
+
+- CNAPP for Dummies：一本书中的所有基础知识
+
+https://www.lacework.com/blog/cnapp-for-dummies-all-the-basics-in-one-book/
+
+- 安全团队可以更有效地管理云中身份的五种方法
+
+https://www.scmagazine.com/resource/identity-and-access/five-ways-security-teams-can-more-effectively-manage-identities-in-the-cloud
+
+- 云原生安全：OWASP Kubernetes Top 10
+
+https://orca.security/resources/blog/owasp-kubernetes-top-10/
+
+- 使用 ECR 复制在 ECR 存储库上配置静态 KMS 加密
+
+https://aws.amazon.com/blogs/containers/configuring-kms-encryption-at-rest-on-ecr-repositories-with-ecr-replication/
+
+
+
 ## 1 月
 
 ### 20230131
