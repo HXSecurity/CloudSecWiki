@@ -8,6 +8,54 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230203
+
+- 图解Kubernetes架构原理
+
+https://mp.weixin.qq.com/s/rl7ldVxqcqHggk0JNJwtww
+
+- AzBelt 用于枚举 Azure 相关凭据的独立 DLL 和 sliver 扩展
+
+https://github.com/daddycocoaman/AzBelt
+
+- AKSK 的利用姿势
+
+https://mp.weixin.qq.com/s/urTdlIx2vEu1UWHL6kNFEQ
+
+- 滥用 Azure API 权限
+
+https://github.com/Hagrid29/AbuseAzureAPIPermissions
+
+- 2022年度CSA关键词：数字安全，云安全，零...
+
+https://mp.weixin.qq.com/s/KqMjcX9FzSZ7_cZMcD9XwQ
+
+
+
+### 20230202
+
+- CNCF 将添加另一项安全认证
+
+https://containerjournal.com/features/cncf-to-add-another-security-certification/
+
+- Sysdig 2023 云原生安全和使用报告
+
+https://sysdig.com/blog/2023-cloud-native-security-usage-report/
+
+- 使用未记录的 CodeStar API升级 AWS IAM 权限
+
+https://rhinosecuritylabs.com/aws/escalating-aws-iam-privileges-undocumented-codestar-api/
+
+- Wiz 和 AWS CloudTrail Lake：云安全和合规状况审计变得简单
+
+https://www.wiz.io/blog/wiz-and-aws-cloudtrail-lake-cloud-security-and-compliance-posture-audits
+
+- HashiCorp 2022 年回顾
+
+https://mp.weixin.qq.com/s/-Zug3Cq2Bi-mDB2KZN8DRg
+
+
+
 ### 20230201
 
 - 保持微服务的安全，即使是来自他们自己
