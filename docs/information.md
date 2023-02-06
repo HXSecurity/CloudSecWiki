@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230206
+
+- 从脏管道 (CVE-2022-0847) 到 docker 逃逸
+
+https://xz.aliyun.com/t/12055
+
+- 2023 年云原生预测
+
+https://mp.weixin.qq.com/s/4AXKj0T40sp51tQAM3BJ9g
+
+- 多云环境下的安全挑战与防护建议
+
+https://www.aqniu.com/homenews/93269.html
+
+- RBAC 权限的滥用
+
+https://mp.weixin.qq.com/s/4k-nW_9-P3YTJMbJa9UGLQ
+
+- 使用 Kubernetes Lens 仪表板提升 Kubernetes 安全性
+
+https://containerjournal.com/features/using-the-kubernetes-lens-dashboard-to-boost-kubernetes-security/
+
+
+
 ### 20230203
 
 - 图解Kubernetes架构原理
