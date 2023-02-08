@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230208
+
+- K8S API 访问控制之 RBAC 利用
+
+https://mp.weixin.qq.com/s/emej9iAFTgr14Y_Q3-aYNA
+
+- 系统地破坏 Docker 命名管道：Docker 桌面特权升级 – 第 1 部分
+
+https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1
+
+- 云原生安全检测器 Narrows｜在 Harbor上增加容器安全的动态扫描
+
+https://mp.weixin.qq.com/s/ZGZvBi4JQvqALtTzWD_wJQ
+
+- 如何使用机器学习来有效管理 Kubernetes 资源
+
+https://mp.weixin.qq.com/s/ck-5vz99pTmbixNg1jXxBA
+
+- 为什么企业要采用多云/混合战略？
+
+https://www.cncf.io/blog/2023/02/03/why-are-enterprises-moving-on-multi-cloud-hybrid-strategies/
+
+
 ### 20230206
 
 - 从脏管道 (CVE-2022-0847) 到 docker 逃逸
