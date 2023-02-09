@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230209
+
+- 基于微服务的应用程序中的即时权限
+
+https://containerjournal.com/features/just-in-time-permissions-in-microservices-based-applications/
+
+- 发现导致部分绕过 AWS 控制台中登录速率限制的弱点
+
+https://securitylabs.datadoghq.com/articles/aws-console-rate-limit-bypass/
+
+- 攻击和保护 Docker 容器
+
+https://infosecwriteups.com/attacking-and-securing-docker-containers-cc8c80f05b5b
+
+- 如何优雅的让 Pod 通过 ServiceAccount 访问 K8s api-server
+
+https://mp.weixin.qq.com/s/M-m8n8xAVTlde0_w28G8xw
+
+- 如何实施 CIEM – 清单
+
+https://ermetic.com/blog/cloud/how-to-implement-ciem-a-checklist/
+
+
 ### 20230208
 
 - K8S API 访问控制之 RBAC 利用
