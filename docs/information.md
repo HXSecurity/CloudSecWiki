@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230210
+
+- 部署 Kubernetes 时要避免的 6 个常见陷阱
+
+https://containerjournal.com/features/6-common-pitfalls-to-avoid-when-deploying-kubernetes/
+
+- Prometheus Alertmanager 最佳实践
+
+https://sysdig.com/blog/prometheus-alertmanager/
+
+- 重温亨特·拜登的笔记本电脑：这对云存储意味着什么
+
+https://securityboulevard.com/2023/02/hunter-bidens-laptop-revisited-what-it-means-for-cloud-storage/
+
+- CNAPP 简化安全的 4 种方式
+
+https://www.lacework.com/blog/4-ways-cnapps-will-simplify-security/
+
+- 最大限度地提高云工程师的效率：正确的工具至关重要
+
+https://blog.lightspin.io/maximizing-your-efficiency-as-a-cloud-engineer-the-right-tools-make-all-the-difference
+
+
+
 ### 20230209
 
 - 基于微服务的应用程序中的即时权限
