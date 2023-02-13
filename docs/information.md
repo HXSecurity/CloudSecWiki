@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230213
+
+- 什么是混合云安全？挑战、优势和最佳实践
+
+https://www.wiz.io/academy/what-is-hybrid-cloud-security-challenges-benefits-and-best-practices
+
+- 如何避免云原生可观察性工具蔓延
+
+https://containerjournal.com/features/how-to-avoid-cloud-native-observability-tooling-sprawl/
+
+- 公共云中纠正性自动修复的危险
+
+https://blog.lightspin.io/the-dangers-of-corrective-auto-remediation-in-your-public-cloud
+
+- 如何实施 FinOps 并增加 Kubernetes 成本规避
+
+https://www.cncf.io/blog/2023/02/08/how-to-implement-finops-and-increase-your-kubernetes-cost-avoidance/
+
+- 了解多云与混合云：主要比较
+
+https://orca.security/resources/blog/multicloud-vs-hybrid-cloud/
+
+
+
 ### 20230210
 
 - 部署 Kubernetes 时要避免的 6 个常见陷阱
