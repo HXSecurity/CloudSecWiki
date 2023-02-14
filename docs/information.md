@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230214
+
+- 向左转移安全性：Amazon Prime CISO Brian Lozada 的建议
+
+https://blog.lightspin.io/shifting-security-left-advice-from-amazon-prime-ciso-brian-lozada
+
+- AWS 容器管理指南
+
+https://www.trendmicro.com/en_us/devops/23/b/container-management-aws.html
+
+- 2023 年云状态
+
+https://www.wiz.io/blog/the-top-cloud-security-threats-to-be-aware-of-in-2023
+
+- 云安全需要纵深防御
+
+https://itnext.io/cloud-security-needs-defense-in-depth-d6de310248d3
+
+- 如何大规模审核 Amazon S3 存储桶的默认加密配置
+
+https://aws.amazon.com/blogs/storage/how-to-audit-an-amazon-s3-buckets-default-encryption-configuration-at-scale/
+
+
+
 ### 20230213
 
 - 什么是混合云安全？挑战、优势和最佳实践
