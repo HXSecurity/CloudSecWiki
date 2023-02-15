@@ -8,6 +8,30 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230215
+
+- 云原生安全2.X 进化论系列 | 揭秘云原生安全2.X的五大特征（2）
+
+https://www.anquanke.com/post/id/286238
+
+- 为什么在 Kubernetes 中调试应用的体验如此糟糕？
+
+https://mp.weixin.qq.com/s/maI6Nu6r431LtGzrgq_6rg
+
+- 容器逃逸手法实践-危险配置与挂载篇
+
+http://blog.nsfocus.net/docker/
+
+- 浅谈云安全的技术实践与格局变迁 | FreeBuf咨询洞察
+
+https://mp.weixin.qq.com/s/gha8vJl1IhCz2YBrDmGuSQ
+
+- 10 个优化技巧，减少 Docker 镜像大小
+
+https://mp.weixin.qq.com/s/EPb_oZ8uOO_XbJ__FaUbbQ
+
+
+
 ### 20230214
 
 - 向左转移安全性：Amazon Prime CISO Brian Lozada 的建议
