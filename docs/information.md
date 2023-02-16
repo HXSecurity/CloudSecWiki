@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230216
+
+- K8s API Server未授权命令执行
+
+https://mp.weixin.qq.com/s/8YSHMWR4duYorN-MrVMjmw
+
+- 加强云数据库的十个技巧
+
+https://www.datasciencecentral.com/ten-tips-to-strengthen-your-cloud-database/
+
+- 无服务器中的 SSO 身份验证
+
+https://containerjournal.com/features/sso-authentication-in-serverless/
+
+- 云监控之旅
+
+https://sysdig.com/blog/cloud-monitoring-journey/
+
+- 滥用 Azure 应用服务托管身份分配
+
+https://posts.specterops.io/abusing-azure-app-service-managed-identity-assignments-c3adefccff95
+
+
 ### 20230215
 
 - 云原生安全2.X 进化论系列 | 揭秘云原生安全2.X的五大特征（2）
