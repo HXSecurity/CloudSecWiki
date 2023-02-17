@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230217
+
+- 加强云安全防御的渗透测试指南
+
+https://www.thesslstore.com/blog/a-pentesters-guide-to-strengthening-your-cloud-security-defenses/
+
+- 感知云安全与现实：测试你自己
+
+https://ermetic.com/blog/cloud/perceived-cloud-security-vs-reality-test-yourself/
+
+- 技术咨询 – Azure B2C – 加密滥用和帐户泄露
+
+https://www.praetorian.com/blog/azure-b2c-crypto-misuse-and-account-compromise/
+
+- k8s 的超级机器人
+
+https://www.cncf.io/blog/2023/02/14/super-bot-for-kubernetes-clusters/
+
+- 2023 年需要关注的 3 大云安全趋势
+
+https://www.lacework.com/blog/3-cloud-security-trends-to-pay-attention-to-in-2023/
+
+
 ### 20230216
 
 - K8s API Server未授权命令执行
