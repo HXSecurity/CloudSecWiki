@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230220
+
+- 多云战略有吸引力，但安全信心滞后
+
+https://securityboulevard.com/2023/02/multi-cloud-strategy-is-appealing-but-security-confidence-lags/
+
+- 谷歌发布云基础设施可靠性指南，帮助消费者做出正确决策
+
+https://www.infoq.cn/article/Rxk0KGocM5ygWH8mS90v
+
+- 100% 可见性在云资产管理中的重要性
+
+https://blog.lightspin.io/the-importance-of-100-visibility-in-cloud-asset-management
+
+- 在运行时保护 AWS Fargate 容器
+
+https://blog.aquasec.com/protecting-aws-fargate-containers-at-runtime
+
+- 如何阻止云中的DDoS攻击
+
+https://www.freebuf.com/articles/neopoints/357456.html
+
+
 ### 20230217
 
 - 加强云安全防御的渗透测试指南
