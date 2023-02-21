@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230221
+
+- 云监控之旅
+
+https://mp.weixin.qq.com/s/YeV7JH2CqNV_8sa_5_mvJA
+
+- 云原生场景下，如何缓减容器隔离漏洞，监控内核关键路径？
+
+https://mp.weixin.qq.com/s/9-yMJ3C2aUNyNdZ1etPKtw
+
+- 使用 Pixie 应对 Kubernetes 可观察性挑战
+
+https://mp.weixin.qq.com/s/78WjqXak9f536KoAhvf-qA
+
+- 2023 年 11 大开源云安全工具
+
+https://cybersecuritynews.com/opensource-cloud-security-tools/
+
+- 2023年云安全三大挑战与趋势预测
+
+https://www.secrss.com/articles/52055
+
+
 ### 20230220
 
 - 多云战略有吸引力，但安全信心滞后
