@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230223
+
+- 再见 Sidecar：eBPF 能抢过 Istio 服务网格的风头吗？
+
+https://www.infoq.cn/article/stCMjmTuODmzZmGzaNUr
+
+- 谷歌发布云基础设施可靠性指南，帮助消费者做出正确决策
+
+https://www.infoq.cn/article/Rxk0KGocM5ygWH8mS90v
+
+- 10 多个开源 Kubernetes 原生可观察性工具
+
+https://containerjournal.com/features/10-open-source-kubernetes-native-observability-tools/
+
+- OWASP Kubernetes Top 10
+
+https://sysdig.com/blog/top-owasp-kubernetes/
+
+- CloudNativeSecurityCon 2023 的笔记
+
+https://www.cncf.io/blog/2023/02/20/notes-from-cloudnativesecuritycon-2023/
+
+
 ### 20230221
 
 - 云监控之旅
