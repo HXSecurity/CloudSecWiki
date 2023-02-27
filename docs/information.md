@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230227
+
+- 利用 CVE-2021-3490 进行容器逃逸
+
+https://www.crowdstrike.com/blog/exploiting-cve-2021-3490-for-container-escapes/
+
+- 2022 Kubernetes CVE 问题盘点
+
+https://mp.weixin.qq.com/s/jt37Dk0MxCTaL1pH15NHRA
+
+- 排障有用 | Docker 容器和 Kubernetes 退出码中文指南
+
+https://mp.weixin.qq.com/s/t8IZFAccT4YsV7fz3Z0w0A
+
+- 云原生环境中的网络安全
+
+https://containerjournal.com/features/cybersecurity-in-cloud-native-environments/
+
+- 今天有多少 Kubernetes 集群？
+
+https://containerjournal.com/topics/how-many-kubernetes-clusters-exist-today/
+
+
 ### 20230223
 
 - 再见 Sidecar：eBPF 能抢过 Istio 服务网格的风头吗？
