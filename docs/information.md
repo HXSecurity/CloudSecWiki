@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 2 月
 
+### 20230228
+
+- 云安全事件响应的难点、流程与最佳实践
+
+https://www.wangan.com/p/11v72106611f9280
+
+- 云安全面临的 12个问题：风险、威胁和挑战
+
+https://www.4hou.com/posts/EQY0
+
+- 泄露的云计算凭据：来自野外的示例研究
+
+https://mp.weixin.qq.com/s/Y4TOr8AEedANMFmXn5JnHg
+
+- AWS EC2 IMDS – 您需要了解的内容
+
+https://ermetic.com/blog/aws/aws-ec2-imds-what-you-need-to-know/
+
+- 微软宣布加入 FinOps 基金会，成为管理委员会成员
+
+https://www.infoq.cn/news/LB98LmXxrTfLwrjo21cL
+
+
 ### 20230227
 
 - 利用 CVE-2021-3490 进行容器逃逸
