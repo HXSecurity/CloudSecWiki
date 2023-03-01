@@ -6,6 +6,31 @@ title: 每日云安全技术资讯
 
 # 2023 年
 
+## 3 月
+
+### 20230301
+
+- 5个风险点，缓解云安全事件的关键
+
+https://mp.weixin.qq.com/s/mjrWb03mzma14NTdskLUzQ
+
+- 云原生应用中的责任共担原则
+
+https://containerjournal.com/features/principle-of-shared-responsibility-in-cloud-native-applications/
+
+- SCARLETEEL：利用 Terraform、Kubernetes 和 AWS 进行数据窃取的操作
+
+https://sysdig.com/blog/cloud-breach-terraform-data-theft/
+
+- 使 Falco 的 Cloudtrail 规则与 MITRE ATT&CK 保持一致
+
+https://sysdig.com/blog/falco-cloudtrail-rules-mitre-attck/
+
+- Orca Security 为云平台添加数据安全功能
+
+https://securityboulevard.com/2023/02/orca-security-adds-data-security-capabilities-to-cloud-platform/
+
+
 ## 2 月
 
 ### 20230228
