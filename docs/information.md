@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 3 月
 
+### 20230302
+
+- SCARLETEEL：利用Terraform、Kubernetes和AWS窃取数据的黑客活动
+
+https://www.4hou.com/posts/r7PK
+
+- 新的云威胁！黑客利用云技术窃取数据和源代码
+
+https://mp.weixin.qq.com/s/3Oxo1rY7ORequY0YvLDSMA
+
+- Cert-Manager 实现 K8s 服务域名证书自动化续签
+
+https://mp.weixin.qq.com/s/PjvqZZzRLb2n8iBy7__ZZg
+
+- 预告 | KubeEdge EdgeMesh 特性源码解析
+
+https://mp.weixin.qq.com/s/SmckS1bR6XQSSRCy_pKexw
+
+- 高级容器安全：自动基准测试、渗透测试、XDR 等
+
+https://containerjournal.com/features/advanced-container-security-auto-benchmarking-pentesting-xdr-and-more/
+
+
 ### 20230301
 
 - 5个风险点，缓解云安全事件的关键
