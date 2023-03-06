@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 3 月
 
+### 20230306
+
+- 3 个用于管理紧凑型容器的小型化 Kubernetes 发行版
+
+https://containerjournal.com/features/3-miniaturized-kubernetes-distros-to-manage-compact-containers/
+
+- 数百万美元浪费在 Kubernetes 资源上
+
+https://sysdig.com/blog/millions-wasted-kubernetes/
+
+- 使用自定义指标进行监控
+
+https://sysdig.com/blog/monitoring-custom-metrics/
+
+- 适用于云和容器的 MITRE ATT&CK 和 D3FEND
+
+https://sysdig.com/blog/mitre-attck-and-d3fend-for-cloud-and-containers/
+
+- containerd 完成模糊审计
+
+https://www.cncf.io/blog/2023/03/02/containerd-completes-fuzzing-audit/
+
+
 ### 20230302
 
 - SCARLETEEL：利用Terraform、Kubernetes和AWS窃取数据的黑客活动
