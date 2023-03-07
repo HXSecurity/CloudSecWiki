@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 3 月
 
+### 20230307
+
+- 安全团队使用 AWS 的 5 个战术技巧
+
+https://securityboulevard.com/2023/03/5-tactical-tips-for-security-teams-using-aws/
+
+- 像地铁一样左移
+
+https://www.cncf.io/blog/2023/03/03/shift-left-like-subway/
+
+- 利用高性能系统的平台工程和 DevOps 协同作用
+
+https://www.cncf.io/blog/2023/03/06/leveraging-platform-engineering-and-devops-synergy-for-high-performance-systems/
+
+- 新的 ESG 调查揭示了 CSPM 和 CIEM 的主要趋势
+
+https://www.lacework.com/blog/new-esg-survey-reveals-key-cspm-and-ciem-trends/
+
+- 云原生2.0网关API标准发展趋势
+
+https://mp.weixin.qq.com/s/T7gaRolxtQULz2qY04Dp4A
+
+
 ### 20230306
 
 - 3 个用于管理紧凑型容器的小型化 Kubernetes 发行版
