@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 3 月
 
+### 20230308
+
+- 云原生架构会让应用程序更可靠吗？
+
+https://containerjournal.com/features/do-cloud-native-architectures-make-apps-more-reliable/
+
+- 使用 Graftcp 绕过网络检测
+
+https://sysdig.com/blog/bypassing-network-detection-with-graftcp/
+
+- 我对 Kyverno 的第一次体验
+
+https://www.cncf.io/blog/2023/03/07/my-first-experience-with-kyverno-%f0%9f%a4%af%f0%9f%a4%a9/
+
+- 介绍 AWS 上的 SecDataOps 和漏洞管理完整指南
+
+https://blog.lightspin.io/guide-secdataops-vulnerability-management-aws
+
+- 关于存储桶上的恶意软件您需要了解的五件事
+
+https://orca.security/resources/blog/the-risks-of-malware-in-storage-buckets/
+
+
 ### 20230307
 
 - 安全团队使用 AWS 的 5 个战术技巧
