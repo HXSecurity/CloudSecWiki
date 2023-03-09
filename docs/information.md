@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 3 月
 
+### 20230309
+
+- PerfectScale 推出人工智能平台 SaaS 版本以控制 K8s 成本
+
+https://containerjournal.com/features/perfectscale-unfurls-saas-edition-of-ai-platform-to-control-k8s-costs/
+
+- 管理云合规性和安全态势
+
+https://ermetic.com/blog/cloud/managing-cloud-compliance-and-security-posture/
+
+- 了解 KMS 与 AWS 上的 Secrets Manager 之间的集成
+
+https://blog.lightspin.io/understanding-the-integration-between-kms-and-secrets-manager-on-aws
+
+- 女性应该重新学习网络安全工作的 3 个原因
+
+https://securityboulevard.com/2023/03/3-reasons-women-should-reskill-to-work-in-cybersecurity/
+
+- 介绍 AWS 上的 SecDataOps 和漏洞管理完整指南
+
+https://blog.lightspin.io/guide-secdataops-vulnerability-management-aws
+
+
 ### 20230308
 
 - 云原生架构会让应用程序更可靠吗？
