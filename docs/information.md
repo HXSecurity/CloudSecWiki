@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 3 月
 
+### 20230310
+
+- 使用 AWS VPC 终端节点的新激励措施
+
+https://ermetic.com/blog/aws/a-new-incentive-for-using-aws-vpc-endpoints/
+
+- The Edge Native 白皮书简介
+
+https://www.cncf.io/blog/2023/03/09/introducing-the-edge-native-whitepaper/
+
+- 检测正在进行的 AWS 攻击的早期迹象
+
+https://www.lacework.com/blog/detect-early-signs-of-in-progress-aws-attacks/
+
+- 认识 IAM APE：一种用于简化 AWS IAM 策略管理的开源工具
+
+https://orca.security/resources/blog/iam-ape-iam-aws-policy-evaluator/
+
+- 关于跨账户和跨云供应商攻击你所不知道的一切
+
+https://orca.security/resources/blog/cross-account-cross-provider-attack-paths/
+
+
 ### 20230309
 
 - PerfectScale 推出人工智能平台 SaaS 版本以控制 K8s 成本
