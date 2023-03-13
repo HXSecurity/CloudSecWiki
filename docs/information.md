@@ -8,6 +8,29 @@ title: 每日云安全技术资讯
 
 ## 3 月
 
+### 20230313
+
+- AWS CloudFront 未配置默认根对象的风险简单分析
+
+https://mp.weixin.qq.com/s/tu3FKfBeVZ0PVJNT_MKadg
+
+- “法医”容器分析
+
+https://kubernetes.io/blog/2023/03/10/forensic-container-analysis/
+
+- 在大规模云部署中采用 FinOps
+
+https://containerjournal.com/features/adopting-finops-in-a-large-scale-cloud-deployment/
+
+- 使用新的开源工具自动将 Grafana 仪表板从 InfluxQL 转换为 PromQL
+
+https://www.cncf.io/blog/2023/03/10/open-source-metrics-monitoring-with-prometheus-influxdb-and-grafana/
+
+- 从 Pod 安全策略到 Pod 安全标准——迁移指南
+
+https://www.wiz.io/blog/from-pod-security-policies-to-pod-security-standards-a-migration-guide
+
+
 ### 20230310
 
 - 使用 AWS VPC 终端节点的新激励措施
